@@ -16,7 +16,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--cif-dir",
         type=Path,
-        default=Path("processed"),
+        default=Path("cif"),
         help="Root directory with CIF files (recursive scan).",
     )
     parser.add_argument(
