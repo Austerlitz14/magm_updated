@@ -26,6 +26,12 @@ def parse_args() -> argparse.Namespace:
         help="Output CSV with detailed diagnostics.",
     )
     parser.add_argument(
+        "--compact-out",
+        type=Path,
+        default=Path("prediction_errors_dxmag_compact_report.csv"),
+        help="Compact aggregated report by source/category.",
+    )
+    parser.add_argument(
         "--max-preview-lines",
         type=int,
         default=12,
@@ -202,10 +208,36 @@ def main() -> None:
         out["error_hint"] = hint
         rows.append(out)
 
-    pd.DataFrame(rows).to_csv(args.out_csv, index=False)
+    out_df = pd.DataFrame(rows)
+    out_df.to_csv(args.out_csv, index=False)
+
+    # Compact report for quick, human-friendly inspection.
+    src = (
+        out_df["file"]
+        .fillna("")
+        .astype(str)
+        .str.replace("\\\\", "/", regex=True)
+        .str.split("/")
+        .str[0]
+    )
+    out_df["source"] = src.replace("", "unknown")
+    compact = (
+        out_df.groupby(["source", "error_category"], as_index=False)
+        .agg(count=("error_category", "size"))
+        .sort_values("count", ascending=False)
+        .reset_index(drop=True)
+    )
+    total = int(compact["count"].sum()) if not compact.empty else 0
+    if total > 0:
+        compact["share_%"] = (compact["count"] / total * 100).round(2)
+    else:
+        compact["share_%"] = 0.0
+    compact.to_csv(args.compact_out, index=False)
+
     print("Done.")
     print(f"Input errors: {args.errors_csv}")
     print(f"Detailed report: {args.out_csv}")
+    print(f"Compact report: {args.compact_out}")
     print(f"Rows: {len(rows)}")
 
 

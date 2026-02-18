@@ -30,5 +30,9 @@ gitGraph
    checkout clear_dxmag
    commit id: "7ba035e" tag: "clear_dxmag minimal setup"
    commit id: "2586c2a" tag: "origin/clear_dxmag"
-   commit id: "6a5441c" tag: "HEAD clear_dxmag"
+   commit id: "6a5441c" tag: "Add report"
+   commit id: "55b8acd" tag: "clear_dxmag + Update_2.0 base"
+   branch Update_2.0
+   checkout Update_2.0
+   commit id: "Update_2.0" tag: "current work"
 ```
