@@ -61,6 +61,17 @@ def main() -> None:
     for cif_path in tqdm(cif_files, desc="Read CIF + features"):
         rel_path = str(cif_path.relative_to(args.cif_dir))
         try:
+            file_size = cif_path.stat().st_size
+            if file_size == 0:
+                err_rows.append(
+                    {
+                        "file": rel_path,
+                        "full_path": str(cif_path),
+                        "error": "Empty CIF file (0 bytes)",
+                    }
+                )
+                continue
+
             struct = Structure.from_file(cif_path)
             formula = struct.composition.reduced_formula
             feat = featurizer.featurize(struct.composition)
