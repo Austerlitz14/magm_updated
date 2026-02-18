@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       YRhGdRh
+_chemical_formula_sum              "Y1 Rh2 Gd1"
+_cell_length_a       3.456438283781216
+_cell_length_b       3.458525821691249
+_cell_length_c       7.024919509887695
+_cell_angle_alpha    89.98235329550019
+_cell_angle_beta     89.97051657636084
+_cell_angle_gamma    89.97697110758803
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.4925979077816009  0.01855294220149517  0.6334860920906067  1.0000
+  Rh  Rh1       1.0  0.993230640888214  0.518712043762207  0.8829551935195922  1.0000
+  Gd  Gd1       1.0  0.4930266439914703  0.01859327405691147  0.13356462121009827  1.0000
+  Rh  Rh2       1.0  0.9931494593620299  0.518822193145752  0.38373842835426325  1.0000

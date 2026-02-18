@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_SrCeMg2AlNi2MoN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.56688356
+_cell_length_b   4.83761501
+_cell_length_c   5.19223356
+_cell_angle_alpha   97.97677612
+_cell_angle_beta   88.29235077
+_cell_angle_gamma   88.95220184
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCeMg2AlNi2MoN3
+_chemical_formula_sum   'Sr1 Ce1 Mg2 Al1 Ni2 Mo1 N3'
+_cell_volume   113.52162124
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.12143087  0.73058224  0.90761453  1
+  Ni  Ni1  1  0.62348640  0.06792194  0.25510404  1
+  Mg  Mg2  1  0.62206203  0.60015750  0.36719945  1
+  Ni  Ni3  1  0.12464022  0.26876596  0.08159894  1
+  Mg  Mg4  1  0.62608469  0.21271519  0.80174130  1
+  Al  Al5  1  0.12243338  0.12572427  0.48645589  1
+  N  N6  1  0.32041034  0.38533610  0.58585018  1
+  N  N7  1  0.83249390  0.89205301  0.59361732  1
+  Sr  Sr8  1  0.31306815  0.88597101  0.25320971  1
+  Mo  Mo9  1  0.82514834  0.38791087  0.70697385  1
+  N  N10  1  0.81814486  0.38622251  0.03560293  1

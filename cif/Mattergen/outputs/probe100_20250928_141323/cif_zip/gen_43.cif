@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NbFe3RhFe
+_chemical_formula_sum              "Nb1 Fe4 Rh1"
+_cell_length_a       4.786975113204797
+_cell_length_b       4.786645380186585
+_cell_length_c       4.786584377288818
+_cell_angle_alpha    59.973610442818945
+_cell_angle_beta     59.95886983029032
+_cell_angle_gamma    59.96767349512409
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.11005792021751404  0.721424400806427  0.9698438048362732  1.0000
+  Fe  Fe1       1.0  0.7351795434951783  0.846629798412323  0.5949295163154601  1.0000
+  Fe  Fe2       1.0  0.7350309491157532  0.3463282585144043  0.09561728686094284  1.0000
+  Fe  Fe3       1.0  0.2357783168554306  0.3463817834854126  0.5948496460914612  1.0000
+  Rh  Rh1       1.0  0.3603943586349487  0.9712368845939636  0.2202194780111313  1.0000
+  Fe  Fe4       1.0  0.7351572513580322  0.3463224172592163  0.5951694250106812  1.0000

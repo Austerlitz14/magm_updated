@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Fe2DyFe3
+_chemical_formula_sum              "Fe5 Dy1"
+_cell_length_a       3.9382298741329302
+_cell_length_b       5.012120186671963
+_cell_length_c       5.0082783699035645
+_cell_angle_alpha    119.96967956693206
+_cell_angle_beta     89.9888283149477
+_cell_angle_gamma    90.01183922218063
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.512662886538937  0.16529657027540653  0.11063987119440559  1.0000
+  Fe  Fe2       1.0  0.012581464648769814  0.49804276239461504  0.27734550852079504  1.0000
+  Dy  Dy1       1.0  0.5123559835079284  0.4980849323975432  0.7775656577363012  1.0000
+  Fe  Fe3       1.0  0.5127112863150765  0.8311632864136549  0.443967639987007  1.0000
+  Fe  Fe4       1.0  0.01256946793609613  0.9980676761447758  0.7774569387061249  1.0000
+  Fe  Fe5       1.0  0.012579345245055783  0.998157382404418  0.277326315087442  1.0000

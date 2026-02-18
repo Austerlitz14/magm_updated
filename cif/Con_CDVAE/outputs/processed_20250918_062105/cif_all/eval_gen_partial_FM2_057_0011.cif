@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CsRb2SrNpSiP2HNO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56064034
+_cell_length_b   5.61206484
+_cell_length_c   5.90620136
+_cell_angle_alpha   87.55007172
+_cell_angle_beta   92.39978027
+_cell_angle_gamma   89.26977539
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsRb2SrNpSiP2HNO12
+_chemical_formula_sum   'Cs1 Rb2 Sr1 Np1 Si1 P2 H1 N1 O12'
+_cell_volume   183.96343159
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.86197597  0.77983469  0.18414199  1
+  N  N1  1  0.01626354  0.29849634  0.16038738  1
+  O  O2  1  0.32403904  0.15096383  0.48340780  1
+  H  H3  1  0.87601465  0.27781269  0.61103380  1
+  P  P4  1  0.98145044  0.01973565  0.05054854  1
+  Si  Si5  1  0.82320172  0.47503516  0.26437870  1
+  O  O6  1  0.87697774  0.05207188  0.81907445  1
+  O  O7  1  0.53448600  0.39756924  0.17317998  1
+  O  O8  1  0.84727842  0.44741589  0.52978611  1
+  P  P9  1  0.30928034  0.22266953  0.25350457  1
+  Cs  Cs10  1  0.39565456  0.67992902  0.71895981  1
+  O  O11  1  0.27844968  0.99151427  0.08781416  1
+  Np  Np12  1  0.52901077  0.57365972  0.66741353  1
+  O  O13  1  0.53440553  0.35156599  0.88237834  1
+  O  O14  1  0.53358477  0.79675663  0.44812933  1
+  Rb  Rb15  1  0.02780810  0.07096067  0.66324198  1
+  O  O16  1  0.53208345  0.79190338  0.87794971  1
+  O  O17  1  0.03431252  0.57196301  0.66496766  1
+  Rb  Rb18  1  0.02818488  0.57185811  0.16333145  1
+  O  O19  1  0.02995703  0.06736036  0.16052441  1
+  O  O20  1  0.53435606  0.34701806  0.45017046  1
+  Sr  Sr21  1  0.53394341  0.07104462  0.16713454  1

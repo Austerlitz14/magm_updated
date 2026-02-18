@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Pm2Pr3DyZnIn7SiNi9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18581629
+_cell_length_b   6.50424290
+_cell_length_c   9.68808079
+_cell_angle_alpha   83.50894928
+_cell_angle_beta   89.65223694
+_cell_angle_gamma   86.82539368
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pm2Pr3DyZnIn7SiNi9
+_chemical_formula_sum   'Pr3 Pm2 Dy1 Zn1 In7 Si1 Ni9'
+_cell_volume   386.69765614
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.60885429  0.06088744  0.75474876  1
+  Pr  Pr1  1  0.92245853  0.56080645  0.95608366  1
+  In  In2  1  0.08354199  0.32944566  0.24756764  1
+  Ni  Ni3  1  0.69663584  0.59817958  0.27029586  1
+  In  In4  1  0.11176077  0.81147486  0.63703996  1
+  Ni  Ni5  1  0.92596090  0.09720195  0.01382971  1
+  Ni  Ni6  1  0.27323744  0.11310833  0.48273233  1
+  In  In7  1  0.64194310  0.84521341  0.46603429  1
+  Ni  Ni8  1  0.38697696  0.55793428  0.08574745  1
+  In  In9  1  0.58734757  0.88830566  0.07144571  1
+  In  In10  1  0.43507999  0.54961032  0.82760519  1
+  In  In11  1  0.47206268  0.44174036  0.49181768  1
+  In  In12  1  0.09412161  0.24351022  0.73515677  1
+  Ni  Ni13  1  0.29008332  0.22546807  0.00115946  1
+  Ni  Ni14  1  0.21758786  0.88867521  0.91457486  1
+  Dy  Dy15  1  0.59448159  0.21743324  0.24142173  1
+  Ni  Ni16  1  0.76096684  0.53976756  0.66998345  1
+  Ni  Ni17  1  0.86405575  0.16041200  0.49492654  1
+  Ni  Ni18  1  0.99996513  0.50527436  0.47953248  1
+  Pr  Pr19  1  0.13098262  0.83411127  0.27028427  1
+  Zn  Zn20  1  0.94901782  0.08155090  0.27468300  1
+  Pm  Pm21  1  0.69496566  0.83362162  0.02526975  1
+  Si  Si22  1  0.44658059  0.58368593  0.77212107  1
+  Pm  Pm23  1  0.19688144  0.32724667  0.52332735  1

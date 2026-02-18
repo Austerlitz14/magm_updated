@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_SrEuNb4Al4C2S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38516474
+_cell_length_b   5.57256317
+_cell_length_c   5.95035648
+_cell_angle_alpha   119.17161560
+_cell_angle_beta   98.23462677
+_cell_angle_gamma   89.29566956
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrEuNb4Al4C2S
+_chemical_formula_sum   'Sr1 Eu1 Nb4 Al4 C2 S1'
+_cell_volume   125.37601495
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.33163416  0.23149917  0.58420593  1
+  Nb  Nb1  1  0.83177102  0.98055089  0.83537281  1
+  Nb  Nb2  1  0.33305970  0.73182613  0.08441424  1
+  Al  Al3  1  0.33559284  0.23040704  0.08551033  1
+  Al  Al4  1  0.32867801  0.73068660  0.58714271  1
+  Nb  Nb5  1  0.83878815  0.47733375  0.34004626  1
+  Al  Al6  1  0.83826327  0.98487252  0.33837482  1
+  Al  Al7  1  0.83659869  0.48235148  0.83582342  1
+  Sr  Sr8  1  0.62020910  0.65627253  0.77792966  1
+  Eu  Eu9  1  0.12462564  0.16103405  0.27892253  1
+  C  C10  1  0.21998031  0.25759968  0.78208935  1
+  S  S11  1  0.62673831  0.65951997  0.28009260  1
+  C  C12  1  0.02304953  0.07285152  0.78059947  1

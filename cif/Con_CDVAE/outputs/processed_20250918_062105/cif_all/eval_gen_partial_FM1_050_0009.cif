@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_RbBa2Ca2In2CuSn2Ge2Pt3I7N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24218369
+_cell_length_b   7.41865110
+_cell_length_c   8.18199253
+_cell_angle_alpha   84.23004150
+_cell_angle_beta   87.34596252
+_cell_angle_gamma   88.80556488
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbBa2Ca2In2CuSn2Ge2Pt3I7N
+_chemical_formula_sum   'Rb1 Ba2 Ca2 In2 Cu1 Sn2 Ge2 Pt3 I7 N1'
+_cell_volume   436.84152139
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.36950743  0.68118906  0.50092810  1
+  Rb  Rb1  1  0.95116079  0.60346067  0.98791391  1
+  I  I2  1  0.03903614  0.39895406  0.50349832  1
+  I  I3  1  0.18193451  0.94602722  0.71949565  1
+  I  I4  1  0.52406335  0.44963229  0.76617885  1
+  I  I5  1  0.15123528  0.90166247  0.24669328  1
+  Ca  Ca6  1  0.28714138  0.20142828  0.99697816  1
+  In  In7  1  0.86318737  0.19318078  0.21643275  1
+  I  I8  1  0.51401550  0.40788648  0.26063970  1
+  In  In9  1  0.85921979  0.19296302  0.79575706  1
+  I  I10  1  0.63943857  0.95630616  0.01354607  1
+  N  N11  1  0.99882007  0.28328219  0.99840182  1
+  I  I12  1  0.66237622  0.98160726  0.50394154  1
+  Cu  Cu13  1  0.35343683  0.18468426  0.49641436  1
+  Pt  Pt14  1  0.59900957  0.52101493  0.87179172  1
+  Ge  Ge15  1  0.48691258  0.89139241  0.63896954  1
+  Pt  Pt16  1  0.82179755  0.02943375  0.39010945  1
+  Sn  Sn17  1  0.92782360  0.12211285  0.67617404  1
+  Ba  Ba18  1  0.21673998  0.50840431  0.61886442  1
+  Sn  Sn19  1  0.10577416  0.70217586  0.11095876  1
+  Ba  Ba20  1  0.44058451  0.03155306  0.14010549  1
+  Pt  Pt21  1  0.79518932  0.53124899  0.42467606  1
+  Ge  Ge22  1  0.78218621  0.39440003  0.13739654  1

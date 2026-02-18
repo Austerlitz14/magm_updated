@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OMnCrCuO2CuO
+_chemical_formula_sum              "O4 Mn1 Cr1 Cu2"
+_cell_length_a       3.0886620904819218
+_cell_length_b       5.332884886105765
+_cell_length_c       5.989211082458496
+_cell_angle_alpha    108.72387075358219
+_cell_angle_beta     92.44532634378534
+_cell_angle_gamma    87.68638511425424
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.9901754871839745  0.829164565348579  0.27459526052589245  1.0000
+  Mn  Mn1       1.0  0.9732792391678428  0.43180844258751033  0.09808719113227841  1.0000
+  Cr  Cr1       1.0  0.47197598136061325  0.9314891108702672  0.0982980137073989  1.0000
+  Cu  Cu1       1.0  0.9731638422665447  0.9311446539868458  0.5980763438961334  1.0000
+  O   O2        1.0  0.9553673270560501  0.033582545596209754  0.922224580511471  1.0000
+  O   O3        1.0  0.44523870845317665  0.31961229489029247  0.2798441652024454  1.0000
+  Cu  Cu2       1.0  0.4735747267777638  0.43002477336456724  0.5986191627386442  1.0000
+  O   O4        1.0  0.5007667536824653  0.540933727774992  0.918418824298107  1.0000

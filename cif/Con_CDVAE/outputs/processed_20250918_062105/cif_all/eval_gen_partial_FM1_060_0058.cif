@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_ErUNb9As4Ir13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.87400484
+_cell_length_b   8.16004181
+_cell_length_c   7.36850452
+_cell_angle_alpha   63.51809311
+_cell_angle_beta   62.60816956
+_cell_angle_gamma   60.35040283
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErUNb9As4Ir13
+_chemical_formula_sum   'Er1 U1 Nb9 As4 Ir13'
+_cell_volume   350.39444756
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ir  Ir0  1  0.14225051  0.23797373  0.47990340  1
+  Ir  Ir1  1  0.36025780  0.13181295  0.03278080  1
+  Ir  Ir2  1  0.91912776  0.34883869  0.92173696  1
+  Nb  Nb3  1  0.53151834  0.29778445  0.20048898  1
+  Ir  Ir4  1  0.69651699  0.46325764  0.36659956  1
+  Nb  Nb5  1  0.63795054  0.74243045  0.97957963  1
+  Nb  Nb6  1  0.19271374  0.96695870  0.86809784  1
+  Ir  Ir7  1  0.58055055  0.02216574  0.58794504  1
+  Nb  Nb8  1  0.74803048  0.18454909  0.75597227  1
+  Nb  Nb9  1  0.30987561  0.40470928  0.64194202  1
+  Nb  Nb10  1  0.08362162  0.52016288  0.08713406  1
+  Ir  Ir11  1  0.80813432  0.90924507  0.14055580  1
+  Nb  Nb12  1  0.86068648  0.63090551  0.53367674  1
+  Nb  Nb13  1  0.97350824  0.07372029  0.31412244  1
+  Ir  Ir14  1  0.02581578  0.80058134  0.70278776  1
+  Nb  Nb15  1  0.41853285  0.85264498  0.42225611  1
+  Ir  Ir16  1  0.47111362  0.57836789  0.80834287  1
+  Ir  Ir17  1  0.25268134  0.68386269  0.25469422  1
+  Er  Er18  1  0.41713956  0.90590334  0.70877969  1
+  As  As19  1  0.79410470  0.59662288  0.64989793  1
+  U  U20  1  0.85258204  0.55471087  0.30246061  1
+  Ir  Ir21  1  0.51410848  0.93451196  0.06512031  1
+  Ir  Ir22  1  0.97907925  0.17235953  0.61810178  1
+  As  As23  1  0.31191906  0.37495047  0.92015862  1
+  Ir  Ir24  1  0.31076920  0.30926919  0.42673948  1
+  As  As25  1  0.07930815  0.10895737  0.12877743  1
+  As  As26  1  0.50509566  0.88293868  0.36602813  1
+  Ir  Ir27  1  0.86713094  0.55511224  0.94219875  1

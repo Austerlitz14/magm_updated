@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2Li2GdVBiSbAsO15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43680239
+_cell_length_b   5.52680492
+_cell_length_c   5.64594841
+_cell_angle_alpha   86.25416565
+_cell_angle_beta   94.17089081
+_cell_angle_gamma   89.29873657
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Li2GdVBiSbAsO15
+_chemical_formula_sum   'Na2 Li2 Gd1 V1 Bi1 Sb1 As1 O15'
+_cell_volume   168.81489921
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.59502083  0.22228675  0.22801694  1
+  O  O1  1  0.55900210  0.60367233  0.82602108  1
+  O  O2  1  0.05345761  0.75751263  0.64159954  1
+  O  O3  1  0.59958673  0.10187527  0.72680700  1
+  O  O4  1  0.58631778  0.77488124  0.31316394  1
+  O  O5  1  0.06254349  0.21863683  0.71264613  1
+  O  O6  1  0.09909458  0.58831036  0.12332786  1
+  Sb  Sb7  1  0.82975298  0.00262793  0.47053558  1
+  O  O8  1  0.05030902  0.08491828  0.21463922  1
+  Bi  Bi9  1  0.83416456  0.36499438  0.96291065  1
+  Gd  Gd10  1  0.32865247  0.90064371  0.97448403  1
+  Na  Na11  1  0.32795680  0.45119646  0.47224811  1
+  O  O12  1  0.48018336  0.92133689  0.86909938  1
+  O  O13  1  0.14806910  0.03869157  0.22979142  1
+  O  O14  1  0.25623488  0.67887014  0.44130227  1
+  O  O15  1  0.33267540  0.27154928  0.65712595  1
+  V  V16  1  0.43494114  0.94662189  0.66347551  1
+  O  O17  1  0.86861163  0.91595161  0.65002131  1
+  Na  Na18  1  0.77512908  0.33423954  0.42553535  1
+  O  O19  1  0.63388681  0.59855753  0.19506204  1
+  Li  Li20  1  0.48653758  0.53306264  0.91495466  1
+  As  As21  1  0.13479403  0.70208967  0.21220094  1
+  O  O22  1  0.03055766  0.47475713  0.98555738  1
+  Li  Li23  1  0.03183673  0.08159487  0.97944623  1

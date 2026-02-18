@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Li2Ca2CeCoCuTeH(ClO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01809263
+_cell_length_b   7.68844795
+_cell_length_c   7.97883606
+_cell_angle_alpha   86.43423462
+_cell_angle_beta   78.97048187
+_cell_angle_gamma   82.26953888
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Ca2CeCoCuTeH(ClO5)2
+_chemical_formula_sum   'Li2 Ca2 Ce1 Co1 Cu1 Te1 H1 Cl2 O10'
+_cell_volume   239.56912191
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.77630806  0.97917408  0.52622586  1
+  O  O1  1  0.24239853  0.71708846  0.65422934  1
+  O  O2  1  0.04085372  0.52270293  0.94108170  1
+  Cu  Cu3  1  0.73283839  0.44755483  0.18158448  1
+  Te  Te4  1  0.23020253  0.46202108  0.68671501  1
+  Ca  Ca5  1  0.34726569  0.08617775  0.41610992  1
+  O  O6  1  0.43525141  0.38323107  0.41780007  1
+  Cl  Cl7  1  0.41581970  0.74858326  0.23059136  1
+  Ca  Ca8  1  0.07402543  0.81479287  0.98703295  1
+  Li  Li9  1  0.65404481  0.11880542  0.75199372  1
+  O  O10  1  0.19450788  0.22159947  0.71396500  1
+  O  O11  1  0.65103376  0.88615507  0.84525961  1
+  Co  Co12  1  0.74201673  0.78339309  0.65194762  1
+  O  O13  1  0.74693155  0.51466155  0.65395808  1
+  Cl  Cl14  1  0.07704954  0.14755259  0.14011052  1
+  H  H15  1  0.60015756  0.31812629  0.38249728  1
+  Ce  Ce16  1  0.21393603  0.52450216  0.88909537  1
+  Li  Li17  1  0.91522276  0.91544694  0.46907485  1
+  O  O18  1  0.56964880  0.24544366  0.53727347  1
+  O  O19  1  0.73635781  0.54347396  0.17595015  1
+  O  O20  1  0.93022811  0.91316342  0.82584983  1

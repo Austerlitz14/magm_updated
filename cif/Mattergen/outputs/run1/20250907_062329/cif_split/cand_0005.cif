@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GdCoGdAg
+_chemical_formula_sum              "Gd2 Co1 Ag1"
+_cell_length_a       3.486901633312465
+_cell_length_b       3.4882810177687675
+_cell_length_c       7.474384307861328
+_cell_angle_alpha    89.99658740985937
+_cell_angle_beta     89.98550201276288
+_cell_angle_gamma    89.96992234808516
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.8767653702803438  0.762017250735596  0.3285576701587936  1.0000
+  Co  Co1       1.0  0.3768348987880416  0.26192939240107344  0.5500147347134382  1.0000
+  Gd  Gd2       1.0  0.8767042765579541  0.761912284980477  0.7714487310627095  1.0000
+  Ag  Ag1       1.0  0.3766116208972008  0.2620266093528036  0.05019239359202913  1.0000

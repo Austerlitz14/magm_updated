@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr2LuMgIn3Ag2Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50460911
+_cell_length_b   4.54002190
+_cell_length_c   4.56174707
+_cell_angle_alpha   90.67763519
+_cell_angle_beta   91.51206207
+_cell_angle_gamma   90.47198486
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2LuMgIn3Ag2Hg
+_chemical_formula_sum   'Sr2 Lu1 Mg1 In3 Ag2 Hg1'
+_cell_volume   93.24998010
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.27448669  0.45870984  0.61687118  1
+  Ag  Ag1  1  0.77440017  0.95632923  0.61753398  1
+  Lu  Lu2  1  0.77905262  0.45576584  0.12122197  1
+  Ag  Ag3  1  0.27779385  0.95129865  0.12630999  1
+  Sr  Sr4  1  0.88296741  0.64586103  0.99233043  1
+  Sr  Sr5  1  0.38059482  0.90151685  0.74092096  1
+  In  In6  1  0.12891915  0.77635783  0.36691210  1
+  In  In7  1  0.63104576  0.27425933  0.86959630  1
+  Mg  Mg8  1  0.63336790  0.27695277  0.36793932  1
+  In  In9  1  0.13171060  0.27719748  0.37084270  1

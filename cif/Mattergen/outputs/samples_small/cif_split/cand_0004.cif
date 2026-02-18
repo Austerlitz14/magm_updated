@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GdMgCo4
+_chemical_formula_sum              "Gd1 Mg1 Co4"
+_cell_length_a       4.935790637958871
+_cell_length_b       4.932879235344207
+_cell_length_c       4.9308648109436035
+_cell_angle_alpha    60.110770744129105
+_cell_angle_beta     60.12029647779995
+_cell_angle_gamma    60.10420269294437
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.005597698765685342  0.8899180291443425  0.607970357755038  1.0000
+  Mg  Mg1       1.0  0.25477796840345207  0.1395347702704777  0.8577798612042693  1.0000
+  Co  Co1       1.0  0.13060609924937516  0.5146963005043451  0.2329007236056267  1.0000
+  Co  Co2       1.0  0.6301307679606524  0.514582514160441  0.23256300381914619  1.0000
+  Co  Co3       1.0  0.6298667789729423  0.015441511058714908  0.23302677233820904  1.0000
+  Co  Co4       1.0  0.6299298406884489  0.5147356980031094  0.7338150752235408  1.0000

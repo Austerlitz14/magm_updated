@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KSmDy2VSi3Ni4BPHS4I
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70454645
+_cell_length_b   4.97176981
+_cell_length_c   9.50371170
+_cell_angle_alpha   109.89428711
+_cell_angle_beta   106.88323212
+_cell_angle_gamma   88.94688416
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSmDy2VSi3Ni4BPHS4I
+_chemical_formula_sum   'K1 Sm1 Dy2 V1 Si3 Ni4 B1 P1 H1 S4 I1'
+_cell_volume   199.21490948
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.42779285  0.37199369  0.39679775  1
+  S  S1  1  0.14354506  0.67369968  0.83268076  1
+  V  V2  1  0.64462328  0.69366282  0.84071541  1
+  S  S3  1  0.77259690  0.98207080  0.08815408  1
+  S  S4  1  0.62965828  0.17076598  0.80361223  1
+  Sm  Sm5  1  0.23665883  0.29968408  0.01700956  1
+  K  K6  1  0.00248872  0.97964686  0.55360675  1
+  S  S7  1  0.82277721  0.66485304  0.18253593  1
+  Ni  Ni8  1  0.11818281  0.46143174  0.75660980  1
+  P  P9  1  0.10461643  0.35519883  0.36442780  1
+  B  B10  1  0.61009723  0.45982379  0.75510317  1
+  Si  Si11  1  0.11434105  0.07694328  0.63180918  1
+  Dy  Dy12  1  0.61659217  0.21058796  0.00599134  1
+  Dy  Dy13  1  0.61653066  0.71320981  0.50356632  1
+  Ni  Ni14  1  0.10854369  0.95825398  0.25000700  1
+  H  H15  1  0.60804802  0.95640874  0.25332010  1
+  Si  Si16  1  0.10425767  0.84880853  0.86464339  1
+  Si  Si17  1  0.11142019  0.57894874  0.13857162  1
+  Ni  Ni18  1  0.60497403  0.21328475  0.50571632  1
+  Ni  Ni19  1  0.61514050  0.70709163  0.99616992  1

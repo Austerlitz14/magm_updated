@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KRbTm4Ni4PdCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36695766
+_cell_length_b   6.34286737
+_cell_length_c   6.42495251
+_cell_angle_alpha   110.78926086
+_cell_angle_beta   87.15422821
+_cell_angle_gamma   88.01645660
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRbTm4Ni4PdCl5
+_chemical_formula_sum   'Rb1 K1 Tm4 Ni4 Pd1 Cl5'
+_cell_volume   203.90541793
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pd  Pd0  1  0.85062480  0.15926953  0.08877429  1
+  Rb  Rb1  1  0.11452807  0.51062447  0.72816086  1
+  Cl  Cl2  1  0.07423246  0.49270710  0.22474985  1
+  Cl  Cl3  1  0.61319411  0.83090544  0.93143564  1
+  Cl  Cl4  1  0.06183879  0.02652533  0.75060546  1
+  Cl  Cl5  1  0.10137625  0.99143547  0.23852421  1
+  K  K6  1  0.57856411  0.83013874  0.42503133  1
+  Cl  Cl7  1  0.62538558  0.31021991  0.41144180  1
+  Tm  Tm8  1  0.39538020  0.04522881  0.61933666  1
+  Ni  Ni9  1  0.89357030  0.29796940  0.86744666  1
+  Ni  Ni10  1  0.89159167  0.79871351  0.37225267  1
+  Ni  Ni11  1  0.39396554  0.54754770  0.61992133  1
+  Tm  Tm12  1  0.89434397  0.80015737  0.87341571  1
+  Tm  Tm13  1  0.89709288  0.29713193  0.37352347  1
+  Ni  Ni14  1  0.39706284  0.04810709  0.11773930  1
+  Tm  Tm15  1  0.39160663  0.55157143  0.12309708  1

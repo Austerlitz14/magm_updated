@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba2PrEuAlNi3Sn2(Se4S3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.78065205
+_cell_length_b   5.68014860
+_cell_length_c   9.42160988
+_cell_angle_alpha   100.77348328
+_cell_angle_beta   104.18264771
+_cell_angle_gamma   89.80470276
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2PrEuAlNi3Sn2(Se4S3)2
+_chemical_formula_sum   'Ba2 Pr1 Eu1 Al1 Ni3 Sn2 Se8 S6'
+_cell_volume   243.43036546
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.84326553  0.96501136  0.83473700  1
+  Eu  Eu1  1  0.50388980  0.49436471  0.16917387  1
+  S  S2  1  0.37686250  0.74047130  0.90595913  1
+  Sn  Sn3  1  0.12093782  0.01437594  0.39486116  1
+  S  S4  1  0.11984197  0.55374342  0.37985104  1
+  S  S5  1  0.56891203  0.02390815  0.27702129  1
+  Al  Al6  1  0.25133893  0.55299723  0.65161973  1
+  S  S7  1  0.26067796  0.17510419  0.65653676  1
+  S  S8  1  0.74474096  0.64206421  0.63548809  1
+  S  S9  1  0.92688465  0.29234558  0.01250781  1
+  Se  Se10  1  0.12847108  0.56856704  0.90248907  1
+  Se  Se11  1  0.63703835  0.55630457  0.46134424  1
+  Se  Se12  1  0.62992537  0.05827924  0.91105956  1
+  Pr  Pr13  1  0.12902203  0.06017192  0.78122264  1
+  Se  Se14  1  0.63662016  0.05378208  0.64887035  1
+  Ni  Ni15  1  0.63319522  0.56332725  0.93292969  1
+  Se  Se16  1  0.63064426  0.05885560  0.27987069  1
+  Se  Se17  1  0.13175677  0.55816066  0.28065804  1
+  Se  Se18  1  0.13825649  0.55216962  0.66305745  1
+  Ba  Ba19  1  0.13582623  0.05294940  0.45619336  1
+  Ba  Ba20  1  0.13286388  0.04987035  0.10023154  1
+  Ni  Ni21  1  0.62998939  0.55695331  0.27792361  1
+  Ni  Ni22  1  0.63551944  0.55260938  0.62755477  1
+  Se  Se23  1  0.63422573  0.56172377  0.10085507  1

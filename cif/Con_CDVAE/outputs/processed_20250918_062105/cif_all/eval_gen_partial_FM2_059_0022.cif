@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ba3NaLi3ZrCu2AgS5Cl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21172571
+_cell_length_b   6.51615000
+_cell_length_c   6.27702856
+_cell_angle_alpha   68.21436310
+_cell_angle_beta   67.50661469
+_cell_angle_gamma   63.43158722
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3NaLi3ZrCu2AgS5Cl6
+_chemical_formula_sum   'Ba3 Na1 Li3 Zr1 Cu2 Ag1 S5 Cl6'
+_cell_volume   203.71144707
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.71963519  0.29645017  0.91230518  1
+  Zr  Zr1  1  0.69926810  0.55658418  0.13781989  1
+  Li  Li2  1  0.03291094  0.88518268  0.13392192  1
+  Li  Li3  1  0.03778528  0.39128980  0.63042963  1
+  Cl  Cl4  1  0.03304661  0.60907531  0.90780663  1
+  Cl  Cl5  1  0.36242566  0.48175257  0.35739565  1
+  Li  Li6  1  0.37399325  0.21230711  0.13870552  1
+  Cl  Cl7  1  0.01288379  0.16090825  0.37754422  1
+  Ag  Ag8  1  0.70132107  0.05395292  0.63660073  1
+  Cl  Cl9  1  0.70785648  0.78758603  0.36684465  1
+  Cl  Cl10  1  0.37686455  0.96571374  0.90484154  1
+  Na  Na11  1  0.35896850  0.72089142  0.64352280  1
+  Ba  Ba12  1  0.52856457  0.31888619  0.00431411  1
+  Ba  Ba13  1  0.77954251  0.06521148  0.50829744  1
+  Cu  Cu14  1  0.10190166  0.18990423  0.14036793  1
+  Cu  Cu15  1  0.94050795  0.67808759  0.93975949  1
+  S  S16  1  0.47122556  0.40432867  0.31823853  1
+  Ba  Ba17  1  0.36447346  0.60375488  0.61334920  1
+  S  S18  1  0.99197596  0.31050029  0.92464304  1
+  S  S19  1  0.33901861  0.10338678  0.61846644  1
+  S  S20  1  0.90412736  0.66831702  0.69647861  1
+  S  S21  1  0.80320108  0.91281533  0.12867975  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       EuZnHg2
+_chemical_formula_sum              "Eu1 Zn1 Hg2"
+_cell_length_a       5.134563642258763
+_cell_length_b       5.133909409760462
+_cell_length_c       5.137631893157959
+_cell_angle_alpha    59.92307423558572
+_cell_angle_beta     59.89264557640843
+_cell_angle_gamma    59.94498658983347
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.897509633999218  0.8332796104147094  0.5676522261396145  1.0000
+  Zn  Zn1       1.0  0.1474121216731859  0.08299539912213416  0.8178116682745227  1.0000
+  Hg  Hg1       1.0  0.6474685683234914  0.5828701844171976  0.3174436093802261  1.0000
+  Hg  Hg2       1.0  0.3974045817547029  0.33292096968863827  0.0672062259964155  1.0000

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_KSm2TlGePdSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70105314
+_cell_length_b   4.86978340
+_cell_length_c   5.07646370
+_cell_angle_alpha   92.13771057
+_cell_angle_beta   78.68925476
+_cell_angle_gamma   79.86360168
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSm2TlGePdSe2
+_chemical_formula_sum   'K1 Sm2 Tl1 Ge1 Pd1 Se2'
+_cell_volume   111.86923452
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.98481274  0.40035596  0.74794668  1
+  Sm  Sm1  1  0.48294643  0.40315670  0.25363308  1
+  Pd  Pd2  1  0.98616594  0.90933770  0.24681865  1
+  Sm  Sm3  1  0.48864621  0.90546417  0.74803901  1
+  K  K4  1  0.02192396  0.00500821  0.75703490  1
+  Tl  Tl5  1  0.02435886  0.50929064  0.25842828  1
+  Se  Se6  1  0.52069014  0.50774306  0.76030409  1
+  Se  Se7  1  0.51560825  0.00303065  0.26228243  1

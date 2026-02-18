@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AlRhFeRh
+_chemical_formula_sum              "Al1 Rh2 Fe1"
+_cell_length_a       3.0257678083464152
+_cell_length_b       4.24989266236563
+_cell_length_c       4.249572277069092
+_cell_angle_alpha    89.96262088073834
+_cell_angle_beta     89.99665571182997
+_cell_angle_gamma    89.99175163636349
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.8547557012844379  0.551353513857544  0.6394345762949599  1.0000
+  Rh  Rh1       1.0  0.35474511918815677  0.5513871311846705  0.1395459033753961  1.0000
+  Fe  Fe1       1.0  0.8547817474457414  0.05125389178388822  0.13910961206719388  1.0000
+  Rh  Rh2       1.0  0.35473948779915476  0.05140017315806052  0.6393629313566981  1.0000

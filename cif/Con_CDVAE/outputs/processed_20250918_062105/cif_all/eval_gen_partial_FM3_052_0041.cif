@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Rb2NaCaTa2BeGe2BiO15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13158607
+_cell_length_b   4.09404278
+_cell_length_c   10.05824089
+_cell_angle_alpha   89.81070709
+_cell_angle_beta   90.04126740
+_cell_angle_gamma   90.63501740
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2NaCaTa2BeGe2BiO15
+_chemical_formula_sum   'Rb2 Na1 Ca1 Ta2 Be1 Ge2 Bi1 O15'
+_cell_volume   170.12262218
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.80284709  0.57144505  0.64606231  1
+  O  O1  1  0.79875863  0.57535225  0.10214562  1
+  O  O2  1  0.29739583  0.57506049  0.29805726  1
+  Ca  Ca3  1  0.29676688  0.07576737  0.45998698  1
+  Ta  Ta4  1  0.79836643  0.56389457  0.26970458  1
+  O  O5  1  0.29813552  0.57014596  0.61992091  1
+  Bi  Bi6  1  0.80231118  0.07258333  0.96005213  1
+  O  O7  1  0.79951519  0.57474065  0.45958403  1
+  O  O8  1  0.80281764  0.06853778  0.29458582  1
+  O  O9  1  0.30232337  0.07191720  0.96180117  1
+  O  O10  1  0.79852998  0.07479816  0.62492561  1
+  O  O11  1  0.79486245  0.57206011  0.82449651  1
+  O  O12  1  0.30872521  0.79720849  0.00345176  1
+  O  O13  1  0.43110403  0.59012413  0.59058148  1
+  O  O14  1  0.16298772  0.33608389  0.75572753  1
+  Be  Be15  1  0.21739917  0.57129449  0.74235314  1
+  Ge  Ge16  1  0.61323404  0.86506736  0.10033607  1
+  Rb  Rb17  1  0.16897808  0.89884692  0.43471316  1
+  O  O18  1  0.72486758  0.60894072  0.97591245  1
+  Rb  Rb19  1  0.27256280  0.27105775  0.11760623  1
+  O  O20  1  0.96923101  0.61572355  0.61621702  1
+  Na  Na21  1  0.77137774  0.23553210  0.75476420  1
+  O  O22  1  0.67774999  0.98781228  0.37908563  1
+  Ge  Ge23  1  0.73031777  0.69316232  0.74248660  1
+  O  O24  1  0.75654036  0.98733872  0.92418969  1

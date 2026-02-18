@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_KBa2NaSr4LiI3(Cl3O2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92187405
+_cell_length_b   5.01450586
+_cell_length_c   10.31566525
+_cell_angle_alpha   87.88916016
+_cell_angle_beta   90.14430237
+_cell_angle_gamma   83.75803375
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBa2NaSr4LiI3(Cl3O2)2
+_chemical_formula_sum   'K1 Ba2 Na1 Sr4 Li1 I3 Cl6 O4'
+_cell_volume   252.91197075
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.93722290  0.84383345  0.02371733  1
+  O  O1  1  0.43402174  0.83734083  0.28610867  1
+  Ba  Ba2  1  0.43729928  0.85358417  0.99661088  1
+  O  O3  1  0.93712759  0.33428797  0.28265160  1
+  Sr  Sr4  1  0.93459600  0.35183519  0.00763156  1
+  I  I5  1  0.64353383  0.56785953  0.65704560  1
+  I  I6  1  0.19055744  0.14198269  0.65145940  1
+  Sr  Sr7  1  0.43824491  0.33563238  0.30655551  1
+  Ba  Ba8  1  0.93278420  0.82640231  0.32079285  1
+  O  O9  1  0.44048142  0.35500252  0.03429114  1
+  Sr  Sr10  1  0.14999017  0.83652753  0.82858849  1
+  K  K11  1  0.40938595  0.26121745  0.88051164  1
+  Na  Na12  1  0.69548941  0.22845724  0.34072411  1
+  Cl  Cl13  1  0.69475174  0.90350431  0.68282634  1
+  I  I14  1  0.05666436  0.24322423  0.61275017  1
+  Li  Li15  1  0.55352628  0.75030911  0.11453977  1
+  Cl  Cl16  1  0.40844697  0.60155106  0.54082346  1
+  Cl  Cl17  1  0.42137188  0.53600371  0.08169419  1
+  Cl  Cl18  1  0.16760981  0.96353328  0.16494432  1
+  Cl  Cl19  1  0.92932922  0.53288704  0.08057687  1
+  Cl  Cl20  1  0.67350757  0.96634889  0.16327664  1
+  Sr  Sr21  1  0.95336992  0.66232628  0.40378273  1

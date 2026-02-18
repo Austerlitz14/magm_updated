@@ -1,0 +1,37 @@
+# WARNING: CrystaLLM could not post-process this file properly!
+data_Co1F2
+loop_
+_atom_type_symbol
+_atom_type_electronegativity
+_atom_type_radius
+_atom_type_ionic_radius
+Co 1.8800 1.3500 0.7683
+F 3.9800 0.5000 0.7050
+_symmetry_space_group_name_H-M P42/<unk>
+_cell_length_c 3.9247
+_cell_angle_alpha 90.0000
+_cell_angle_beta 90.0000
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 178
+_chemical_formula_structural CoF2
+_chemical_formula_sum 'Co12 F24'
+_cell_volume 57.6059
+_cell_formula_units_Z 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Co Co0 8 0.1170 0.1987 0.4973 1
+Co Co1 4 0.1747 0.5000 0.4742 1
+F F2 8 0.0532 0.6423 0.2792 1
+F F3 8 0.0742 0.8706 0.7443 1
+F F4 8 0.1983 0.4508 0.7926 1
+

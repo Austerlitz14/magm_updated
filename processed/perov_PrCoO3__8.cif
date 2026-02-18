@@ -1,0 +1,45 @@
+data_Pr1Co1O3
+_symmetry_space_group_name_H-M Pnma
+_cell_length_a 5.7111
+_cell_length_b 3.6950
+_cell_length_c 5.2989
+_cell_angle_alpha 90.0000
+_cell_angle_beta 90.0000
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 62
+_chemical_formula_structural PrCoO3
+_chemical_formula_sum 'Pr12 Co12 O36'
+_cell_volume 111.7276
+_cell_formula_units_Z 12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  '-x, y+1/2, -z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, -y+1/2, -z+1/2'
+  5  'x, y, z'
+  6  'x-1/2, y, -z-1/2'
+  7  '-x-1/2, y-1/2, z-1/2'
+  8  'x, -y-1/2, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Pr Pr0 4 0.0079 0.7500 0.0028 1
+Pr Pr1 4 0.1648 0.5008 0.5051 1
+Pr Pr2 4 0.1650 0.0038 0.0039 1
+Co Co3 4 0.0000 0.0000 0.5000 1
+Co Co4 4 0.1665 0.7500 0.5013 1
+Co Co5 4 0.1670 0.2500 0.0072 1
+O O6 8 0.0897 0.5321 0.1523 1
+O O7 8 0.0925 0.5280 0.6710 1
+O O8 8 0.2351 0.5307 0.3298 1
+O O9 4 0.0656 0.7500 0.3324 1
+O O10 4 0.0835 0.2500 0.8546 1
+O O11 4 0.2465 0.2500 0.2173 1
+

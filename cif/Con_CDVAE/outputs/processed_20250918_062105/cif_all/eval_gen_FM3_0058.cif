@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsNa2ReF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96359777
+_cell_length_b   4.01961517
+_cell_length_c   4.38425922
+_cell_angle_alpha   63.22623444
+_cell_angle_beta   63.13072586
+_cell_angle_gamma   61.59654999
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNa2ReF8
+_chemical_formula_sum   'Cs1 Na2 Re1 F8'
+_cell_volume   52.28228653
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.37528661  0.83734906  0.56893444  1
+  Na  Na1  1  0.86292022  0.33746818  0.07646719  1
+  F  F2  1  0.12155739  0.59139407  0.32196575  1
+  F  F3  1  0.61857963  0.08528447  0.82518017  1
+  F  F4  1  0.72065032  0.49700293  0.64832407  1
+  F  F5  1  0.99591941  0.87617534  0.74800915  1
+  F  F6  1  0.56087905  0.78633374  0.97507256  1
+  Cs  Cs7  1  0.39398080  0.08342103  0.42913821  1
+  F  F8  1  0.80023807  0.28879619  0.10408607  1
+  F  F9  1  0.06018270  0.67101377  0.20815586  1
+  Re  Re10  1  0.89299655  0.58059263  0.92323190  1
+  F  F11  1  0.22252887  0.37356135  0.87297213  1

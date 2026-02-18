@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CaEu2Dy
+_chemical_formula_sum              "Ca1 Eu2 Dy1"
+_cell_length_a       3.75027
+_cell_length_b       3.75068
+_cell_length_c       10.7709
+_cell_angle_alpha    89.9193
+_cell_angle_beta     89.9325
+_cell_angle_gamma    89.7689
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.42962  0.42311  0.10102  1.0000
+  Eu  Eu1       1.0  0.92920  0.92306  0.83547  1.0000
+  Eu  Eu2       1.0  0.92973  0.92297  0.36710  1.0000
+  Dy  Dy1       1.0  0.42961  0.42324  0.60137  1.0000

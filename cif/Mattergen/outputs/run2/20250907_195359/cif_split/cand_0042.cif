@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       TaPdBe2TiPd4
+_chemical_formula_sum              "Ta1 Pd5 Be2 Ti1"
+_cell_length_a       3.874249477123627
+_cell_length_b       3.8749728455845083
+_cell_length_c       8.688360214233398
+_cell_angle_alpha    89.99345235325119
+_cell_angle_beta     89.99435393841424
+_cell_angle_gamma    89.9769096347913
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.08769680469776213  0.019122858263469475  0.5323171619514232  1.0000
+  Pd  Pd1       1.0  0.5881993170907373  0.019201289787708277  0.29314702694403216  1.0000
+  Be  Be1       1.0  0.5881415610295226  0.5192977181325682  0.9111095071934248  1.0000
+  Be  Be2       1.0  0.5880907185357316  0.5191866154087748  0.15411613914499658  1.0000
+  Ti  Ti1       1.0  0.08850809254158729  0.01943568887019993  0.03259983311095071  1.0000
+  Pd  Pd2       1.0  0.08848334973752267  0.5193197724825993  0.2934025223230474  1.0000
+  Pd  Pd3       1.0  0.587973116641845  0.5190387356498429  0.532434820614688  1.0000
+  Pd  Pd4       1.0  0.08837320715292064  0.5191531777521691  0.7718924287396357  1.0000
+  Pd  Pd5       1.0  0.5884523991358543  0.019250614008647218  0.7721428269477227  1.0000

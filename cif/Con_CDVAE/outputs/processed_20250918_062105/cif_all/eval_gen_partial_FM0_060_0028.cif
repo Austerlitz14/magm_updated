@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba2CaMgTlSnHg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18921185
+_cell_length_b   5.70995045
+_cell_length_c   5.59500742
+_cell_angle_alpha   80.67558289
+_cell_angle_beta   71.04879761
+_cell_angle_gamma   76.41610718
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CaMgTlSnHg
+_chemical_formula_sum   'Ba4 Ca2 Mg2 Tl2 Sn2 Hg2'
+_cell_volume   151.74440206
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.10082163  0.39714450  0.37718904  1
+  Mg  Mg1  1  0.75900787  0.39550507  0.06047744  1
+  Tl  Tl2  1  0.93559843  0.89775777  0.72185957  1
+  Mg  Mg3  1  0.26407966  0.89126217  0.06464675  1
+  Tl  Tl4  1  0.42735472  0.39132041  0.72313720  1
+  Hg  Hg5  1  0.59959590  0.89214081  0.38202220  1
+  Ba  Ba6  1  0.97380871  0.71201652  0.83861893  1
+  Ca  Ca7  1  0.22516048  0.90218335  0.37197107  1
+  Ba  Ba8  1  0.97302961  0.36819065  0.17666495  1
+  Ba  Ba9  1  0.47698462  0.44398597  0.57078832  1
+  Ba  Ba10  1  0.48106652  0.09897057  0.91335422  1
+  Ca  Ca11  1  0.72428888  0.90599310  0.37156317  1
+  Sn  Sn12  1  0.47043210  0.61485809  0.07969406  1
+  Sn  Sn13  1  0.98149776  0.20236756  0.67160690  1

@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_KRbBaSr2EuAl(BiO5)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58175087
+_cell_length_b   6.56915951
+_cell_length_c   6.39945221
+_cell_angle_alpha   58.17399597
+_cell_angle_beta   58.75460815
+_cell_angle_gamma   61.09343719
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRbBaSr2EuAl(BiO5)3
+_chemical_formula_sum   'K1 Rb1 Ba1 Sr2 Eu1 Al1 Bi3 O15'
+_cell_volume   192.42246591
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.71835262  0.97114927  0.28531682  1
+  O  O1  1  0.71806657  0.43450123  0.28181314  1
+  O  O2  1  0.17463782  0.97701412  0.82461107  1
+  Al  Al3  1  0.94726539  0.20522754  0.05189162  1
+  O  O4  1  0.17972419  0.43537536  0.82335556  1
+  Ba  Ba5  1  0.69505972  0.95636207  0.80200869  1
+  O  O6  1  0.17556788  0.97609776  0.28058213  1
+  Sr  Sr7  1  0.19739614  0.45335531  0.30494916  1
+  Eu  Eu8  1  0.44403669  0.70503312  0.55390590  1
+  O  O9  1  0.71892840  0.43605039  0.82222110  1
+  O  O10  1  0.10456888  0.47639421  0.60990286  1
+  O  O11  1  0.60594064  0.65204668  0.85370845  1
+  Bi  Bi12  1  0.61247253  0.39248157  0.00015545  1
+  O  O13  1  0.60078233  0.78210986  0.52563131  1
+  O  O14  1  0.60318857  0.28186354  0.43398210  1
+  K  K15  1  0.10817730  0.98457575  0.65283453  1
+  Bi  Bi16  1  0.60702604  0.47930282  0.64104480  1
+  O  O17  1  0.10975746  0.94218749  0.31973505  1
+  Rb  Rb18  1  0.11089671  0.89074129  0.98614460  1
+  O  O19  1  0.11954235  0.39293531  0.02959702  1
+  O  O20  1  0.61428094  0.11279132  0.12082226  1
+  O  O21  1  0.60667646  0.60293740  0.20534521  1
+  Bi  Bi22  1  0.61118996  0.94050282  0.32547006  1
+  O  O23  1  0.60783625  0.21343745  0.78394765  1
+  Sr  Sr24  1  0.10674012  0.43886518  0.31981719  1

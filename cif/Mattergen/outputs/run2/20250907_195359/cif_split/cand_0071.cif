@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Co2NiHFeH3
+_chemical_formula_sum              "Co2 Ni1 H4 Fe1"
+_cell_length_a       2.6425703007296626
+_cell_length_b       4.575114179382599
+_cell_length_c       4.5924072265625
+_cell_angle_alpha    109.37234393810579
+_cell_angle_beta     89.95022408808033
+_cell_angle_gamma    89.94259476181584
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.9671258336648327  0.8484735486119702  0.3765836048904817  1.0000
+  Co  Co2       1.0  0.4673562663416383  0.848330796403914  0.8763781786665344  1.0000
+  Ni  Ni1       1.0  0.46688443600296875  0.3483340133532278  0.37640041142041675  1.0000
+  H   H1        1.0  0.9669950589266546  0.083972894541968  0.12529794929960814  1.0000
+  Fe  Fe1       1.0  0.9667752382871141  0.3483951382579222  0.8764283660515285  1.0000
+  H   H2        1.0  0.46696245718642293  0.6146152609223988  0.13545782817196642  1.0000
+  H   H3        1.0  0.9667130714352408  0.6130899788452975  0.6291010971277669  1.0000
+  H   H4        1.0  0.46665111344250826  0.08321581873808778  0.6179779767582835  1.0000

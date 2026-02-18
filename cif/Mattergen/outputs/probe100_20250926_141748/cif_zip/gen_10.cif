@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CoRh4
+_chemical_formula_sum              "Co1 Rh4"
+_cell_length_a       2.707556573019828
+_cell_length_b       2.704179189393018
+_cell_length_c       10.978498458862305
+_cell_angle_alpha    82.92750600795759
+_cell_angle_beta     82.96501732439236
+_cell_angle_gamma    60.03763848090555
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.14633639156818384  0.5879021883010864  0.7000846266746521  1.0000
+  Rh  Rh1       1.0  0.3480978012084961  0.788200855255127  0.09748835861682892  1.0000
+  Rh  Rh2       1.0  0.7500371932983398  0.19091272354125974  0.8909041881561279  1.0000
+  Rh  Rh3       1.0  0.9459110498428344  0.38702216744422907  0.3022773265838623  1.0000
+  Rh  Rh4       1.0  0.5429384708404541  0.9847847223281859  0.5097883343696594  1.0000

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_VCr3Ga2Ni7Bi8Rh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23103952
+_cell_length_b   4.59307289
+_cell_length_c   8.10382366
+_cell_angle_alpha   88.99311066
+_cell_angle_beta   89.59568787
+_cell_angle_gamma   86.20168304
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VCr3Ga2Ni7Bi8Rh3
+_chemical_formula_sum   'V1 Cr3 Ga2 Ni7 Bi8 Rh3'
+_cell_volume   157.11250316
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.93558580  0.81950843  0.51274854  1
+  Ni  Ni1  1  0.43577313  0.65887272  0.00990151  1
+  Ni  Ni2  1  0.94176823  0.31390041  0.00457879  1
+  Cr  Cr3  1  0.93029213  0.79753011  0.83989590  1
+  Ni  Ni4  1  0.94110751  0.31071866  0.33988446  1
+  Ni  Ni5  1  0.93989366  0.31168184  0.67432415  1
+  Ga  Ga6  1  0.44103932  0.15605979  0.84174943  1
+  Ni  Ni7  1  0.43523589  0.65989763  0.67411453  1
+  Cr  Cr8  1  0.44109854  0.16926910  0.18222743  1
+  Ni  Ni9  1  0.43983591  0.66407788  0.33826974  1
+  Ga  Ga10  1  0.93867415  0.80742919  0.17141034  1
+  Cr  Cr11  1  0.43743324  0.16226861  0.50331551  1
+  Ni  Ni12  1  0.96463382  0.13940419  0.09830685  1
+  Bi  Bi13  1  0.34253597  0.88370514  0.09497098  1
+  Bi  Bi14  1  0.57850957  0.38587233  0.09910861  1
+  Bi  Bi15  1  0.08180518  0.38690898  0.34501821  1
+  Bi  Bi16  1  0.84672153  0.88941598  0.34143001  1
+  Bi  Bi17  1  0.07149240  0.38733974  0.85079873  1
+  Rh  Rh18  1  0.95890933  0.13319488  0.59666204  1
+  Bi  Bi19  1  0.84545779  0.88726372  0.84948391  1
+  Rh  Rh20  1  0.45976198  0.13636996  0.84572995  1
+  Bi  Bi21  1  0.57615989  0.38624713  0.59520394  1
+  Rh  Rh22  1  0.47019112  0.13530941  0.34572566  1
+  Bi  Bi23  1  0.35209304  0.88145125  0.59865934  1

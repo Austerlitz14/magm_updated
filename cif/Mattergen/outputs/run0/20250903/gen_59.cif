@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Gd4Fe2C3GdCGd
+_chemical_formula_sum              "Gd6 Fe2 C4"
+_cell_length_a       3.65342
+_cell_length_b       6.68091
+_cell_length_c       10.5147
+_cell_angle_alpha    94.0003
+_cell_angle_beta     80.0004
+_cell_angle_gamma    74.1366
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.91980  0.09531  0.93965  1.0000
+  Gd  Gd2       1.0  0.24742  0.54046  0.83857  1.0000
+  Gd  Gd3       1.0  0.48359  0.72963  0.17550  1.0000
+  Gd  Gd4       1.0  0.03887  0.18951  0.60690  1.0000
+  Fe  Fe1       1.0  0.76733  0.96097  0.37710  1.0000
+  Fe  Fe2       1.0  0.63643  0.86375  0.73757  1.0000
+  C   C1        1.0  0.59892  0.24446  0.43146  1.0000
+  C   C2        1.0  0.80542  0.58029  0.68324  1.0000
+  C   C3        1.0  0.93783  0.67205  0.32584  1.0000
+  Gd  Gd5       1.0  0.15631  0.28491  0.27612  1.0000
+  C   C4        1.0  0.46591  0.15301  0.78889  1.0000
+  Gd  Gd6       1.0  0.36515  0.63502  0.50807  1.0000

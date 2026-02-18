@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CaTm2Cu4Ni4Sb2As2PPbSe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.60065985
+_cell_length_b   4.53135157
+_cell_length_c   11.76539707
+_cell_angle_alpha   86.39067841
+_cell_angle_beta   86.38268280
+_cell_angle_gamma   84.08446503
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTm2Cu4Ni4Sb2As2PPbSe5
+_chemical_formula_sum   'Ca1 Tm2 Cu4 Ni4 Sb2 As2 P1 Pb1 Se5'
+_cell_volume   243.08949630
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.29781589  0.50060487  0.56456470  1
+  Cu  Cu1  1  0.41517091  0.68644363  0.83761513  1
+  Se  Se2  1  0.41417667  0.19300483  0.78464633  1
+  Se  Se3  1  0.91726261  0.70171630  0.77820545  1
+  Ca  Ca4  1  0.89914507  0.17022321  0.94690758  1
+  Se  Se5  1  0.80106711  0.08058998  0.50122774  1
+  P  P6  1  0.34680703  0.61037236  0.32849848  1
+  Cu  Cu7  1  0.83852690  0.59182602  0.38634893  1
+  Cu  Cu8  1  0.53226089  0.10607699  0.30907544  1
+  Se  Se9  1  0.43149057  0.67306626  0.01565170  1
+  Cu  Cu10  1  0.11193400  0.63538730  0.17678490  1
+  Se  Se11  1  0.87052119  0.13966870  0.16694152  1
+  As  As12  1  0.53590626  0.85769928  0.31172526  1
+  Ni  Ni13  1  0.53105736  0.36223379  0.20515922  1
+  Tm  Tm14  1  0.52145767  0.36259335  0.56698722  1
+  Ni  Ni15  1  0.03250680  0.36202258  0.81189901  1
+  As  As16  1  0.02696582  0.36247116  0.31906587  1
+  Ni  Ni17  1  0.52935588  0.86687738  0.81324148  1
+  Tm  Tm18  1  0.02680902  0.86455107  0.06834443  1
+  Sb  Sb19  1  0.02818537  0.86081332  0.67509800  1
+  Ni  Ni20  1  0.02894330  0.86557883  0.42469621  1
+  Sb  Sb21  1  0.52943844  0.35863009  0.94834304  1

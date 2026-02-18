@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SeNZrC
+_chemical_formula_sum              "Se1 N1 Zr1 C1"
+_cell_length_a       3.649461509153784
+_cell_length_b       3.8733851324925723
+_cell_length_c       6.960974216461182
+_cell_angle_alpha    78.83966519155796
+_cell_angle_beta     75.0140884440265
+_cell_angle_gamma    61.79420117062647
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.49461844563484186  0.9918075799942018  0.1755232661962509  1.0000
+  N   N1        1.0  0.07481922954320908  0.3473656475543976  0.6620976924896239  1.0000
+  Zr  Zr1       1.0  0.7249595522880554  0.2755914032459259  0.4300060868263244  1.0000
+  C   C1        1.0  0.962138533592224  0.6607322692871095  0.5739779472351074  1.0000

@@ -1,0 +1,45 @@
+data_Sr1Co1O3
+_symmetry_space_group_name_H-M Pnma
+_cell_length_a 5.3024
+_cell_length_b 3.6133
+_cell_length_c 5.8499
+_cell_angle_alpha 90.0000
+_cell_angle_beta 90.0000
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 62
+_chemical_formula_structural SrCoO3
+_chemical_formula_sum 'Sr12 Co12 O18'
+_cell_volume 112.6952
+_cell_formula_units_Z 12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  '-x, y+1/2, -z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, -y+1/2, -z+1/2'
+  5  'x, y, z'
+  6  'x-1/2, y, -z-1/2'
+  7  '-x-1/2, y-1/2, z-1/2'
+  8  'x, -y-1/2, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sr Sr0 4 0.0221 0.7500 0.6038 1
+Sr Sr1 4 0.1843 0.7500 0.2241 1
+Sr Sr2 4 0.1846 0.7500 0.9582 1
+Co Co3 4 0.0182 0.2500 0.8162 1
+Co Co4 4 0.0208 0.7500 0.5828 1
+Co Co5 4 0.0654 0.2500 0.0454 1
+O O6 4 0.0754 0.7500 0.4163 1
+O O7 4 0.0904 0.7500 0.7890 1
+O O8 4 0.0998 0.2500 0.3116 1
+O O9 4 0.1490 0.2500 0.8961 1
+O O10 4 0.2286 0.2500 0.1247 1
+O O11 4 0.2488 0.2500 0.5352 1
+

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Fe5MoFe5Mo
+_chemical_formula_sum              "Fe10 Mo2"
+_cell_length_a       5.02745
+_cell_length_b       5.00969
+_cell_length_c       6.44587
+_cell_angle_alpha    75.2755
+_cell_angle_beta     75.3461
+_cell_angle_gamma    70.8481
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.90197  0.10640  0.25534  1.0000
+  Fe  Fe2       1.0  0.89853  0.61639  0.25794  1.0000
+  Fe  Fe3       1.0  0.39652  0.61576  0.25553  1.0000
+  Fe  Fe4       1.0  0.57221  0.27474  0.57719  1.0000
+  Fe  Fe5       1.0  0.56522  0.78465  0.57710  1.0000
+  Mo  Mo1       1.0  0.23486  0.44529  0.91492  1.0000
+  Fe  Fe6       1.0  0.07141  0.27518  0.57758  1.0000
+  Fe  Fe7       1.0  0.06599  0.78448  0.57708  1.0000
+  Fe  Fe8       1.0  0.73394  0.94537  0.91563  1.0000
+  Fe  Fe9       1.0  0.23412  0.94454  0.91609  1.0000
+  Fe  Fe10      1.0  0.40141  0.10626  0.25502  1.0000
+  Mo  Mo2       1.0  0.73377  0.44567  0.91542  1.0000

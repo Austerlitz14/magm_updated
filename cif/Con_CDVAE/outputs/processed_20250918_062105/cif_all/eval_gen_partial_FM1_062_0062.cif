@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LaCeCuNiAs2P2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.52800131
+_cell_length_b   3.73939371
+_cell_length_c   5.59354210
+_cell_angle_alpha   108.30371094
+_cell_angle_beta   108.10665131
+_cell_angle_gamma   89.25332642
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCeCuNiAs2P2Pd
+_chemical_formula_sum   'La1 Ce1 Cu1 Ni1 As2 P2 Pd1'
+_cell_volume   66.29724947
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.99991190  0.21928373  0.70206165  1
+  Cu  Cu1  1  0.14081085  0.86921388  0.97840679  1
+  Pd  Pd2  1  0.63773984  0.36535314  0.97858375  1
+  La  La3  1  0.38526291  0.62368435  0.47645712  1
+  P  P4  1  0.76901025  0.00384944  0.25275639  1
+  As  As5  1  0.57805312  0.38145837  0.46231973  1
+  As  As6  1  0.84872377  0.64719570  0.00054264  1
+  Ce  Ce7  1  0.20937777  0.01309810  0.72238147  1
+  Ni  Ni8  1  0.45608294  0.76584882  0.22967938  1

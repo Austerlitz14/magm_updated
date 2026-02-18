@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GdCo2SiGdSi
+_chemical_formula_sum              "Gd2 Co2 Si2"
+_cell_length_a       3.9670543706251165
+_cell_length_b       3.9658264775398138
+_cell_length_c       6.791724681854248
+_cell_angle_alpha    90.03902337461295
+_cell_angle_beta     90.00242722159831
+_cell_angle_gamma    89.99718846650315
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.5429400801658631  0.6325019001960756  0.08800556510686874  1.0000
+  Co  Co1       1.0  0.04309502616524697  0.6325947642326355  0.409455806016922  1.0000
+  Co  Co2       1.0  0.5430873632431031  0.1327376514673233  0.40965545177459717  1.0000
+  Si  Si1       1.0  0.5430317521095277  0.632487177848816  0.5921764373779297  1.0000
+  Gd  Gd2       1.0  0.043233819305896766  0.13286033272743225  0.7309365272521973  1.0000
+  Si  Si2       1.0  0.04305406287312508  0.1327478438615799  0.2262287586927414  1.0000

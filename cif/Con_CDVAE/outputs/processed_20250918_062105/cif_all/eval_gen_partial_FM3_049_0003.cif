@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr2LiTiV2Cu2(ClO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63653612
+_cell_length_b   5.73877764
+_cell_length_c   6.10507631
+_cell_angle_alpha   91.29187775
+_cell_angle_beta   85.92934418
+_cell_angle_gamma   88.49362946
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2LiTiV2Cu2(ClO2)4
+_chemical_formula_sum   'Sr2 Li1 Ti1 V2 Cu2 Cl4 O8'
+_cell_volume   196.85456610
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.76158416  0.70537680  0.60701209  1
+  Cl  Cl1  1  0.25654119  0.98780137  0.87914950  1
+  Sr  Sr2  1  0.25221583  0.83577877  0.35456598  1
+  Cu  Cu3  1  0.26882741  0.55073804  0.89107287  1
+  Cl  Cl4  1  0.25631320  0.35644799  0.54539287  1
+  O  O5  1  0.50723517  0.53907621  0.07152639  1
+  O  O6  1  0.00847743  0.53930932  0.07099456  1
+  Cu  Cu7  1  0.75286496  0.55093974  0.24954659  1
+  Cl  Cl8  1  0.75948089  0.08381572  0.27087468  1
+  Sr  Sr9  1  0.76561153  0.22625569  0.81001896  1
+  V  V10  1  0.07714071  0.21499126  0.64857501  1
+  O  O11  1  0.85692507  0.31698748  0.06365758  1
+  O  O12  1  0.39722162  0.81760180  0.86292601  1
+  Li  Li13  1  0.21438143  0.50898331  0.92740113  1
+  Ti  Ti14  1  0.68893754  0.01843616  0.44483218  1
+  O  O15  1  0.39209592  0.07823737  0.25336236  1
+  O  O16  1  0.39592406  0.43301669  0.50516915  1
+  O  O17  1  0.86395621  0.92863959  0.74046892  1
+  O  O18  1  0.85547650  0.64146197  0.36054367  1
+  V  V19  1  0.58331418  0.71334749  0.14489090  1

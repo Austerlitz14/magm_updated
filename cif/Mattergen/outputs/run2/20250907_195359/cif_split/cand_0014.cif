@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       FeZrFeAg
+_chemical_formula_sum              "Fe2 Zr1 Ag1"
+_cell_length_a       3.0433102586328906
+_cell_length_b       3.0442339544987305
+_cell_length_c       6.953027248382568
+_cell_angle_alpha    90.01831424312837
+_cell_angle_beta     90.01418197803419
+_cell_angle_gamma    90.04159152589037
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.2068997180899306  0.8043949009901661  0.2171840960699087  1.0000
+  Zr  Zr1       1.0  0.20706304984142573  0.8042271148842578  0.7925148601911759  1.0000
+  Fe  Fe2       1.0  0.7070136675292035  0.3043700469029916  0.04091158102890601  1.0000
+  Ag  Ag1       1.0  0.7070176592970341  0.3041248915548955  0.46974045051839064  1.0000

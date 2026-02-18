@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Fe2NMoFe
+_chemical_formula_sum              "Fe3 N1 Mo1"
+_cell_length_a       3.775077829340648
+_cell_length_b       3.7767674955001502
+_cell_length_c       3.7774078845977783
+_cell_angle_alpha    89.99763925900294
+_cell_angle_beta     89.99593171197847
+_cell_angle_gamma    90.01478986508825
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.43855419856950195  0.43968737252527096  0.3742541070174534  1.0000
+  Fe  Fe2       1.0  0.9385504723243904  0.43975204158648157  0.8742591750157213  1.0000
+  N   N1        1.0  0.43836227126355337  0.43972787276930464  0.8743032208146464  1.0000
+  Mo  Mo1       1.0  0.9386051880630331  0.9398429994704006  0.3743288516223086  1.0000
+  Fe  Fe3       1.0  0.43858191482912323  0.9395781751105842  0.8742446907055798  1.0000

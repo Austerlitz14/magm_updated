@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Gd4O
+_chemical_formula_sum              "Gd4 O1"
+_cell_length_a       3.552016563986957
+_cell_length_b       3.5500765655361026
+_cell_length_c       10.019157409667969
+_cell_angle_alpha    90.01222854258945
+_cell_angle_beta     90.0317150764415
+_cell_angle_gamma    90.0294611145608
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.769170880317688  0.06962352246046068  0.01629025861620903  1.0000
+  Gd  Gd2       1.0  0.26903849840164185  0.5700473785400391  0.26003503799438477  1.0000
+  Gd  Gd3       1.0  0.7693231701850891  0.06984008103609085  0.5148320198059082  1.0000
+  Gd  Gd4       1.0  0.26969751715660095  0.5700476765632629  0.7698141932487488  1.0000
+  O   O1        1.0  0.26916593313217163  0.5700412392616272  0.015084709040820599  1.0000

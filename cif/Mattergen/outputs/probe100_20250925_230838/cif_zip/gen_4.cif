@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnCO2N
+_chemical_formula_sum              "Mn1 C1 O2 N1"
+_cell_length_a       3.6479261442389865
+_cell_length_b       3.371550546399586
+_cell_length_c       5.192968368530273
+_cell_angle_alpha    90.03003484826424
+_cell_angle_beta     89.99031729669937
+_cell_angle_gamma    89.83794262458927
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.028699174523353577  0.2694966197013855  0.355452299118042  1.0000
+  C   C1        1.0  0.029003668576478958  0.768926501274109  0.8813031911849976  1.0000
+  O   O1        1.0  0.028653409332036972  0.769470751285553  0.6473054885864258  1.0000
+  O   O2        1.0  0.5289757251739502  0.2693285942077637  0.3888787627220154  1.0000
+  N   N1        1.0  0.028849326074123383  0.7690885066986084  0.1000852882862091  1.0000

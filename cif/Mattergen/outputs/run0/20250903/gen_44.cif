@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       GdF2GdF2GdF4
+_chemical_formula_sum              "Gd3 F8"
+_cell_length_a       4.43283
+_cell_length_b       6.25585
+_cell_length_c       6.26222
+_cell_angle_alpha    111.844
+_cell_angle_beta     99.5436
+_cell_angle_gamma    99.5864
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.09286  0.32489  0.35031  1.0000
+  F   F1        1.0  0.57911  0.85217  0.78964  1.0000
+  F   F2        1.0  0.97393  0.30408  0.96043  1.0000
+  Gd  Gd2       1.0  0.09430  0.96347  0.71186  1.0000
+  F   F3        1.0  0.79365  0.00155  0.38952  1.0000
+  F   F4        1.0  0.14982  0.96838  0.08926  1.0000
+  Gd  Gd3       1.0  0.75205  0.63175  0.01957  1.0000
+  F   F5        1.0  0.39403  0.29282  0.68007  1.0000
+  F   F6        1.0  0.57749  0.40268  0.24086  1.0000
+  F   F7        1.0  0.14894  0.70275  0.35553  1.0000
+  F   F8        1.0  0.97275  0.57256  0.69070  1.0000

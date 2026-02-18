@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na3CaLaCoCuTeO7F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83754230
+_cell_length_b   4.32245731
+_cell_length_c   6.53092241
+_cell_angle_alpha   81.01194763
+_cell_angle_beta   83.93650818
+_cell_angle_gamma   82.36492157
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3CaLaCoCuTeO7F
+_chemical_formula_sum   'Na3 Ca1 La1 Co1 Cu1 Te1 O7 F1'
+_cell_volume   105.65422883
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.87961054  0.48662010  0.44900215  1
+  O  O1  1  0.88631248  0.49550617  0.94673085  1
+  Ca  Ca2  1  0.38677037  0.49125627  0.69849342  1
+  Cu  Cu3  1  0.88396460  0.99039960  0.94004738  1
+  La  La4  1  0.37831557  0.49068379  0.19823968  1
+  O  O5  1  0.38063490  0.98752618  0.45179582  1
+  O  O6  1  0.38091731  0.98570222  0.94145596  1
+  Co  Co7  1  0.88651496  0.98468000  0.45338815  1
+  Na  Na8  1  0.09692998  0.21038359  0.97266901  1
+  Na  Na9  1  0.10038736  0.71967179  0.46959102  1
+  Te  Te10  1  0.57996601  0.72880632  0.99233675  1
+  Na  Na11  1  0.60250425  0.22147968  0.48232922  1
+  O  O12  1  0.60514015  0.71980113  0.38578686  1
+  O  O13  1  0.60622925  0.12573966  0.96346521  1
+  O  O14  1  0.18822277  0.70604104  0.97272289  1
+  F  F15  1  0.10032206  0.21998309  0.47468978  1

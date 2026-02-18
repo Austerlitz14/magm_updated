@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuNbGe2Sb4CS2N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78233910
+_cell_length_b   6.34493208
+_cell_length_c   7.09096193
+_cell_angle_alpha   90.69029999
+_cell_angle_beta   91.13304901
+_cell_angle_gamma   89.69721985
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuNbGe2Sb4CS2N
+_chemical_formula_sum   'Eu1 Nb1 Ge2 Sb4 C1 S2 N1'
+_cell_volume   170.12597027
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.78507048  0.01605559  0.39775142  1
+  Sb  Sb1  1  0.77638751  0.54060954  0.73269707  1
+  Ge  Ge2  1  0.77706355  0.27606264  0.06282447  1
+  Sb  Sb3  1  0.27857643  0.01320029  0.89633405  1
+  Ge  Ge4  1  0.26868349  0.28287807  0.56415868  1
+  Sb  Sb5  1  0.27112281  0.54033226  0.23038822  1
+  Eu  Eu6  1  0.68258613  0.92831546  0.71127319  1
+  S  S7  1  0.17900699  0.42076826  0.70415115  1
+  C  C8  1  0.17826048  0.91420895  0.33235058  1
+  Nb  Nb9  1  0.17962268  0.41926509  0.21005845  1
+  N  N10  1  0.17837042  0.91449982  0.07855347  1
+  S  S11  1  0.67930692  0.41731665  0.21252993  1

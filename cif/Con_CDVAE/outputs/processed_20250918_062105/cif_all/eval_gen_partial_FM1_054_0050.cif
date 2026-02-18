@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Ca2Ce3Cu3Si5Ni(Pd2O)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79927397
+_cell_length_b   6.38234854
+_cell_length_c   7.71934271
+_cell_angle_alpha   100.56957245
+_cell_angle_beta   106.60927582
+_cell_angle_gamma   89.90583038
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Ce3Cu3Si5Ni(Pd2O)3
+_chemical_formula_sum   'Ca2 Ce3 Si5 Cu3 Ni1 Pd6 O3'
+_cell_volume   268.75784526
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.84553796  0.72729731  0.33643097  1
+  Si  Si1  1  0.06827945  0.90395403  0.75982112  1
+  Pd  Pd2  1  0.26411849  0.56329703  0.66954982  1
+  Si  Si3  1  0.30702767  0.88089812  0.25560498  1
+  Si  Si4  1  0.63054687  0.54578674  0.92407495  1
+  Si  Si5  1  0.38202503  0.57079226  0.41588309  1
+  Pd  Pd6  1  0.09736158  0.22912249  0.33363765  1
+  Si  Si7  1  0.69920081  0.23140229  0.08026934  1
+  Ce  Ce8  1  0.15727408  0.40680009  0.01877532  1
+  Ni  Ni9  1  0.35019031  0.22182141  0.84133595  1
+  Pd  Pd10  1  0.43515083  0.88774717  0.01280928  1
+  Pd  Pd11  1  0.92583919  0.89142221  0.00586423  1
+  Ce  Ce12  1  0.53553414  0.04892807  0.65977913  1
+  Pd  Pd13  1  0.59477401  0.22741467  0.33779120  1
+  Pd  Pd14  1  0.76887506  0.56293368  0.67487323  1
+  Cu  Cu15  1  0.98606604  0.21313642  0.59494203  1
+  Ca  Ca16  1  0.80958033  0.08538356  0.38101172  1
+  O  O17  1  0.31053260  0.59204191  0.86937767  1
+  O  O18  1  0.30242816  0.59414315  0.35267642  1
+  Cu  Cu19  1  0.30818558  0.58935672  0.11638579  1
+  O  O20  1  0.30671376  0.09679151  0.61411846  1
+  Cu  Cu21  1  0.31130260  0.58748466  0.61624259  1
+  Ca  Ca22  1  0.80754739  0.08583315  0.84719843  1

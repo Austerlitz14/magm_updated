@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_LiLaDyMg3ZrScMn2Al7VZnInGaFe4Re2Tc2Ni3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03261471
+_cell_length_b   4.08662224
+_cell_length_c   4.66585588
+_cell_angle_alpha   75.85462189
+_cell_angle_beta   77.90901184
+_cell_angle_gamma   78.45697784
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiLaDyMg3ZrScMn2Al7VZnInGaFe4Re2Tc2Ni3
+_chemical_formula_sum
+'Li1 La1 Dy1 Mg3 Zr1 Sc1 Mn2 Al7 V1 Zn1 In1 Ga1 Fe4 Re2 Tc2 Ni3'
+_cell_volume   72.00195843
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li30  1  0.11026728  0.95721960  0.58061123  1.0
+  La  La28  1  0.48620659  0.33766881  0.95597172  1.0
+  Dy  Dy27  1  0.73048812  0.57656437  0.20818722  1.0
+  Mg  Mg11  1  0.13653313  0.32922330  0.61684179  1.0
+  Mg  Mg29  1  0.11469591  0.95510411  0.07425511  1.0
+  Mg  Mg31  1  0.61121505  0.96134371  0.57753313  1.0
+  Zr  Zr8  1  0.88499939  0.07327425  0.36437455  1.0
+  Sc  Sc4  1  0.53678918  0.64545077  0.24507722  1.0
+  Mn  Mn9  1  0.50990546  0.69965041  0.49425054  1.0
+  Mn  Mn14  1  0.30018565  0.31135106  0.88186872  1.0
+  Al  Al15  1  0.13033962  0.65061206  0.54656196  1.0
+  Al  Al17  1  0.96059328  0.48084143  0.22328615  1.0
+  Al  Al18  1  0.29989055  0.81584281  0.88369787  1.0
+  Al  Al20  1  0.47469464  0.98025113  0.21986987  1.0
+  Al  Al21  1  0.63369757  0.14544711  0.54919994  1.0
+  Al  Al24  1  0.80000293  0.31030008  0.88735801  1.0
+  Al  Al26  1  0.10886507  0.46788555  0.57484341  1.0
+  V  V12  1  0.50758439  0.19703592  0.98841053  1.0
+  Zn  Zn2  1  0.59109622  0.66136426  0.57393098  1.0
+  In  In6  1  0.53889668  0.15097399  0.74225497  1.0
+  Ga  Ga1  1  0.59158486  0.15901378  0.07420787  1.0
+  Fe  Fe19  1  0.62857586  0.64506012  0.55812782  1.0
+  Fe  Fe22  1  0.96821594  0.98259985  0.21863827  1.0
+  Fe  Fe23  1  0.13387662  0.14138298  0.55677199  1.0
+  Fe  Fe25  1  0.80448997  0.81774396  0.88168842  1.0
+  Re  Re10  1  0.01287406  0.70585352  0.98485816  1.0
+  Re  Re13  1  0.51065147  0.69633722  0.98971999  1.0
+  Tc  Tc0  1  0.08333464  0.65632415  0.07316069  1.0
+  Tc  Tc3  1  0.08821198  0.16385478  0.56807762  1.0
+  Ni  Ni5  1  0.03166342  0.65062666  0.75037187  1.0
+  Ni  Ni7  1  0.03779383  0.15150961  0.25428843  1.0
+  Ni  Ni16  1  0.46520481  0.47826460  0.22138160  1.0

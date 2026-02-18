@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Eu2Si3AlSiAlSiAl
+_chemical_formula_sum              "Eu2 Si5 Al3"
+_cell_length_a       4.566075863871591
+_cell_length_b       4.565980682703818
+_cell_length_c       9.402587890625
+_cell_angle_alpha    89.96770937012984
+_cell_angle_beta     89.99055635303074
+_cell_angle_gamma    90.00980382579009
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.8888305425643921  0.46963331103324896  0.7541429996490479  1.0000
+  Eu  Eu2       1.0  0.38887640833854675  0.9697044491767884  0.2601604163646698  1.0000
+  Si  Si1       1.0  0.3891858756542206  0.9700579643249512  0.8914079666137695  1.0000
+  Si  Si2       1.0  0.8887689113616943  0.9696232080459594  0.007701882626861334  1.0000
+  Si  Si3       1.0  0.8889155387878418  0.4698291122913361  0.12313177436590195  1.0000
+  Al  Al1       1.0  0.388933390378952  0.4695476591587067  0.00737027358263731  1.0000
+  Si  Si4       1.0  0.3887946605682373  0.4693832695484162  0.5071601867675781  1.0000
+  Al  Al2       1.0  0.3888606131076813  0.9693681001663208  0.6281594038009644  1.0000
+  Si  Si5       1.0  0.8888518214225769  0.9694570899009706  0.5071691274642944  1.0000
+  Al  Al3       1.0  0.8888193368911743  0.4693457782268525  0.3864101767539978  1.0000

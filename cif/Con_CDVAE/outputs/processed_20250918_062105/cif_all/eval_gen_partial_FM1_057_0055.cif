@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_BaYb2CrCu4PbS10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43661022
+_cell_length_b   4.44894600
+_cell_length_c   8.89639282
+_cell_angle_alpha   99.96023560
+_cell_angle_beta   101.22007751
+_cell_angle_gamma   94.36721039
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaYb2CrCu4PbS10
+_chemical_formula_sum   'Ba1 Yb2 Cr1 Cu4 Pb1 S10'
+_cell_volume   168.54758329
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.59457976  0.71559829  0.88663346  1
+  Cr  Cr1  1  0.73601991  0.85911864  0.17177899  1
+  Yb  Yb2  1  0.38194138  0.51491493  0.46830064  1
+  S  S3  1  0.27676526  0.89433014  0.24222086  1
+  Yb  Yb4  1  0.15108384  0.27076501  0.01265376  1
+  S  S5  1  0.95751947  0.07682284  0.61664099  1
+  S  S6  1  0.76786578  0.39017984  0.24161005  1
+  Cu  Cu7  1  0.02161063  0.64385724  0.74388242  1
+  Cu  Cu8  1  0.51653945  0.14040624  0.74398589  1
+  Ba  Ba9  1  0.50387734  0.06716359  0.83275354  1
+  S  S10  1  0.00490631  0.56538337  0.83724570  1
+  S  S11  1  0.50262362  0.06187863  0.33642378  1
+  S  S12  1  0.50293690  0.56567264  0.34104371  1
+  Pb  Pb13  1  0.00152528  0.56339091  0.33979380  1
+  S  S14  1  0.00596939  0.06446228  0.33595926  1
+  S  S15  1  0.00003459  0.06370689  0.83999074  1
+  Cu  Cu16  1  0.75104660  0.31415188  0.08984137  1
+  S  S17  1  0.50083208  0.56442153  0.83497727  1
+  Cu  Cu18  1  0.25412717  0.81306702  0.58720171  1

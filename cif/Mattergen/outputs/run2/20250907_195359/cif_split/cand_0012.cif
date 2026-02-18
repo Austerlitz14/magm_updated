@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TmCo2InCo2
+_chemical_formula_sum              "Tm1 Co4 In1"
+_cell_length_a       4.983775239018088
+_cell_length_b       4.981421085352535
+_cell_length_c       4.98232889175415
+_cell_angle_alpha    60.04551171251079
+_cell_angle_beta     60.03354082856789
+_cell_angle_gamma    60.05167902396776
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.6838268028316435  0.698395312508675  0.6551502356700227  1.0000
+  Co  Co1       1.0  0.5581913006936989  0.07364661870611969  0.030208078634880037  1.0000
+  Co  Co2       1.0  0.05924830665342537  0.07386398225543171  0.030553289052066578  1.0000
+  In  In1       1.0  0.43373316654969035  0.4484091396935054  0.405074595513828  1.0000
+  Co  Co3       1.0  0.0589999527496219  0.5729836232568957  0.030322477046178707  1.0000
+  Co  Co4       1.0  0.05886148745014188  0.07353261746314523  0.5294696100116322  1.0000

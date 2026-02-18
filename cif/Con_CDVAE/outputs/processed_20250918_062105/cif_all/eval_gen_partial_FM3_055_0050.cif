@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_KLi2Ca2Y2Mn2TlBiCl5O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50439072
+_cell_length_b   5.24192715
+_cell_length_c   8.95072079
+_cell_angle_alpha   95.23564148
+_cell_angle_beta   92.93108368
+_cell_angle_gamma   92.09979248
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLi2Ca2Y2Mn2TlBiCl5O9
+_chemical_formula_sum   'K1 Li2 Ca2 Y2 Mn2 Tl1 Bi1 Cl5 O9'
+_cell_volume   210.00317422
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.15229243  0.88969898  0.32098177  1
+  O  O1  1  0.15247019  0.89055210  0.82127827  1
+  Y  Y2  1  0.14643668  0.89190882  0.60362536  1
+  Y  Y3  1  0.15042369  0.89034992  0.04125103  1
+  Cl  Cl4  1  0.64716101  0.88611102  0.57454842  1
+  Cl  Cl5  1  0.14886621  0.39243180  0.06847621  1
+  Tl  Tl6  1  0.64952427  0.39525521  0.32121450  1
+  Cl  Cl7  1  0.15026133  0.39171243  0.57252395  1
+  Cl  Cl8  1  0.65193409  0.89052445  0.06743955  1
+  K  K9  1  0.65540987  0.38882288  0.82211542  1
+  O  O10  1  0.88171732  0.84954059  0.49137318  1
+  Mn  Mn11  1  0.36723107  0.67584640  0.46825418  1
+  Li  Li12  1  0.15611719  0.55675042  0.97198892  1
+  Li  Li13  1  0.87556726  0.18234636  0.45862043  1
+  Ca  Ca14  1  0.72573662  0.78237480  0.21229887  1
+  O  O15  1  0.55585545  0.40838465  0.08702046  1
+  O  O16  1  0.81080312  0.17414595  0.28706896  1
+  Ca  Ca17  1  0.97223073  0.49960196  0.71938789  1
+  O  O18  1  0.40104622  0.42411417  0.56157708  1
+  O  O19  1  0.16172564  0.95527190  0.08676074  1
+  O  O20  1  0.26751366  0.59223008  0.29593682  1
+  O  O21  1  0.01658511  0.19241859  0.83457267  1
+  Mn  Mn22  1  0.21509863  0.27216658  0.19915710  1
+  Bi  Bi23  1  0.57392877  0.05102498  0.93322486  1
+  O  O24  1  0.52801979  0.66467512  0.85127401  1

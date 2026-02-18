@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       ReFe15CoFe3
+_chemical_formula_sum              "Re1 Fe18 Co1"
+_cell_length_a       5.73633
+_cell_length_b       5.73339
+_cell_length_c       7.42577
+_cell_angle_alpha    78.8485
+_cell_angle_beta     78.837
+_cell_angle_gamma    89.9956
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.72950  0.49990  0.83397  1.0000
+  Fe  Fe1       1.0  0.42537  0.70152  0.03704  1.0000
+  Fe  Fe2       1.0  0.03187  0.29719  0.63149  1.0000
+  Fe  Fe3       1.0  0.62929  0.89971  0.23483  1.0000
+  Fe  Fe4       1.0  0.52788  0.29732  0.63145  1.0000
+  Fe  Fe5       1.0  0.82912  0.59986  0.43350  1.0000
+  Fe  Fe6       1.0  0.03185  0.80351  0.63174  1.0000
+  Fe  Fe7       1.0  0.72877  0.99970  0.83492  1.0000
+  Fe  Fe8       1.0  0.42646  0.19709  0.03607  1.0000
+  Fe  Fe9       1.0  0.32968  0.59975  0.43429  1.0000
+  Fe  Fe10      1.0  0.52757  0.80370  0.63188  1.0000
+  Fe  Fe11      1.0  0.12863  0.39955  0.23470  1.0000
+  Fe  Fe12      1.0  0.33002  0.10048  0.43223  1.0000
+  Fe  Fe13      1.0  0.22958  0.49991  0.83447  1.0000
+  Fe  Fe14      1.0  0.22934  0.99969  0.83487  1.0000
+  Fe  Fe15      1.0  0.93113  0.19655  0.03573  1.0000
+  Co  Co1       1.0  0.82937  0.10041  0.43262  1.0000
+  Fe  Fe16      1.0  0.62916  0.39922  0.23470  1.0000
+  Fe  Fe17      1.0  0.93081  0.70168  0.03651  1.0000
+  Fe  Fe18      1.0  0.12804  0.89955  0.23704  1.0000

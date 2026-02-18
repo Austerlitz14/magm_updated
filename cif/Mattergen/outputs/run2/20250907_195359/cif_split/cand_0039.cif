@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiCuNi3Cr
+_chemical_formula_sum              "Ni4 Cu1 Cr1"
+_cell_length_a       3.5162422733316205
+_cell_length_b       3.538519370663844
+_cell_length_c       5.5962371826171875
+_cell_angle_alpha    108.45029599120896
+_cell_angle_beta     89.99622540990815
+_cell_angle_gamma    89.99796027804815
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.1092444731380216  0.31117457074277566  0.6556205745270423  1.0000
+  Cu  Cu1       1.0  0.10965092460317317  0.643235145804215  0.31964728222494615  1.0000
+  Ni  Ni2       1.0  0.6092782030330974  0.8088769310867638  0.6512020831333764  1.0000
+  Ni  Ni3       1.0  0.6095709813282079  0.140034527993981  0.31299650740139245  1.0000
+  Ni  Ni4       1.0  0.6094299544024256  0.47322982598837265  0.9794998175224557  1.0000
+  Cr  Cr1       1.0  0.1094622243940226  0.9698762297977293  0.972945988699916  1.0000

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KCa2PrCr2CuAgPbSClO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27973080
+_cell_length_b   5.91439772
+_cell_length_c   8.23389149
+_cell_angle_alpha   71.39102173
+_cell_angle_beta   75.50531006
+_cell_angle_gamma   70.26716614
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCa2PrCr2CuAgPbSClO9
+_chemical_formula_sum   'K1 Ca2 Pr1 Cr2 Cu1 Ag1 Pb1 S1 Cl1 O9'
+_cell_volume   183.53215758
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.00111245  0.65248042  0.35718077  1
+  Cl  Cl1  1  0.42390022  0.49980626  0.64895481  1
+  S  S2  1  0.23201253  0.18583076  0.35293809  1
+  Ca  Ca3  1  0.45768061  0.03895164  0.03967870  1
+  O  O4  1  0.89283949  0.21034822  0.99118078  1
+  Ag  Ag5  1  0.77101642  0.57315534  0.88571370  1
+  Ca  Ca6  1  0.10005894  0.08492266  0.70134151  1
+  O  O7  1  0.64137322  0.93303180  0.78345996  1
+  Cu  Cu8  1  0.72627139  0.32382855  0.21713254  1
+  O  O9  1  0.57246453  0.67158788  0.19286445  1
+  O  O10  1  0.74638021  0.90181231  0.41698265  1
+  Pr  Pr11  1  0.24654172  0.40537280  0.91969347  1
+  K  K12  1  0.24865566  0.40314454  0.42058119  1
+  Cr  Cr13  1  0.74466699  0.90125924  0.66731036  1
+  O  O14  1  0.74284250  0.41017351  0.70073885  1
+  O  O15  1  0.25496104  0.90606558  0.70685405  1
+  O  O16  1  0.74759132  0.89588720  0.92661750  1
+  Cr  Cr17  1  0.74969172  0.89960569  0.17562868  1
+  O  O18  1  0.25007737  0.90305609  0.13791575  1
+  O  O19  1  0.75202924  0.39901856  0.14694527  1

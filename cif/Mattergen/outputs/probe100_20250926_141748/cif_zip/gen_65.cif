@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MoNi2Co
+_chemical_formula_sum              "Mo1 Ni2 Co1"
+_cell_length_a       2.571414581904611
+_cell_length_b       3.691843323011336
+_cell_length_c       5.032421588897705
+_cell_angle_alpha    89.99040608886592
+_cell_angle_beta     90.01685258244719
+_cell_angle_gamma    89.99577461736459
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.2930948734283447  0.6634023189544677  0.8279048800468445  1.0000
+  Ni  Ni1       1.0  0.7929823994636536  0.1633685827255249  0.5681657195091248  1.0000
+  Ni  Ni2       1.0  0.7933653593063354  0.16316089034080503  0.08711349219083786  1.0000
+  Co  Co1       1.0  0.29317596554756165  0.6634762287139891  0.3273133933544159  1.0000

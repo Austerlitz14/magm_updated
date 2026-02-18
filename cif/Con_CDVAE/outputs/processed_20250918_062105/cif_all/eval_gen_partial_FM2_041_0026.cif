@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaLi5NdYCoSn2W(SO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29676533
+_cell_length_b   6.29817867
+_cell_length_c   5.82163477
+_cell_angle_alpha   119.85578918
+_cell_angle_beta   97.88581085
+_cell_angle_gamma   90.65896606
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLi5NdYCoSn2W(SO2)4
+_chemical_formula_sum   'Na1 Li5 Nd1 Y1 Co1 Sn2 W1 S4 O8'
+_cell_volume   197.48268437
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.17192034  0.10435516  0.13556693  1
+  Li  Li1  1  0.44130075  0.72591424  0.27455246  1
+  W  W2  1  0.64004213  0.87346101  0.87255776  1
+  Nd  Nd3  1  0.37148210  0.24037158  0.72836161  1
+  O  O4  1  0.02070415  0.32047117  0.57213032  1
+  Li  Li5  1  0.63607287  0.36533985  0.36396590  1
+  Co  Co6  1  0.10342560  0.63072062  0.59171486  1
+  Y  Y7  1  0.90136671  0.50082231  0.01276025  1
+  O  O8  1  0.51556444  0.04090614  0.27992156  1
+  Li  Li9  1  0.83500147  0.01433151  0.46200961  1
+  O  O10  1  0.95662028  0.83562255  0.01967758  1
+  O  O11  1  0.24559411  0.43671536  0.17918709  1
+  O  O12  1  0.55864710  0.57324708  0.83278883  1
+  O  O13  1  0.32499757  0.88876182  0.71425879  1
+  O  O14  1  0.77354711  0.69512975  0.45630381  1
+  O  O15  1  0.72515011  0.17113957  0.91726458  1
+  Li  Li16  1  0.74486947  0.10564957  0.42704138  1
+  Sn  Sn17  1  0.23574089  0.61218363  0.65500754  1
+  Na  Na18  1  0.74195147  0.10836224  0.93130738  1
+  S  S19  1  0.74174654  0.11291663  0.66508007  1
+  S  S20  1  0.24722007  0.60652798  0.95658785  1
+  S  S21  1  0.24323645  0.60630125  0.42883778  1
+  S  S22  1  0.74931180  0.10548258  0.19706281  1
+  Sn  Sn23  1  0.24398495  0.60381174  0.18505925  1

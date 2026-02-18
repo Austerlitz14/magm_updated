@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Mn2O3FEu2FO
+_chemical_formula_sum              "Mn2 O4 F2 Eu2"
+_cell_length_a       5.46708
+_cell_length_b       5.46698
+_cell_length_c       5.71623
+_cell_angle_alpha    118.55
+_cell_angle_beta     118.548
+_cell_angle_gamma    90.1317
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.11814  0.72884  0.13987  1.0000
+  Mn  Mn2       1.0  0.61772  0.22847  0.13964  1.0000
+  O   O1        1.0  0.82013  0.52636  0.13947  1.0000
+  O   O2        1.0  0.41497  0.93084  0.13937  1.0000
+  O   O3        1.0  0.31957  0.42971  0.13820  1.0000
+  F   F1        1.0  0.86770  0.47839  0.63894  1.0000
+  Eu  Eu1       1.0  0.36762  0.47880  0.63898  1.0000
+  Eu  Eu2       1.0  0.86835  0.97922  0.64066  1.0000
+  F   F2        1.0  0.36870  0.97926  0.64027  1.0000
+  O   O4        1.0  0.91661  0.02807  0.14066  1.0000

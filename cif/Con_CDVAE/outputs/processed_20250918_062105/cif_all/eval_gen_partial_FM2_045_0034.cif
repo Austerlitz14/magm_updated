@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li6In3CuBi2(SO3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40758991
+_cell_length_b   5.88604832
+_cell_length_c   8.13085938
+_cell_angle_alpha   99.99958801
+_cell_angle_beta   98.64743042
+_cell_angle_gamma   101.58658600
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li6In3CuBi2(SO3)3
+_chemical_formula_sum   'Li6 In3 Cu1 Bi2 S3 O9'
+_cell_volume   199.71744970
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.83560723  0.18193381  0.91871864  1
+  In  In1  1  0.00774030  0.64061826  0.67620450  1
+  In  In2  1  0.55090147  0.09458774  0.40618581  1
+  S  S3  1  0.47249264  0.29362226  0.09777009  1
+  O  O4  1  0.79599422  0.31198213  0.64718443  1
+  Cu  Cu5  1  0.69485331  0.64505237  0.13337493  1
+  S  S6  1  0.64959621  0.78809410  0.85124290  1
+  S  S7  1  0.97061872  0.86701781  0.38841677  1
+  Bi  Bi8  1  0.80353713  0.34741578  0.76588249  1
+  Li  Li9  1  0.79194152  0.84704357  0.01191007  1
+  Li  Li10  1  0.80719298  0.36594054  0.26937351  1
+  O  O11  1  0.90853739  0.52081084  0.01408421  1
+  O  O12  1  0.89337087  0.02351793  0.27025479  1
+  O  O13  1  0.39763254  0.34887418  0.77235287  1
+  Bi  Bi14  1  0.29938415  0.02715130  0.26550484  1
+  O  O15  1  0.91968352  0.52737647  0.51614690  1
+  O  O16  1  0.41077510  0.85161591  0.51924026  1
+  O  O17  1  0.91798764  0.01639352  0.77028030  1
+  Li  Li18  1  0.29831204  0.52624524  0.50693005  1
+  O  O19  1  0.41832665  0.84979337  0.01616523  1
+  Li  Li20  1  0.29454914  0.00510618  0.77194721  1
+  Li  Li21  1  0.30532485  0.52060479  0.02278912  1
+  Li  Li22  1  0.79307210  0.85147405  0.51860613  1
+  O  O23  1  0.41695222  0.36058217  0.27693629  1

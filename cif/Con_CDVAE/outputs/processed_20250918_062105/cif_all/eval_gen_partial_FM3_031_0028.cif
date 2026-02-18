@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_K3Li2YTaCoB2(O4F3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27474213
+_cell_length_b   6.76689196
+_cell_length_c   7.06819010
+_cell_angle_alpha   67.11904907
+_cell_angle_beta   63.38993835
+_cell_angle_gamma   65.18013763
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Li2YTaCoB2(O4F3)2
+_chemical_formula_sum   'K3 Li2 Y1 Ta1 Co1 B2 O8 F6'
+_cell_volume   235.97039740
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.30900496  0.28711918  0.13466081  1
+  K  K1  1  0.06792913  0.03808547  0.87072301  1
+  F  F2  1  0.45148188  0.74552494  0.04196814  1
+  F  F3  1  0.80517966  0.21227419  0.24898553  1
+  F  F4  1  0.67788315  0.32499555  0.69737619  1
+  F  F5  1  0.24982287  0.40495798  0.57958120  1
+  F  F6  1  0.33480901  0.86384940  0.48593879  1
+  F  F7  1  0.88585055  0.66971624  0.16348463  1
+  K  K8  1  0.81721598  0.78468168  0.61035657  1
+  Y  Y9  1  0.57173878  0.53244931  0.36738595  1
+  Li  Li10  1  0.06494828  0.42531002  0.76532996  1
+  B  B11  1  0.27215141  0.61846799  0.13932686  1
+  O  O12  1  0.28375477  0.02237852  0.57399476  1
+  O  O13  1  0.40707248  0.36021709  0.03735556  1
+  Li  Li14  1  0.39816290  0.25355220  0.41205078  1
+  Ta  Ta15  1  0.71633095  0.06161804  0.04070367  1
+  Co  Co16  1  0.89794791  0.74855143  0.41873670  1
+  O  O17  1  0.05464181  0.43412319  0.23302627  1
+  B  B18  1  0.53262687  0.87288940  0.67708582  1
+  O  O19  1  0.02302683  0.75971055  0.03069025  1
+  O  O20  1  0.41099679  0.75886005  0.81113321  1
+  O  O21  1  0.56221104  0.90443820  0.23622233  1
+  O  O22  1  0.77945459  0.12557481  0.80558759  1
+  O  O23  1  0.66499078  0.61947089  0.55958670  1

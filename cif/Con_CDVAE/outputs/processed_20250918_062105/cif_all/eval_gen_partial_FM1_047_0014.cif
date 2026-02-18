@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_LaDyY2Cu4Ni2P4S4O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94304872
+_cell_length_b   6.08614016
+_cell_length_c   7.39238739
+_cell_angle_alpha   95.06272888
+_cell_angle_beta   92.99745178
+_cell_angle_gamma   91.01579285
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaDyY2Cu4Ni2P4S4O
+_chemical_formula_sum   'La1 Dy1 Y2 Cu4 Ni2 P4 S4 O1'
+_cell_volume   176.42373706
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.94418949  0.56527913  0.81966996  1
+  P  P1  1  0.44971478  0.25974530  0.79294145  1
+  La  La2  1  0.93773448  0.95476228  0.49795273  1
+  P  P3  1  0.44064149  0.87551457  0.78815371  1
+  Cu  Cu4  1  0.44660258  0.48520571  0.55895960  1
+  P  P5  1  0.94879442  0.66962457  0.12790775  1
+  Cu  Cu6  1  0.44488335  0.47591731  0.07632711  1
+  Cu  Cu7  1  0.95418566  0.42427033  0.31333196  1
+  O  O8  1  0.94281471  0.55346209  0.55011207  1
+  Dy  Dy9  1  0.95255429  0.08054627  0.01557676  1
+  P  P10  1  0.44927076  0.19783592  0.28790680  1
+  Y  Y11  1  0.50562966  0.79856861  0.65544969  1
+  S  S12  1  0.01002929  0.30359513  0.77877110  1
+  S  S13  1  0.50603247  0.80050319  0.06272556  1
+  Ni  Ni14  1  0.51047909  0.30219293  0.92091841  1
+  Y  Y15  1  0.01101950  0.30806950  0.18783233  1
+  S  S16  1  0.00219092  0.80436093  0.42135984  1
+  Ni  Ni17  1  0.00485135  0.80319685  0.92055309  1
+  S  S18  1  0.50729805  0.29671732  0.42195743  1

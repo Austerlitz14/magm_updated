@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_CaEu2(MgSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91034365
+_cell_length_b   4.44890451
+_cell_length_c   8.07999039
+_cell_angle_alpha   90.28108215
+_cell_angle_beta   91.15823364
+_cell_angle_gamma   89.17029572
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaEu2(MgSi)2
+_chemical_formula_sum   'Ca1 Eu2 Mg2 Si2'
+_cell_volume   140.52058540
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.79679418  0.15138029  0.52570254  1
+  Mg  Mg1  1  0.79775357  0.64575338  0.75342572  1
+  Eu  Eu2  1  0.30044621  0.65482885  0.41007930  1
+  Eu  Eu3  1  0.79921538  0.15471907  0.10840659  1
+  Mg  Mg4  1  0.29137677  0.15007992  0.76084995  1
+  Si  Si5  1  0.29985300  0.64731127  0.99296767  1
+  Ca  Ca6  1  0.23498508  0.61809623  0.54402339  1

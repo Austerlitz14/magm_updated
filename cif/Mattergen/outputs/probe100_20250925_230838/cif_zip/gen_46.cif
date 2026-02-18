@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       EuAu2SnAu2
+_chemical_formula_sum              "Eu1 Au4 Sn1"
+_cell_length_a       5.69246928469851
+_cell_length_b       5.693684179210609
+_cell_length_c       5.695643424987793
+_cell_angle_alpha    60.00459086070094
+_cell_angle_beta     60.00214843333654
+_cell_angle_gamma    59.98888212189092
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.6351273655891418  0.3938334584236145  0.60190349817276  1.0000
+  Au  Au1       1.0  0.7602080702781678  0.0190445352345705  0.226702481508255  1.0000
+  Au  Au2       1.0  0.260118305683136  0.519019365310669  0.22690580785274506  1.0000
+  Sn  Sn1       1.0  0.8849473595619202  0.6436602473258972  0.8518779277801514  1.0000
+  Au  Au3       1.0  0.26008182764053345  0.018579501658678055  0.7268682718276978  1.0000
+  Au  Au4       1.0  0.26020729541778564  0.0188588947057724  0.2271687090396881  1.0000

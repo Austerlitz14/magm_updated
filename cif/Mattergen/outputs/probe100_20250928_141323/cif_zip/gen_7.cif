@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cr2AlFe3
+_chemical_formula_sum              "Cr2 Al1 Fe3"
+_cell_length_a       2.8923858171230554
+_cell_length_b       4.69258680639572
+_cell_length_c       5.710445404052734
+_cell_angle_alpha    106.59432212582215
+_cell_angle_beta     90.0275486565352
+_cell_angle_gamma    107.8331538815987
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.5371848940849304  0.5825755000114441  0.3474268317222595  1.0000
+  Cr  Cr2       1.0  0.19665156304836273  0.9045305848121643  0.19479849934577942  1.0000
+  Al  Al1       1.0  0.21075421571731567  0.9315692186355591  0.6999924778938293  1.0000
+  Fe  Fe1       1.0  0.5308101773262024  0.5722422003746032  0.8598856329917908  1.0000
+  Fe  Fe2       1.0  0.8766565322875977  0.2625340521335602  0.5188708901405334  1.0000
+  Fe  Fe3       1.0  0.8714611530303955  0.2533702850341797  0.03730387985706329  1.0000

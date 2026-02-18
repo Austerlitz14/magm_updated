@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ba4LiCaCeEr2Mn2RuO16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03549719
+_cell_length_b   5.07247162
+_cell_length_c   5.25571489
+_cell_angle_alpha   63.46382904
+_cell_angle_beta   62.65238953
+_cell_angle_gamma   63.11939240
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4LiCaCeEr2Mn2RuO16
+_chemical_formula_sum   'Ba4 Li1 Ca1 Ce1 Er2 Mn2 Ru1 O16'
+_cell_volume   101.39892963
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ru  Ru0  1  0.43320659  0.89065063  0.54836571  1
+  O  O1  1  0.27151835  0.55893993  0.80076444  1
+  O  O2  1  0.74772668  0.64542490  0.72724211  1
+  O  O3  1  0.18211174  0.06245975  0.87107420  1
+  Li  Li4  1  0.92471844  0.39538398  0.05462301  1
+  Ce  Ce5  1  0.67526931  0.14868566  0.80408764  1
+  O  O6  1  0.10878292  0.13215156  0.38871714  1
+  O  O7  1  0.67174679  0.73459309  0.22770387  1
+  Ca  Ca8  1  0.17176682  0.64153939  0.30101803  1
+  O  O9  1  0.59794718  0.21270722  0.31638622  1
+  O  O10  1  0.19719349  0.87320840  0.42994690  1
+  Ba  Ba11  1  0.94904798  0.97330439  0.79794645  1
+  Ba  Ba12  1  0.44963044  0.24935852  0.52748722  1
+  Mn  Mn13  1  0.44881916  0.77075690  0.51729459  1
+  O  O14  1  0.70167291  0.11182512  0.16428185  1
+  O  O15  1  0.70282739  0.87275189  0.43025440  1
+  O  O16  1  0.44901213  0.50426191  0.32725662  1
+  O  O17  1  0.44682088  0.90531355  0.78005743  1
+  Mn  Mn18  1  0.94689584  0.46170473  0.81064665  1
+  O  O19  1  0.69962031  0.35192671  0.88964981  1
+  Er  Er20  1  0.44889340  0.22608419  0.02636202  1
+  Ba  Ba21  1  0.44636977  0.73821235  0.05347179  1
+  O  O22  1  0.20608929  0.11674116  0.16368487  1
+  Er  Er23  1  0.95156735  0.99735516  0.29757947  1
+  O  O24  1  0.94994688  0.72255307  0.00591791  1
+  O  O25  1  0.19899277  0.35210091  0.89557374  1
+  Ba  Ba26  1  0.95435321  0.48910281  0.27329862  1
+  O  O27  1  0.95045424  0.32392123  0.54751652  1

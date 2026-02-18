@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Gd3O2GdO4
+_chemical_formula_sum              "Gd4 O6"
+_cell_length_a       3.79428
+_cell_length_b       3.79312
+_cell_length_c       12.9721
+_cell_angle_alpha    90.001
+_cell_angle_beta     90.0058
+_cell_angle_gamma    120.077
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.69246  0.11194  0.65775  1.0000
+  Gd  Gd2       1.0  0.02716  0.77800  0.15573  1.0000
+  Gd  Gd3       1.0  0.35998  0.44505  0.40701  1.0000
+  O   O1        1.0  0.02688  0.77808  0.98260  1.0000
+  O   O2        1.0  0.36002  0.44464  0.15667  1.0000
+  Gd  Gd4       1.0  0.35954  0.44502  0.90708  1.0000
+  O   O3        1.0  0.69246  0.11174  0.83144  1.0000
+  O   O4        1.0  0.02691  0.77797  0.33037  1.0000
+  O   O5        1.0  0.35973  0.44505  0.65916  1.0000
+  O   O6        1.0  0.69296  0.11195  0.48303  1.0000

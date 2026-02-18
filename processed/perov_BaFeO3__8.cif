@@ -1,0 +1,46 @@
+data_Ba1Fe1O3
+_symmetry_space_group_name_H-M Pnma
+_cell_length_a 5.8357
+_cell_length_b 3.5768
+_cell_length_c 6.4569
+_cell_angle_alpha 90.0000
+_cell_angle_beta 90.0000
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 62
+_chemical_formula_structural BaFeO3
+_chemical_formula_sum 'Ba12 Fe12 O36'
+_cell_volume 135.2554
+_cell_formula_units_Z 12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  '-x, y+1/2, -z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, -y+1/2, -z+1/2'
+  5  'x, y, z'
+  6  'x-1/2, y, -z-1/2'
+  7  '-x-1/2, y-1/2, z-1/2'
+  8  'x, -y-1/2, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ba Ba0 4 0.0408 0.7500 0.1208 1
+Ba Ba1 4 0.1896 0.7500 0.5799 1
+Ba Ba2 4 0.2320 0.2500 0.9164 1
+Fe Fe3 4 0.0458 0.2500 0.2790 1
+Fe Fe4 4 0.0569 0.7500 0.4214 1
+Fe Fe5 4 0.0981 0.2500 0.6590 1
+O O6 8 0.0554 0.0026 0.3367 1
+O O7 8 0.0848 0.5014 0.7556 1
+O O8 4 0.0961 0.2500 0.0457 1
+O O9 4 0.1036 0.7500 0.9668 1
+O O10 4 0.1875 0.2500 0.5237 1
+O O11 4 0.1928 0.2500 0.2387 1
+O O12 4 0.1934 0.7500 0.3177 1
+

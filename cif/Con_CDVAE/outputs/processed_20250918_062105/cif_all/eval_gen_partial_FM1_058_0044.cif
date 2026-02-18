@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ScCd2FeAsS3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66704011
+_cell_length_b   3.64691925
+_cell_length_c   9.74713326
+_cell_angle_alpha   91.58517456
+_cell_angle_beta   91.00859070
+_cell_angle_gamma   118.03173828
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScCd2FeAsS3O4
+_chemical_formula_sum   'Sc1 Cd2 Fe1 As1 S3 O4'
+_cell_volume   114.94710383
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.35446668  0.64562780  0.17642605  1
+  Sc  Sc1  1  0.02428404  0.99148363  0.32602507  1
+  Cd  Cd2  1  0.69683635  0.32031947  0.99465412  1
+  S  S3  1  0.02856395  0.98771828  0.82385552  1
+  S  S4  1  0.69015181  0.31074139  0.47733548  1
+  Cd  Cd5  1  0.35585439  0.65547484  0.65796351  1
+  O  O6  1  0.89414471  0.16942775  0.53893745  1
+  O  O7  1  0.92182237  0.18043566  0.03017114  1
+  Fe  Fe8  1  0.42104176  0.18500173  0.78511059  1
+  O  O9  1  0.39730820  0.65035218  0.28249109  1
+  O  O10  1  0.40297288  0.67622268  0.78189802  1
+  As  As11  1  0.90107948  0.40755799  0.28565094  1

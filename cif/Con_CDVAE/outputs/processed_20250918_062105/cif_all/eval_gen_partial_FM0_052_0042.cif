@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_HoLuMg2Be5Fe2SiNi6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19978905
+_cell_length_b   5.25842047
+_cell_length_c   6.10404825
+_cell_angle_alpha   113.00748444
+_cell_angle_beta   104.57210541
+_cell_angle_gamma   90.83752441
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoLuMg2Be5Fe2SiNi6
+_chemical_formula_sum   'Ho1 Lu1 Mg2 Be5 Fe2 Si1 Ni6'
+_cell_volume   119.11958906
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.68680930  0.43045285  0.73616731  1
+  Mg  Mg1  1  0.98193789  0.48264775  0.32561249  1
+  Ni  Ni2  1  0.35880312  0.60411000  0.08049332  1
+  Ho  Ho3  1  0.27678275  0.01560718  0.90799952  1
+  Mg  Mg4  1  0.98580301  0.97126025  0.33080155  1
+  Ni  Ni5  1  0.59830093  0.84085125  0.55616099  1
+  Ni  Ni6  1  0.21620563  0.22735398  0.83695835  1
+  Be  Be7  1  0.21734563  0.72322756  0.84416389  1
+  Be  Be8  1  0.72415775  0.22551721  0.84313989  1
+  Fe  Fe9  1  0.71914661  0.71775621  0.84793621  1
+  Be  Be10  1  0.56169802  0.05278734  0.51973963  1
+  Si  Si11  1  0.38657489  0.88511837  0.17593291  1
+  Ni  Ni12  1  0.89043748  0.88465267  0.17941064  1
+  Be  Be13  1  0.89154285  0.39345634  0.17940345  1
+  Be  Be14  1  0.04975731  0.55954605  0.51354384  1
+  Ni  Ni15  1  0.38732252  0.38981834  0.18105227  1
+  Fe  Fe16  1  0.05518018  0.05928975  0.51405144  1
+  Ni  Ni17  1  0.55178380  0.55080295  0.51938021  1

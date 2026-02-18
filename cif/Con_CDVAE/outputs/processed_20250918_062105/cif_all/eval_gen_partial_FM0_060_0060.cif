@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_GdU2Ti3AlFe2Co2SnGe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20477819
+_cell_length_b   4.25368595
+_cell_length_c   13.45699692
+_cell_angle_alpha   90.43231964
+_cell_angle_beta   90.07234955
+_cell_angle_gamma   118.39868164
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdU2Ti3AlFe2Co2SnGe6
+_chemical_formula_sum   'Gd1 U2 Ti3 Al1 Fe2 Co2 Sn1 Ge6'
+_cell_volume   211.71532941
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.20504904  0.54838490  0.85894603  1
+  Ti  Ti1  1  0.87405384  0.88194007  0.47239509  1
+  Ge  Ge2  1  0.21221477  0.55172938  0.16987965  1
+  Ge  Ge3  1  0.52948499  0.21042968  0.38075489  1
+  Ti  Ti4  1  0.87286520  0.88294429  0.26359773  1
+  Co  Co5  1  0.53578287  0.21209584  0.58855337  1
+  U  U6  1  0.87610781  0.87906206  0.98426437  1
+  U  U7  1  0.87982011  0.88021421  0.69706500  1
+  Al  Al8  1  0.54525530  0.21564096  0.80875689  1
+  Ge  Ge9  1  0.20701095  0.54056793  0.56205356  1
+  Ge  Ge10  1  0.54633701  0.21287508  0.10770816  1
+  Co  Co11  1  0.20084105  0.54617786  0.36301380  1
+  Fe  Fe12  1  0.98837775  0.36272269  0.71203977  1
+  Gd  Gd13  1  0.48398557  0.86503690  0.46610886  1
+  Fe  Fe14  1  0.99276614  0.36487260  0.22432645  1
+  Ti  Ti15  1  0.48718864  0.36991560  0.96644205  1
+  Sn  Sn16  1  0.98123020  0.86921358  0.96903586  1
+  Ge  Ge17  1  0.48956585  0.36963043  0.46985623  1

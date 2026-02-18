@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       EuInEuAg
+_chemical_formula_sum              "Eu2 In1 Ag1"
+_cell_length_a       3.8154714077241634
+_cell_length_b       3.815356034896509
+_cell_length_c       8.111717224121094
+_cell_angle_alpha    90.00567839184869
+_cell_angle_beta     89.97987393706063
+_cell_angle_gamma    89.99079540962815
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.5239858627319336  0.561180830001831  0.1849413812160492  1.0000
+  In  In1       1.0  0.024089906364679333  0.06132040172815323  0.9229750037193298  1.0000
+  Eu  Eu2       1.0  0.5238988995552063  0.5613338947296143  0.6609032154083252  1.0000
+  Ag  Ag1       1.0  0.02412013709545135  0.06086558848619462  0.4228062927722931  1.0000

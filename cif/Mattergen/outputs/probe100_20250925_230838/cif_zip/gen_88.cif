@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Eu2GaNaO4
+_chemical_formula_sum              "Eu2 Ga1 Na1 O4"
+_cell_length_a       4.9061839322357335
+_cell_length_b       4.905229708795284
+_cell_length_c       5.915534019470215
+_cell_angle_alpha    114.51644477953383
+_cell_angle_beta     114.5338409753237
+_cell_angle_gamma    90.03863584710696
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.411347895860672  0.9987744688987731  0.32230961322784424  1.0000
+  Eu  Eu2       1.0  0.9113349914550781  0.49857878684997553  0.32247641682624817  1.0000
+  Ga  Ga1       1.0  0.16133005917072296  0.24825474619865417  0.8223521709442139  1.0000
+  Na  Na1       1.0  0.6615987420082092  0.7482161521911621  0.8225928544998169  1.0000
+  O   O1        1.0  0.9523446559906006  0.039802659302949905  0.4051644206047058  1.0000
+  O   O2        1.0  0.1615651398897171  0.7479951977729797  0.8226457238197327  1.0000
+  O   O3        1.0  0.3701198697090149  0.45737382769584656  0.23941639065742495  1.0000
+  O   O4        1.0  0.6621636152267456  0.24850985407829285  0.8222798109054565  1.0000

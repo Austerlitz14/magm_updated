@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnCoNi2
+_chemical_formula_sum              "Mn1 Co1 Ni2"
+_cell_length_a       3.5586169283542843
+_cell_length_b       3.540899793364032
+_cell_length_c       3.5401575565338135
+_cell_angle_alpha    89.99141012695368
+_cell_angle_beta     89.990228504257
+_cell_angle_gamma    89.99664888158279
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.569362223148346  0.29733729362487793  0.22850553691387177  1.0000
+  Co  Co1       1.0  0.5692970156669617  0.7972748875617982  0.7284993529319763  1.0000
+  Ni  Ni1       1.0  0.0693596601486206  0.7972214818000793  0.22850960493087769  1.0000
+  Ni  Ni2       1.0  0.06935660541057587  0.2973763048648834  0.7285143136978149  1.0000

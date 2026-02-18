@@ -1,0 +1,37 @@
+data_Sr1Ni1O3
+_symmetry_space_group_name_H-M Pnma
+_cell_length_a 5.1021
+_cell_length_b 4.1766
+_cell_length_c 5.8011
+_cell_angle_alpha 90.0000
+_cell_angle_beta 90.0000
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 62
+_chemical_formula_structural SrNiO3
+_chemical_formula_sum 'Sr4 Ni4 O12'
+_cell_volume 123.9905
+_cell_formula_units_Z 4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  '-x, y+1/2, -z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, -y+1/2, -z+1/2'
+  5  'x, y, z'
+  6  'x-1/2, y, -z-1/2'
+  7  '-x-1/2, y-1/2, z-1/2'
+  8  'x, -y-1/2, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sr Sr0 4 0.2387 0.2500 0.5544 1
+Ni Ni1 4 0.0059 0.2500 0.0013 1
+O O2 8 0.0094 0.5094 0.2706 1
+O O3 4 0.1710 0.2500 0.0343 1
+

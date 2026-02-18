@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CoEuCo2
+_chemical_formula_sum              "Co3 Eu1"
+_cell_length_a       4.028535294908122
+_cell_length_b       4.028878715216431
+_cell_length_c       5.547578811645508
+_cell_angle_alpha    68.73420660350594
+_cell_angle_beta     68.74212984997988
+_cell_angle_gamma    59.96519830909773
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.8312150239944458  0.3731566369533539  0.5709487795829773  1.0000
+  Eu  Eu1       1.0  0.018192080780863762  0.56084805727005  0.009392516687512419  1.0000
+  Co  Co2       1.0  0.2050687074661255  0.7475818991661072  0.44808739423751837  1.0000
+  Co  Co3       1.0  0.5180121064186096  0.06073237583041191  0.5093474388122559  1.0000

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Rb2SrLi2PrUZn2Ge3(Se3O5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99915409
+_cell_length_b   6.94489193
+_cell_length_c   8.26578522
+_cell_angle_alpha   108.69414520
+_cell_angle_beta   96.90384674
+_cell_angle_gamma   101.82008362
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2SrLi2PrUZn2Ge3(Se3O5)2
+_chemical_formula_sum   'Rb2 Sr1 Li2 Pr1 U1 Zn2 Ge3 Se6 O10'
+_cell_volume   260.67149728
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.09410149  0.43020672  0.51165956  1
+  Li  Li1  1  0.70857465  0.70608371  0.66930807  1
+  O  O2  1  0.62469667  0.79130155  0.92560136  1
+  Li  Li3  1  0.93885010  0.07830447  0.10411210  1
+  O  O4  1  0.04593418  0.25387922  0.62777781  1
+  O  O5  1  0.63405758  0.00572251  0.70358831  1
+  O  O6  1  0.81403267  0.27054679  0.29679942  1
+  O  O7  1  0.09690908  0.90524334  0.19275066  1
+  O  O8  1  0.20834287  0.17593807  0.97274154  1
+  O  O9  1  0.60425985  0.67528623  0.23054573  1
+  Zn  Zn10  1  0.35809866  0.92257524  0.82888210  1
+  Sr  Sr11  1  0.53016198  0.03439373  0.41520056  1
+  O  O12  1  0.41358322  0.43063837  0.45978224  1
+  Ge  Ge13  1  0.93956202  0.22829382  0.82212096  1
+  O  O14  1  0.05987637  0.68850136  0.63310885  1
+  Ge  Ge15  1  0.79290795  0.69879758  0.07527146  1
+  O  O16  1  0.85815156  0.44616440  0.96669745  1
+  Zn  Zn17  1  0.50446051  0.39848903  0.22838020  1
+  U  U18  1  0.37984928  0.76122171  0.28551462  1
+  Se  Se19  1  0.37784633  0.39763558  0.02739056  1
+  Se  Se20  1  0.37573585  0.63524359  0.51885104  1
+  Se  Se21  1  0.87352663  0.02186726  0.78753042  1
+  Rb  Rb22  1  0.89557147  0.22330503  0.21257707  1
+  Se  Se23  1  0.37851247  0.88135934  0.02780870  1
+  Se  Se24  1  0.88097239  0.75630569  0.26325417  1
+  Se  Se25  1  0.38629237  0.13014466  0.49471101  1
+  Rb  Rb26  1  0.85994858  0.55730689  0.83029538  1
+  Pr  Pr27  1  0.37956202  0.00936264  0.75430065  1

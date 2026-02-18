@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Y2CdIn2AsSe(ICl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.49832392
+_cell_length_b   3.42422390
+_cell_length_c   7.89946795
+_cell_angle_alpha   84.02668762
+_cell_angle_beta   90.93142700
+_cell_angle_gamma   100.42456818
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2CdIn2AsSe(ICl)2
+_chemical_formula_sum   'Y2 Cd1 In2 As1 Se1 I2 Cl2'
+_cell_volume   92.56051818
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.95121521  0.25466973  0.79520255  1
+  Y  Y1  1  0.45314881  0.76924711  0.54957324  1
+  Y  Y2  1  0.44741720  0.75891292  0.03779323  1
+  Se  Se3  1  0.95232928  0.26640618  0.29066044  1
+  I  I4  1  0.92353982  0.78838211  0.05929695  1
+  Cd  Cd5  1  0.91571063  0.79902613  0.32286793  1
+  In  In6  1  0.41624421  0.28460297  0.03869712  1
+  I  I7  1  0.41653877  0.29095745  0.30074933  1
+  Cl  Cl8  1  0.41540709  0.29737711  0.79274327  1
+  Cl  Cl9  1  0.91503704  0.79569000  0.56149089  1
+  In  In10  1  0.41537532  0.78422320  0.67591077  1

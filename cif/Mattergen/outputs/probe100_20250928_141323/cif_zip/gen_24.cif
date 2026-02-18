@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GdBe3GdRu
+_chemical_formula_sum              "Gd2 Be3 Ru1"
+_cell_length_a       5.088703326867401
+_cell_length_b       5.0873855880865
+_cell_length_c       5.088097095489502
+_cell_angle_alpha    60.87990838938939
+_cell_angle_beta     60.92069758790231
+_cell_angle_gamma    60.90409983988485
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.6834418773651123  0.04120289534330368  0.913412868976593  1.0000
+  Be  Be1       1.0  0.31220921874046326  0.6685470938682556  0.04095393046736708  1.0000
+  Be  Be2       1.0  0.3120339810848236  0.16900749504566193  0.541313648223877  1.0000
+  Be  Be3       1.0  0.8114038109779358  0.668860137462616  0.5412226915359497  1.0000
+  Gd  Gd2       1.0  0.9401482939720154  0.2968709468841553  0.16930224001407623  1.0000
+  Ru  Ru1       1.0  0.31210851669311523  0.6689118742942811  0.541401982307434  1.0000

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Na2SiNiHg2(WS5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81662107
+_cell_length_b   5.53219938
+_cell_length_c   11.89114094
+_cell_angle_alpha   98.21861267
+_cell_angle_beta   98.10832214
+_cell_angle_gamma   105.68147278
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2SiNiHg2(WS5)2
+_chemical_formula_sum   'Na2 Si1 Ni1 Hg2 W2 S10'
+_cell_volume   234.95354531
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.02125069  0.09660269  0.84815860  1
+  S  S1  1  0.49297333  0.40437967  0.45616496  1
+  Ni  Ni2  1  0.65602934  0.89611524  0.28851092  1
+  S  S3  1  0.83383715  0.60786945  0.94300574  1
+  S  S4  1  0.02661110  0.66737473  0.26788777  1
+  W  W5  1  0.13411270  0.67929858  0.48227242  1
+  S  S6  1  0.63374346  0.02184287  0.11095395  1
+  W  W7  1  0.43690640  0.85338366  0.90392506  1
+  S  S8  1  0.25683093  0.69409102  0.69623709  1
+  S  S9  1  0.78931212  0.96088129  0.49126077  1
+  Na  Na10  1  0.29601228  0.37006101  0.09982429  1
+  Na  Na11  1  0.56416869  0.33745602  0.69363475  1
+  Hg  Hg12  1  0.17073041  0.44301218  0.85336226  1
+  Si  Si13  1  0.44028580  0.74464518  0.17598180  1
+  S  S14  1  0.13903901  0.05102751  0.68217117  1
+  S  S15  1  0.84259987  0.62753844  0.31571734  1
+  Hg  Hg16  1  0.74297231  0.02498602  0.50452304  1
+  S  S17  1  0.57915741  0.34920445  0.03979749  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Fe3Os
+_chemical_formula_sum              "Fe3 Os1"
+_cell_length_a       4.1246490987609805
+_cell_length_b       4.124369083314296
+_cell_length_c       4.123650074005127
+_cell_angle_alpha    60.00736522189116
+_cell_angle_beta     60.01442056806381
+_cell_angle_gamma    60.03505306472115
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.7102313047822981  0.941578745926085  0.0019363546123767504  1.0000
+  Fe  Fe2       1.0  0.2100963883913339  0.44126993407546844  0.5018069743469139  1.0000
+  Fe  Fe3       1.0  0.4603004756789652  0.6913161268200271  0.7517426011936139  1.0000
+  Os  Os1       1.0  0.9599811449696755  0.1915131202651084  0.25183188916603316  1.0000

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CaU2CdCuRh4Se4S7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28395271
+_cell_length_b   7.12681818
+_cell_length_c   7.28089142
+_cell_angle_alpha   118.88897705
+_cell_angle_beta   89.45485687
+_cell_angle_gamma   89.62972260
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaU2CdCuRh4Se4S7
+_chemical_formula_sum   'Ca1 U2 Cd1 Cu1 Rh4 Se4 S7'
+_cell_volume   240.03220532
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.51204401  0.12407271  0.25911349  1
+  S  S1  1  0.51327109  0.92483234  0.90695095  1
+  Rh  Rh2  1  0.51698786  0.54288369  0.37079442  1
+  S  S3  1  0.51550156  0.40040731  0.58829981  1
+  S  S4  1  0.50916648  0.52404588  0.06043877  1
+  Rh  Rh5  1  0.51339746  0.19258915  0.78083509  1
+  S  S6  1  0.01236717  0.06274619  0.23660006  1
+  Ca  Ca7  1  0.02259176  0.64716643  0.85005409  1
+  S  S8  1  0.51876366  0.91478169  0.45004773  1
+  Rh  Rh9  1  0.00365404  0.92613405  0.45879698  1
+  S  S10  1  0.00853081  0.60382110  0.43124577  1
+  S  S11  1  0.01211723  0.19410409  0.77797258  1
+  U  U12  1  0.68534034  0.14072356  0.02877927  1
+  Se  Se13  1  0.93372512  0.39498833  0.52548313  1
+  Se  Se14  1  0.17656997  0.13356605  0.00884590  1
+  Se  Se15  1  0.43397918  0.89811337  0.53498363  1
+  Se  Se16  1  0.68661076  0.65581298  0.05130526  1
+  Cd  Cd17  1  0.18280318  0.64774436  0.03478029  1
+  U  U18  1  0.43639880  0.40092424  0.53295803  1
+  Cu  Cu19  1  0.93607134  0.89706284  0.53060418  1

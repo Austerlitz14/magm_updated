@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiEuLiIn4
+_chemical_formula_sum              "Li2 Eu1 In4"
+_cell_length_a       5.589337814204808
+_cell_length_b       6.229463332143261
+_cell_length_c       6.229681491851807
+_cell_angle_alpha    78.38489762819161
+_cell_angle_beta     63.28917400784115
+_cell_angle_gamma    63.33618903121557
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.021562897972029458  0.33105340524532384  0.5736011270566572  1.0000
+  Eu  Eu1       1.0  0.7713757760460249  0.8309342264915477  0.07317451316423854  1.0000
+  Li  Li2       1.0  0.5209109774551451  0.33147317244315316  0.5730388172694438  1.0000
+  In  In1       1.0  0.0781221541096631  0.21710243825766118  0.07336147842827473  1.0000
+  In  In2       1.0  0.46417623714288725  0.8305457239420393  0.686878443106276  1.0000
+  In  In3       1.0  0.46391120513516865  0.44457238838056184  0.07293256340542495  1.0000
+  In  In4       1.0  0.07835034256325775  0.8311117892161597  0.45909178284644336  1.0000

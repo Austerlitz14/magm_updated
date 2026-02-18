@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       MnCo2MnCoMnCoMnCoBMnCo6
+_chemical_formula_sum              "Mn5 Co11 B1"
+_cell_length_a       5.12642
+_cell_length_b       5.12406
+_cell_length_c       7.18357
+_cell_angle_alpha    89.9776
+_cell_angle_beta     89.99
+_cell_angle_gamma    90.5312
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.87643  0.30414  0.56935  1.0000
+  Co  Co1       1.0  0.37942  0.30220  0.07031  1.0000
+  Co  Co2       1.0  0.14260  0.53799  0.32174  1.0000
+  Mn  Mn2       1.0  0.13204  0.05490  0.82274  1.0000
+  Co  Co3       1.0  0.61489  0.06570  0.32295  1.0000
+  Mn  Mn3       1.0  0.38207  0.79955  0.07585  1.0000
+  Co  Co4       1.0  0.87783  0.80160  0.59019  1.0000
+  Mn  Mn4       1.0  0.87672  0.30439  0.07617  1.0000
+  Co  Co5       1.0  0.62701  0.05477  0.82266  1.0000
+  B   B1        1.0  0.87905  0.80281  0.32301  1.0000
+  Mn  Mn5       1.0  0.38073  0.79946  0.56943  1.0000
+  Co  Co6       1.0  0.37930  0.30204  0.57490  1.0000
+  Co  Co7       1.0  0.14362  0.06610  0.32234  1.0000
+  Co  Co8       1.0  0.13155  0.55031  0.82221  1.0000
+  Co  Co9       1.0  0.87874  0.80164  0.05487  1.0000
+  Co  Co10      1.0  0.61504  0.53841  0.32255  1.0000
+  Co  Co11      1.0  0.62534  0.54873  0.82279  1.0000

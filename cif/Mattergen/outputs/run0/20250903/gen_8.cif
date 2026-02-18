@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mn2LiOMn3FO2FeO2FeO2
+_chemical_formula_sum              "Mn5 Li1 O7 F1 Fe2"
+_cell_length_a       3.1256
+_cell_length_b       3.12808
+_cell_length_c       20.4643
+_cell_angle_alpha    86.0351
+_cell_angle_beta     86.0045
+_cell_angle_gamma    60.2276
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.73474  0.28659  0.07950  1.0000
+  Mn  Mn2       1.0  0.10421  0.65612  0.96229  1.0000
+  Li  Li1       1.0  0.61844  0.16830  0.46483  1.0000
+  O   O1        1.0  0.57136  0.11760  0.64796  1.0000
+  Mn  Mn3       1.0  0.25053  0.79964  0.58051  1.0000
+  Mn  Mn4       1.0  0.47490  0.02646  0.83435  1.0000
+  Mn  Mn5       1.0  0.35862  0.90923  0.22788  1.0000
+  F   F1        1.0  0.04629  0.59764  0.15147  1.0000
+  O   O2        1.0  0.41751  0.96841  0.02836  1.0000
+  O   O3        1.0  0.78911  0.34055  0.89848  1.0000
+  Fe  Fe1       1.0  0.86283  0.41553  0.70811  1.0000
+  O   O4        1.0  0.67895  0.23053  0.27802  1.0000
+  O   O5        1.0  0.15639  0.70627  0.77157  1.0000
+  Fe  Fe2       1.0  0.98872  0.53957  0.34775  1.0000
+  O   O6        1.0  0.30628  0.84971  0.39861  1.0000
+  O   O7        1.0  0.93274  0.48268  0.52732  1.0000

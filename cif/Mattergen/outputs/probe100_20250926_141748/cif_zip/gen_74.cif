@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       FeCdCuRh
+_chemical_formula_sum              "Fe1 Cd1 Cu1 Rh1"
+_cell_length_a       3.068751405338253
+_cell_length_b       4.2843126098525905
+_cell_length_c       5.194021224975586
+_cell_angle_alpha    114.28071651567237
+_cell_angle_beta     107.18017453572904
+_cell_angle_gamma    89.9979602997206
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.5023009777069092  0.7188196778297424  0.23469790816307062  1.0000
+  Cd  Cd1       1.0  0.7428984642028809  0.459308385848999  0.7157390713691711  1.0000
+  Cu  Cu1       1.0  0.2320737838745117  0.9493392705917357  0.6950067281723022  1.0000
+  Rh  Rh1       1.0  0.9788362383842467  0.19522424042224884  0.18747329711914062  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TiFeCo2
+_chemical_formula_sum              "Ti1 Fe1 Co2"
+_cell_length_a       4.113503944285003
+_cell_length_b       4.113538324346756
+_cell_length_c       4.115492820739746
+_cell_angle_alpha    60.03746098061418
+_cell_angle_beta     59.993856870224064
+_cell_angle_gamma    60.000269746522214
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.9159514904022216  0.5667089819908141  0.04169658571481716  1.0000
+  Fe  Fe1       1.0  0.416051834821701  0.06669370830059052  0.5417050719261169  1.0000
+  Co  Co1       1.0  0.6658297777175902  0.3168344795703888  0.791711688041687  1.0000
+  Co  Co2       1.0  0.16568763554096225  0.8166906237602234  0.29145345091819763  1.0000

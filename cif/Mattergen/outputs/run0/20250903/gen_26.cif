@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       FeCoFe2CoFe11
+_chemical_formula_sum              "Fe14 Co2"
+_cell_length_a       5.71808
+_cell_length_b       5.71856
+_cell_length_c       5.7108
+_cell_angle_alpha    89.9512
+_cell_angle_beta     89.9562
+_cell_angle_gamma    89.9444
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.32648  0.80301  0.42361  1.0000
+  Co  Co1       1.0  0.57595  0.55435  0.67297  1.0000
+  Fe  Fe2       1.0  0.32676  0.30411  0.92252  1.0000
+  Fe  Fe3       1.0  0.82560  0.80322  0.92269  1.0000
+  Co  Co2       1.0  0.82647  0.30321  0.42233  1.0000
+  Fe  Fe4       1.0  0.07569  0.05406  0.67287  1.0000
+  Fe  Fe5       1.0  0.32666  0.80299  0.92280  1.0000
+  Fe  Fe6       1.0  0.82549  0.80296  0.42335  1.0000
+  Fe  Fe7       1.0  0.07550  0.05424  0.17376  1.0000
+  Fe  Fe8       1.0  0.57641  0.05432  0.17358  1.0000
+  Fe  Fe9       1.0  0.32673  0.30405  0.42342  1.0000
+  Fe  Fe10      1.0  0.07535  0.55309  0.67254  1.0000
+  Fe  Fe11      1.0  0.07558  0.55318  0.17337  1.0000
+  Fe  Fe12      1.0  0.82572  0.30423  0.92230  1.0000
+  Fe  Fe13      1.0  0.57685  0.05452  0.67261  1.0000
+  Fe  Fe14      1.0  0.57638  0.55347  0.17373  1.0000

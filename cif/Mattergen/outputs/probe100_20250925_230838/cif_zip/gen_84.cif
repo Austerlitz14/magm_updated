@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlCo3H
+_chemical_formula_sum              "Al1 Co3 H1"
+_cell_length_a       3.590986537677039
+_cell_length_b       3.588450359382647
+_cell_length_c       3.5896143913269043
+_cell_angle_alpha    89.95473884171795
+_cell_angle_beta     90.00931205265722
+_cell_angle_gamma    89.90979619732322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.7608960270881653  0.5511388182640076  0.442110389471054  1.0000
+  Co  Co1       1.0  0.2609623074531555  0.051202986389398575  0.4421891868114471  1.0000
+  Co  Co2       1.0  0.760683536529541  0.05122280493378639  0.9420961141586303  1.0000
+  Co  Co3       1.0  0.26079702377319336  0.5513837933540344  0.9419099688529967  1.0000
+  H   H1        1.0  0.2607135474681854  0.05127854645252228  0.942066729068756  1.0000

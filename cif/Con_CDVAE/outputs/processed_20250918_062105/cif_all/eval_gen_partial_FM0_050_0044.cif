@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MgCd2GeBi4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.32151365
+_cell_length_b   8.39628029
+_cell_length_c   12.39724731
+_cell_angle_alpha   110.91097260
+_cell_angle_beta   98.96955872
+_cell_angle_gamma   102.38032532
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCd2GeBi4
+_chemical_formula_sum   'Mg2 Cd4 Ge2 Bi8'
+_cell_volume   396.88993833
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.42166772  0.21653375  0.38515663  1
+  Bi  Bi1  1  0.00817913  0.66441023  0.10884883  1
+  Bi  Bi2  1  0.82419062  0.93575716  0.47049290  1
+  Bi  Bi3  1  0.57001626  0.09432235  0.79035825  1
+  Cd  Cd4  1  0.85844636  0.81985021  0.65437126  1
+  Bi  Bi5  1  0.32036239  0.25634906  0.12436001  1
+  Bi  Bi6  1  0.21206106  0.42806795  0.72887760  1
+  Cd  Cd7  1  0.70849824  0.95185554  0.21285792  1
+  Cd  Cd8  1  0.29766861  0.39312252  0.94734281  1
+  Bi  Bi9  1  0.13342215  0.52911842  0.49306309  1
+  Cd  Cd10  1  0.06357035  0.58768320  0.29759580  1
+  Bi  Bi11  1  0.97453129  0.79973078  0.88362056  1
+  Ge  Ge12  1  0.65034395  0.01355350  0.02319965  1
+  Ge  Ge13  1  0.53391486  0.18921041  0.60550648  1
+  Mg  Mg14  1  0.25596544  0.57640618  0.77341557  1
+  Mg  Mg15  1  0.76682168  0.07738654  0.27495998  1

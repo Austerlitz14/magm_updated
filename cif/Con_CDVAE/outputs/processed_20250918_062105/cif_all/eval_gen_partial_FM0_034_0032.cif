@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb2Sm2Mg3Al5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.88087654
+_cell_length_b   5.55613947
+_cell_length_c   5.61881351
+_cell_angle_alpha   109.38753510
+_cell_angle_beta   87.84323883
+_cell_angle_gamma   88.59562683
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Sm2Mg3Al5
+_chemical_formula_sum   'Tb2 Sm2 Mg3 Al5'
+_cell_volume   143.52265498
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.90266734  0.39298174  0.94058019  1
+  Tb  Tb1  1  0.40466979  0.39865112  0.43795618  1
+  Sm  Sm2  1  0.40000495  0.89668363  0.93680537  1
+  Sm  Sm3  1  0.89851457  0.89502120  0.44019622  1
+  Al  Al4  1  0.99723852  0.85115302  0.90698951  1
+  Mg  Mg5  1  0.99222887  0.35620585  0.15294708  1
+  Al  Al6  1  0.49488080  0.61566591  0.02559151  1
+  Mg  Mg7  1  0.49332640  0.10878364  0.77840453  1
+  Al  Al8  1  0.49254331  0.60032165  0.53357893  1
+  Al  Al9  1  0.49592298  0.10734896  0.28303337  1
+  Mg  Mg10  1  0.99645597  0.85469383  0.41005683  1
+  Al  Al11  1  0.99362820  0.36634070  0.65606451  1

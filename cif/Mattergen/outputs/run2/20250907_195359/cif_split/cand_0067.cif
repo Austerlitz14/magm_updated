@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GeEuAuLi
+_chemical_formula_sum              "Ge1 Eu1 Au1 Li1"
+_cell_length_a       4.972509237295915
+_cell_length_b       4.972695426258089
+_cell_length_c       4.972617149353027
+_cell_angle_alpha    60.00516129664513
+_cell_angle_beta     60.01069183327063
+_cell_angle_gamma    59.97914431240523
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.8093635434212961  0.2919688532978268  0.5944403407070308  1.0000
+  Eu  Eu1       1.0  0.05891095920100766  0.5416928539380786  0.8446807266119314  1.0000
+  Au  Au1       1.0  0.3093171427324943  0.7920648449582488  0.09451211926419427  1.0000
+  Li  Li1       1.0  0.5596817743485688  0.042131661627659016  0.34457355684354823  1.0000

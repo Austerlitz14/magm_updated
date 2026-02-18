@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ErAlFeSiAg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19865942
+_cell_length_b   4.21568489
+_cell_length_c   4.90675592
+_cell_angle_alpha   112.65008545
+_cell_angle_beta   110.12305450
+_cell_angle_gamma   101.72070312
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErAlFeSiAg
+_chemical_formula_sum   'Er2 Al2 Fe2 Si2 Ag2'
+_cell_volume   69.38494469
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.53220618  0.70263034  0.11844972  1
+  Ag  Ag1  1  0.78313684  0.45390117  0.61475319  1
+  Ag  Ag2  1  0.28109413  0.95513856  0.61968893  1
+  Al  Al3  1  0.03370627  0.19834577  0.11826503  1
+  Fe  Fe4  1  0.00706887  0.00426414  0.17997392  1
+  Fe  Fe5  1  0.51076716  0.50138253  0.17982459  1
+  Si  Si6  1  0.50386345  0.00533852  0.98979628  1
+  Si  Si7  1  0.00296234  0.50808740  0.36578554  1
+  Er  Er8  1  0.50332028  0.00073028  0.50333023  1
+  Er  Er9  1  0.00160995  0.50215399  0.85960293  1

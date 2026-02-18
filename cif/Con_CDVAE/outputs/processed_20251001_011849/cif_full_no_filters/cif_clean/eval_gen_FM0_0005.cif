@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_CaYTh4Mg2U2Zn4InHg5(Sb2Te)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91680670
+_cell_length_b   6.50017929
+_cell_length_c   7.87468386
+_cell_angle_alpha   89.23338318
+_cell_angle_beta   88.90578461
+_cell_angle_gamma   91.15285492
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaYTh4Mg2U2Zn4InHg5(Sb2Te)2
+_chemical_formula_sum   'Ca1 Y1 Th4 Mg2 U2 Zn4 In1 Hg5 Sb4 Te2'
+_cell_volume   251.55520188
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca11  1  0.40592140  0.07509137  0.92655724  1.0
+  Y  Y9  1  0.64227831  0.81158811  0.39633533  1.0
+  Th  Th1  1  0.01651689  0.84407371  0.95355701  1.0
+  Th  Th2  1  0.51298809  0.12674874  0.32591692  1.0
+  Th  Th3  1  0.01856966  0.63172644  0.44989526  1.0
+  Th  Th7  1  0.50770575  0.33794254  0.82336766  1.0
+  Mg  Mg8  1  0.88954550  0.55499560  0.87841058  1.0
+  Mg  Mg15  1  0.83443725  0.63406789  0.49793369  1.0
+  U  U19  1  0.92120218  0.64255071  0.47761911  1.0
+  U  U21  1  0.91872209  0.14346224  0.97618443  1.0
+  Zn  Zn16  1  0.41567183  0.64308035  0.14437766  1.0
+  Zn  Zn17  1  0.41526866  0.14079902  0.30495065  1.0
+  Zn  Zn18  1  0.42360818  0.14305769  0.64567858  1.0
+  Zn  Zn20  1  0.41608047  0.64325398  0.80932623  1.0
+  In  In12  1  0.33318052  0.13534932  0.99342108  1.0
+  Hg  Hg0  1  0.01047814  0.15169658  0.59549105  1.0
+  Hg  Hg4  1  0.01545337  0.32479188  0.09143660  1.0
+  Hg  Hg5  1  0.51699966  0.82682973  0.68208337  1.0
+  Hg  Hg6  1  0.50927752  0.65053570  0.17946696  1.0
+  Hg  Hg10  1  0.14795087  0.32519865  0.41502550  1.0
+  Sb  Sb22  1  0.25696132  0.02378616  0.25225037  1.0
+  Sb  Sb23  1  0.75836587  0.53069717  0.25527966  1.0
+  Sb  Sb24  1  0.75257093  0.02064991  0.74917555  1.0
+  Sb  Sb25  1  0.25464526  0.52431321  0.74862003  1.0
+  Te  Te13  1  0.57475007  0.37414289  0.25714904  1.0
+  Te  Te14  1  0.08154774  0.89120895  0.74529058  1.0

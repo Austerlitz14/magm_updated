@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CsKLi2Gd2Ga2(O2F5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16694736
+_cell_length_b   4.52139091
+_cell_length_c   5.41609287
+_cell_angle_alpha   85.55820465
+_cell_angle_beta   89.67724609
+_cell_angle_gamma   88.55704498
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsKLi2Gd2Ga2(O2F5)2
+_chemical_formula_sum   'Cs1 K1 Li2 Gd2 Ga2 O4 F10'
+_cell_volume   101.70191099
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.70265895  0.45990798  0.95917314  1
+  O  O1  1  0.20440552  0.96276277  0.45967603  1
+  O  O2  1  0.20105478  0.46354374  0.96188092  1
+  O  O3  1  0.70181572  0.46186510  0.45773292  1
+  O  O4  1  0.70144725  0.96146017  0.95890701  1
+  Li  Li5  1  0.70544356  0.96445101  0.46012273  1
+  Gd  Gd6  1  0.20976789  0.46553510  0.46375337  1
+  Gd  Gd7  1  0.20282793  0.96546149  0.95603234  1
+  F  F8  1  0.39743572  0.55378693  0.85616839  1
+  F  F9  1  0.68505394  0.77538389  0.24500516  1
+  Ga  Ga10  1  0.20917861  0.33482802  0.69594884  1
+  K  K11  1  0.75922823  0.84309888  0.80710971  1
+  F  F12  1  0.38238388  0.33677149  0.52724433  1
+  Cs  Cs13  1  0.55077755  0.28207284  0.20365754  1
+  F  F14  1  0.08182495  0.58329815  0.19699095  1
+  F  F15  1  0.35997069  0.83601904  0.48779452  1
+  F  F16  1  0.03458777  0.02393004  0.17845276  1
+  F  F17  1  0.96694660  0.01850463  0.51875293  1
+  F  F18  1  0.94260949  0.31642175  0.80484706  1
+  F  F19  1  0.37091938  0.08942333  0.82526863  1
+  Ga  Ga20  1  0.03581559  0.80138338  0.35305288  1
+  F  F21  1  0.98637027  0.56569940  0.53155142  1

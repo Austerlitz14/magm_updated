@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_K5Li3Pr3Ge2Se6S7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30463314
+_cell_length_b   7.53255749
+_cell_length_c   8.10019970
+_cell_angle_alpha   82.30253601
+_cell_angle_beta   76.23913574
+_cell_angle_gamma   77.51574707
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K5Li3Pr3Ge2Se6S7
+_chemical_formula_sum   'K5 Li3 Pr3 Ge2 Se6 S7'
+_cell_volume   421.06202250
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.35955599  0.56174403  0.67219484  1
+  Pr  Pr1  1  0.01517589  0.76434404  0.56819057  1
+  S  S2  1  0.07699998  0.08625729  0.76835465  1
+  S  S3  1  0.48344111  0.24855942  0.03179137  1
+  Pr  Pr4  1  0.43654573  0.89381754  0.86246186  1
+  S  S5  1  0.66839755  0.98596126  0.53561527  1
+  Pr  Pr6  1  0.72555983  0.32924488  0.71658844  1
+  Li  Li7  1  0.18961610  0.49144343  0.17659000  1
+  Li  Li8  1  0.10064025  0.67858869  0.93733287  1
+  K  K9  1  0.59468967  0.63782769  0.28574848  1
+  K  K10  1  0.31528315  0.18048273  0.41994148  1
+  Li  Li11  1  0.24502999  0.32158563  0.85167044  1
+  S  S12  1  0.93866968  0.43280950  0.40450415  1
+  K  K13  1  0.86769629  0.09496881  0.15844618  1
+  S  S14  1  0.78650320  0.66701204  0.88855064  1
+  S  S15  1  0.21474180  0.82061821  0.20562851  1
+  Se  Se16  1  0.76231027  0.96345961  0.30004621  1
+  Se  Se17  1  0.75076437  0.46658245  0.29739600  1
+  Se  Se18  1  0.74822575  0.47088355  0.81137377  1
+  K  K19  1  0.24581479  0.29935133  0.46272826  1
+  Ge  Ge20  1  0.49791914  0.63401890  0.13164939  1
+  Se  Se21  1  0.25320387  0.79969060  0.46320435  1
+  K  K22  1  0.74432874  0.96972895  0.80343258  1
+  Se  Se23  1  0.24756509  0.79963827  0.96844888  1
+  Se  Se24  1  0.24741061  0.30485162  0.96299893  1
+  Ge  Ge25  1  0.99643075  0.63250113  0.13730636  1

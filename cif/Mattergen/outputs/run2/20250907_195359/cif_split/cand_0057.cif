@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       FePdRhPd
+_chemical_formula_sum              "Fe1 Pd2 Rh1"
+_cell_length_a       3.8390834491305132
+_cell_length_b       3.840860212807925
+_cell_length_c       3.9203426837921143
+_cell_angle_alpha    89.98798820200592
+_cell_angle_beta     90.00522759937073
+_cell_angle_gamma    90.03971322197606
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.6771941775458428  0.25608384668368933  0.43621453723700954  1.0000
+  Pd  Pd1       1.0  0.1769052143327499  0.25589209792109957  0.9360659723070966  1.0000
+  Rh  Rh1       1.0  0.17708021494104578  0.7562030562301226  0.4361492108017521  1.0000
+  Pd  Pd2       1.0  0.677188158211026  0.7560752619076297  0.9361212248654952  1.0000

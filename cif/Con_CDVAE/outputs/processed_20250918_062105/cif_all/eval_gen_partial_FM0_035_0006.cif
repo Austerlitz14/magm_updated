@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_La4GdSiGeRu2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79746437
+_cell_length_b   4.91400003
+_cell_length_c   5.32387114
+_cell_angle_alpha   76.69999695
+_cell_angle_beta   80.02574158
+_cell_angle_gamma   83.56051636
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4GdSiGeRu2C
+_chemical_formula_sum   'La4 Gd1 Si1 Ge1 Ru2 C1'
+_cell_volume   119.95367215
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.05316100  0.87438476  0.84596139  1
+  La  La1  1  0.55515629  0.37140512  0.85283566  1
+  La  La2  1  0.05489416  0.36777723  0.35272762  1
+  La  La3  1  0.55218184  0.87217361  0.35521895  1
+  Ru  Ru4  1  0.17784694  0.56060487  0.60758686  1
+  C  C5  1  0.67592865  0.56395489  0.61306894  1
+  Si  Si6  1  0.17528094  0.06810372  0.34220493  1
+  Ru  Ru7  1  0.67167413  0.06800600  0.61029363  1
+  Ge  Ge8  1  0.17114288  0.06566422  0.90042174  1
+  Gd  Gd9  1  0.67671114  0.55946773  0.11257926  1

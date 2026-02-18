@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Co2OsCo
+_chemical_formula_sum              "Co3 Os1"
+_cell_length_a       2.5753272883340963
+_cell_length_b       4.401959410608052
+_cell_length_c       4.810734748840332
+_cell_angle_alpha    117.58745766695476
+_cell_angle_beta     105.6246257144153
+_cell_angle_gamma    90.05129662407077
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.11433250457048416  0.6954412460327148  0.21222516894340515  1.0000
+  Co  Co2       1.0  0.8633620142936707  0.7807250618934632  0.7096892595291138  1.0000
+  Os  Os1       1.0  0.6149611473083496  0.19547989964485168  0.212534561753273  1.0000
+  Co  Co3       1.0  0.3656654357910157  0.283745288848877  0.7151728868484497  1.0000

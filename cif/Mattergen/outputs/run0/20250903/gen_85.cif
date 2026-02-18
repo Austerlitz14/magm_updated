@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       GdOFe2GdO5
+_chemical_formula_sum              "Gd2 O6 Fe2"
+_cell_length_a       3.62599
+_cell_length_b       3.62582
+_cell_length_c       11.7372
+_cell_angle_alpha    89.9927
+_cell_angle_beta     90.0065
+_cell_angle_gamma    120.028
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.91047  0.73749  0.70940  1.0000
+  O   O1        1.0  0.91022  0.73770  0.95986  1.0000
+  Fe  Fe1       1.0  0.57742  0.07058  0.95965  1.0000
+  Fe  Fe2       1.0  0.24316  0.40466  0.45918  1.0000
+  Gd  Gd2       1.0  0.91061  0.73731  0.20891  1.0000
+  O   O2        1.0  0.24384  0.40395  0.62481  1.0000
+  O   O3        1.0  0.91051  0.73722  0.45943  1.0000
+  O   O4        1.0  0.24381  0.40375  0.29335  1.0000
+  O   O5        1.0  0.57698  0.07098  0.12538  1.0000
+  O   O6        1.0  0.57722  0.07090  0.79333  1.0000

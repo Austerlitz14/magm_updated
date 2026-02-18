@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li2Mg4ReHg2Rh4Pb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68340445
+_cell_length_b   5.69007635
+_cell_length_c   6.23688889
+_cell_angle_alpha   117.39012909
+_cell_angle_beta   94.07009888
+_cell_angle_gamma   90.28873444
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Mg4ReHg2Rh4Pb3
+_chemical_formula_sum   'Li2 Mg4 Re1 Hg2 Rh4 Pb3'
+_cell_volume   147.06822736
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.63431221  0.94417953  0.37648466  1
+  Mg  Mg1  1  0.13364691  0.69718707  0.12862749  1
+  Mg  Mg2  1  0.63891655  0.44561112  0.38208297  1
+  Mg  Mg3  1  0.63991886  0.94169861  0.87752855  1
+  Rh  Rh4  1  0.13908222  0.69375104  0.62908566  1
+  Rh  Rh5  1  0.64377868  0.44446701  0.87901115  1
+  Rh  Rh6  1  0.14363366  0.19442964  0.12735687  1
+  Mg  Mg7  1  0.14841920  0.19327819  0.62741309  1
+  Hg  Hg8  1  0.05966879  0.02680856  0.32106191  1
+  Hg  Hg9  1  0.96422625  0.98855245  0.86660582  1
+  Pb  Pb10  1  0.88128746  0.53945434  0.54848850  1
+  Li  Li11  1  0.99893302  0.47243813  0.00778171  1
+  Li  Li12  1  0.58705747  0.94955152  0.24691397  1
+  Pb  Pb13  1  0.46248123  0.10811505  0.72905451  1
+  Re  Re14  1  0.34601846  0.65353978  0.63000661  1
+  Pb  Pb15  1  0.45353866  0.51693100  0.13275486  1

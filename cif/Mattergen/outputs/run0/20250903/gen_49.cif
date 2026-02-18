@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Gd6NGd2NPt
+_chemical_formula_sum              "Gd8 N2 Pt1"
+_cell_length_a       7.44917
+_cell_length_b       7.45652
+_cell_length_c       7.30751
+_cell_angle_alpha    119.268
+_cell_angle_beta     119.239
+_cell_angle_gamma    88.9679
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.55707  0.64689  0.81591  1.0000
+  Gd  Gd2       1.0  0.54610  0.10109  0.28413  1.0000
+  Gd  Gd3       1.0  0.54561  0.10010  0.78971  1.0000
+  Gd  Gd4       1.0  0.09288  0.11164  0.81604  1.0000
+  Gd  Gd5       1.0  0.56041  0.64215  0.31558  1.0000
+  Gd  Gd6       1.0  0.10304  0.65785  0.84176  1.0000
+  N   N1        1.0  0.32470  0.87946  0.31549  1.0000
+  Gd  Gd7       1.0  0.08875  0.11543  0.31583  1.0000
+  Gd  Gd8       1.0  0.10299  0.65761  0.34732  1.0000
+  N   N2        1.0  0.32457  0.87914  0.81576  1.0000
+  Pt  Pt1       1.0  0.82502  0.37941  0.81655  1.0000

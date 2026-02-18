@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Fe3AlFe8
+_chemical_formula_sum              "Fe11 Al1"
+_cell_length_a       2.9278
+_cell_length_b       4.02897
+_cell_length_c       12.357
+_cell_angle_alpha    99.1669
+_cell_angle_beta     96.6123
+_cell_angle_gamma    89.9112
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.09616  0.47484  0.11685  1.0000
+  Fe  Fe2       1.0  0.26380  0.64133  0.45130  1.0000
+  Fe  Fe3       1.0  0.01193  0.89109  0.94947  1.0000
+  Al  Al1       1.0  0.34518  0.22429  0.61638  1.0000
+  Fe  Fe4       1.0  0.84505  0.72368  0.61559  1.0000
+  Fe  Fe5       1.0  0.93049  0.30898  0.78721  1.0000
+  Fe  Fe6       1.0  0.51203  0.39169  0.95010  1.0000
+  Fe  Fe7       1.0  0.42745  0.80718  0.78087  1.0000
+  Fe  Fe8       1.0  0.17847  0.05683  0.28179  1.0000
+  Fe  Fe9       1.0  0.59547  0.97409  0.11576  1.0000
+  Fe  Fe10      1.0  0.67875  0.55782  0.28286  1.0000
+  Fe  Fe11      1.0  0.76065  0.13923  0.44570  1.0000

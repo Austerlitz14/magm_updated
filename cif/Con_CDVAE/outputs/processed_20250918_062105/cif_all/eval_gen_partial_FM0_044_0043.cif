@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Na2Y4HoMgScCdCo3HgI4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35793114
+_cell_length_b   7.22391605
+_cell_length_c   7.32623243
+_cell_angle_alpha   95.29975128
+_cell_angle_beta   82.69949341
+_cell_angle_gamma   84.00979614
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Y4HoMgScCdCo3HgI4
+_chemical_formula_sum   'Na2 Y4 Ho1 Mg1 Sc1 Cd1 Co3 Hg1 I4'
+_cell_volume   226.21263251
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.07477373  0.47073144  0.10033406  1
+  Ho  Ho1  1  0.18354575  0.04678052  0.87598687  1
+  Co  Co2  1  0.58179891  0.21344671  0.09440147  1
+  Y  Y3  1  0.82895392  0.82434464  0.57722270  1
+  Sc  Sc4  1  0.97304529  0.14140208  0.31314510  1
+  Y  Y5  1  0.74273229  0.37863269  0.75120527  1
+  Co  Co6  1  0.21723716  0.66231972  0.80988586  1
+  Y  Y7  1  0.39393187  0.47845215  0.43158138  1
+  Y  Y8  1  0.56178409  0.81091005  0.11560816  1
+  Co  Co9  1  0.37654981  0.09817952  0.50221527  1
+  I  I10  1  0.26222250  0.16000815  0.87029934  1
+  Cd  Cd11  1  0.26282373  0.15504238  0.37164989  1
+  Na  Na12  1  0.76322997  0.90967691  0.62952900  1
+  I  I13  1  0.26209608  0.65553558  0.36985332  1
+  Na  Na14  1  0.76603949  0.41101348  0.12259680  1
+  I  I15  1  0.76128852  0.40692905  0.62249184  1
+  I  I16  1  0.76175547  0.91146088  0.12752175  1
+  Hg  Hg17  1  0.26001662  0.66039962  0.87225389  1

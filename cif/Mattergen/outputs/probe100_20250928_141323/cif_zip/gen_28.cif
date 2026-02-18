@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ho5CoHoCo2
+_chemical_formula_sum              "Ho6 Co3"
+_cell_length_a       4.556097009598942
+_cell_length_b       7.08780701314014
+_cell_length_c       7.0908098220825195
+_cell_angle_alpha    120.03829501415186
+_cell_angle_beta     90.04506809455053
+_cell_angle_gamma    90.01387461781889
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.9889587759971619  0.7874241471290588  0.10515978187322624  1.0000
+  Ho  Ho2       1.0  0.4892716109752655  0.7879542112350464  0.7779862880706788  1.0000
+  Ho  Ho3       1.0  0.48904743790626526  0.38211062550544744  0.9672030806541444  1.0000
+  Ho  Ho4       1.0  0.9889764785766602  0.52044278383255  0.37241423130035406  1.0000
+  Ho  Ho5       1.0  0.9891918301582336  0.054832316935062415  0.6404706239700318  1.0000
+  Co  Co1       1.0  0.9890434145927429  0.4539245963096619  0.7057528495788575  1.0000
+  Ho  Ho6       1.0  0.48908522725105286  0.1919989883899689  0.3727841675281525  1.0000
+  Co  Co2       1.0  0.48916366696357727  0.7871267199516296  0.3721382915973664  1.0000
+  Co  Co3       1.0  0.9891021251678467  0.12016213685274124  0.03885928541421891  1.0000

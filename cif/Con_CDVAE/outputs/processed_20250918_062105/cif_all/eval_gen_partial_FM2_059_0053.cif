@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_K5Ag2Te2S(O2F3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35851288
+_cell_length_b   6.32993841
+_cell_length_c   6.16233492
+_cell_angle_alpha   68.62932587
+_cell_angle_beta   66.41326141
+_cell_angle_gamma   66.07537842
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K5Ag2Te2S(O2F3)2
+_chemical_formula_sum   'K5 Ag2 Te2 S1 O4 F6'
+_cell_volume   201.63708666
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.16739319  0.21721289  0.10129078  1
+  K  K1  1  0.16907699  0.71518999  0.60374296  1
+  F  F2  1  0.66492659  0.71316278  0.60674739  1
+  F  F3  1  0.16934417  0.20808923  0.60996348  1
+  K  K4  1  0.66660261  0.21459188  0.10518461  1
+  Ag  Ag5  1  0.91522366  0.46821699  0.35651004  1
+  Ag  Ag6  1  0.41334847  0.96607083  0.85521138  1
+  F  F7  1  0.17060235  0.71726274  0.09879535  1
+  F  F8  1  0.66264319  0.21437362  0.60814530  1
+  F  F9  1  0.66653681  0.71121973  0.10452205  1
+  K  K10  1  0.01391543  0.74417347  0.41696951  1
+  K  K11  1  0.25130945  0.91259789  0.79189682  1
+  S  S12  1  0.33624628  0.65149850  0.16989303  1
+  O  O13  1  0.86742246  0.15056148  0.97741169  1
+  Te  Te14  1  0.88329440  0.45944774  0.96046513  1
+  O  O15  1  0.04909926  0.41629609  0.79322040  1
+  O  O16  1  0.88620776  0.26443332  0.45421547  1
+  Te  Te17  1  0.69318575  0.24961227  0.59392345  1
+  K  K18  1  0.49495366  0.16091725  0.17594714  1
+  O  O19  1  0.63230574  0.91773379  0.58940291  1

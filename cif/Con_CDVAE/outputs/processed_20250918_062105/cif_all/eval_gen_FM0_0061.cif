@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NdYHf4V2(BiW)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16531563
+_cell_length_b   5.50379944
+_cell_length_c   6.39893579
+_cell_angle_alpha   100.40699768
+_cell_angle_beta   103.24047852
+_cell_angle_gamma   90.88017273
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdYHf4V2(BiW)2
+_chemical_formula_sum   'Nd1 Y1 Hf4 V2 Bi2 W2'
+_cell_volume   140.20052803
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.58417338  0.07703066  0.36798301  1
+  Y  Y1  1  0.33673090  0.46775520  0.88416708  1
+  Bi  Bi2  1  0.07634751  0.57795876  0.35884288  1
+  Bi  Bi3  1  0.84731281  0.97297525  0.89542520  1
+  W  W4  1  0.35492009  0.18627185  0.16376056  1
+  V  V5  1  0.86836076  0.30575138  0.94643313  1
+  V  V6  1  0.86800909  0.55169129  0.42157257  1
+  Hf  Hf7  1  0.36106387  0.42702985  0.67645663  1
+  Hf  Hf8  1  0.86407524  0.79798025  0.91066515  1
+  Hf  Hf9  1  0.86363596  0.06421372  0.43824670  1
+  Hf  Hf10  1  0.36571729  0.68432754  0.19584635  1
+  W  W11  1  0.36581028  0.93071580  0.68711895  1

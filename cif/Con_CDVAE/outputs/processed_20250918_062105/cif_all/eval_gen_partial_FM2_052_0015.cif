@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_NaTaV2PbW2Cl2O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36528301
+_cell_length_b   4.56603670
+_cell_length_c   5.44723654
+_cell_angle_alpha   85.20360565
+_cell_angle_beta   92.62124634
+_cell_angle_gamma   89.04724884
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTaV2PbW2Cl2O13
+_chemical_formula_sum   'Na1 Ta1 V2 Pb1 W2 Cl2 O13'
+_cell_volume   108.05831592
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.89340627  0.35096991  0.14067173  1
+  O  O1  1  0.41465512  0.60025591  0.89335173  1
+  O  O2  1  0.39911717  0.10698447  0.38732174  1
+  Na  Na3  1  0.27355221  0.10599776  0.88101864  1
+  V  V4  1  0.78515971  0.60533196  0.88837284  1
+  V  V5  1  0.78753710  0.11541234  0.38847357  1
+  Pb  Pb6  1  0.25954983  0.60604089  0.39014736  1
+  O  O7  1  0.88348091  0.84884393  0.14445762  1
+  O  O8  1  0.87515956  0.36338133  0.63735127  1
+  O  O9  1  0.88483596  0.84805667  0.64144170  1
+  O  O10  1  0.52971637  0.51121044  0.15233092  1
+  O  O11  1  0.35528511  0.71853948  0.47107595  1
+  O  O12  1  0.44527581  0.37491018  0.56083894  1
+  O  O13  1  0.00281072  0.43279913  0.33967382  1
+  Cl  Cl14  1  0.40221021  0.94678497  0.05251336  1
+  Ta  Ta15  1  0.67861885  0.57764560  0.40231645  1
+  W  W16  1  0.13481577  0.49375212  0.63728797  1
+  Cl  Cl17  1  0.95777500  0.20100433  0.75197089  1
+  O  O18  1  0.91747200  0.77852416  0.24491304  1
+  O  O19  1  0.83118284  0.64703530  0.65138060  1
+  W  W20  1  0.22994587  0.65997779  0.17178978  1
+  O  O21  1  0.17708090  0.57067627  0.90234888  1

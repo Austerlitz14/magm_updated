@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ba2NaCa2Be2Pd2Se5O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17033577
+_cell_length_b   5.71305418
+_cell_length_c   6.62836552
+_cell_angle_alpha   97.26244354
+_cell_angle_beta   102.22594452
+_cell_angle_gamma   92.29195404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2NaCa2Be2Pd2Se5O6
+_chemical_formula_sum   'Ba2 Na1 Ca2 Be2 Pd2 Se5 O6'
+_cell_volume   152.73981857
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.77376390  0.51834249  0.37203115  1
+  O  O1  1  0.27493969  0.26381755  0.38364446  1
+  O  O2  1  0.93005812  0.40903410  0.71962905  1
+  O  O3  1  0.70067102  0.71058464  0.02819900  1
+  Be  Be4  1  0.75892621  0.45924497  0.92481947  1
+  O  O5  1  0.72621697  0.25199786  0.06647975  1
+  Be  Be6  1  0.22603467  0.05463265  0.50825584  1
+  O  O7  1  0.06550368  0.09394497  0.71779490  1
+  O  O8  1  0.29448235  0.79218483  0.40446413  1
+  Ca  Ca9  1  0.22796790  0.98639506  0.07161329  1
+  Pd  Pd10  1  0.39787266  0.36115664  0.74569273  1
+  Se  Se11  1  0.63156956  0.04925778  0.78138387  1
+  Se  Se12  1  0.17444751  0.32601359  0.05997193  1
+  Na  Na13  1  0.90062314  0.58715081  0.51919842  1
+  Se  Se14  1  0.24504973  0.68935150  0.72253853  1
+  Ba  Ba15  1  0.21704519  0.06840287  0.45319504  1
+  Pd  Pd16  1  0.87702596  0.13369986  0.98210889  1
+  Se  Se17  1  0.89636070  0.88355851  0.23077360  1
+  Ba  Ba18  1  0.58540434  0.65745932  0.04019929  1
+  Se  Se19  1  0.55708027  0.38241091  0.42061019  1

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Fe3Mo3Fe
+_chemical_formula_sum              "Fe4 Mo3"
+_cell_length_a       3.042294686042699
+_cell_length_b       3.042244817955367
+_cell_length_c       10.421550750732422
+_cell_angle_alpha    98.38136819268651
+_cell_angle_beta     98.3437000105305
+_cell_angle_gamma    89.99812409248077
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.32357361912727356  0.8793022036552429  0.33648282289505005  1.0000
+  Fe  Fe2       1.0  0.4674854874610901  0.02373930625617504  0.6223750710487366  1.0000
+  Fe  Fe3       1.0  0.03202757611870766  0.5884864926338197  0.7535154223442078  1.0000
+  Mo  Mo1       1.0  0.8949615359306335  0.45101159811019903  0.4787340462207795  1.0000
+  Mo  Mo2       1.0  0.6066295504570007  0.1630602926015854  0.9015151858329774  1.0000
+  Mo  Mo3       1.0  0.18484875559806824  0.7408336997032166  0.058444339781999595  1.0000
+  Fe  Fe4       1.0  0.7586187720298767  0.3142650723457337  0.20592595636844638  1.0000

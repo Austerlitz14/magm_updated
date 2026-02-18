@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NiMnAl2MnAlMnNi3
+_chemical_formula_sum              "Ni4 Mn3 Al3"
+_cell_length_a       3.917795883011328
+_cell_length_b       5.0447810262267065
+_cell_length_c       6.505603313446045
+_cell_angle_alpha    88.87906594088803
+_cell_angle_beta     107.43869775426671
+_cell_angle_gamma    90.00419627213046
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.33317846098429127  0.19348707820263658  0.420034408625246  1.0000
+  Mn  Mn1       1.0  0.5327971589257885  0.2743001291200079  0.8201038842712361  1.0000
+  Al  Al1       1.0  0.3384343090880057  0.6955628993168225  0.4314149016472032  1.0000
+  Al  Al2       1.0  0.7393500198697411  0.3741023544127949  0.23331281548366098  1.0000
+  Mn  Mn2       1.0  0.9318329702612069  0.994761823885149  0.6191040875341165  1.0000
+  Al  Al3       1.0  0.13783784105745167  0.047468464043213636  0.03047292623739161  1.0000
+  Mn  Mn3       1.0  0.5421710599539428  0.7625664480004495  0.8379969592891088  1.0000
+  Ni  Ni2       1.0  0.1422429988542796  0.5475918047038775  0.038675114437236646  1.0000
+  Ni  Ni3       1.0  0.9344853760856486  0.4933676718870447  0.6231030229917522  1.0000
+  Ni  Ni4       1.0  0.7371036410959121  0.8732116226717243  0.22918035101263634  1.0000

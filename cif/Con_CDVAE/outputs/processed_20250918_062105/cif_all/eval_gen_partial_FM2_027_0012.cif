@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_BaLaFeCoAg2Bi2P2O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89292502
+_cell_length_b   4.44716787
+_cell_length_c   7.72079277
+_cell_angle_alpha   88.48188782
+_cell_angle_beta   91.69122314
+_cell_angle_gamma   90.54174805
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLaFeCoAg2Bi2P2O13
+_chemical_formula_sum   'Ba1 La1 Fe1 Co1 Ag2 Bi2 P2 O13'
+_cell_volume   133.55600221
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.57132328  0.71130323  0.16499612  1
+  O  O1  1  0.07604567  0.20330295  0.16863111  1
+  O  O2  1  0.57208544  0.70699608  0.78264135  1
+  La  La3  1  0.57817459  0.20405555  0.97490633  1
+  Ba  Ba4  1  0.57836491  0.21199046  0.45793447  1
+  Co  Co5  1  0.08119771  0.71249586  0.21152680  1
+  O  O6  1  0.07666923  0.20746593  0.76789081  1
+  O  O7  1  0.07879536  0.70420456  0.47312576  1
+  Fe  Fe8  1  0.07929889  0.70831817  0.72002202  1
+  O  O9  1  0.66349024  0.06526116  0.59397531  1
+  Bi  Bi10  1  0.22258303  0.27338150  0.78860450  1
+  O  O11  1  0.33689770  0.45702550  0.93228412  1
+  O  O12  1  0.30895817  0.56599021  0.40666962  1
+  O  O13  1  0.86197925  0.47688827  0.94790721  1
+  O  O14  1  0.90758020  0.35979378  0.46878582  1
+  O  O15  1  0.00943777  0.98163426  0.75277007  1
+  O  O16  1  0.52293193  0.87132019  0.29941815  1
+  Ag  Ag17  1  0.63819438  0.67163903  0.68118232  1
+  Bi  Bi18  1  0.97940993  0.65411121  0.08312678  1
+  Ag  Ag19  1  0.56807923  0.25111616  0.20101747  1
+  P  P20  1  0.34873217  0.79252958  0.27463365  1
+  P  P21  1  0.85303974  0.13784076  0.60546470  1
+  O  O22  1  0.18646421  0.93851024  0.13940877  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PK2P
+_chemical_formula_sum              "P2 K2"
+_cell_length_a       3.670439939380348
+_cell_length_b       5.2784509481040365
+_cell_length_c       6.395340442657471
+_cell_angle_alpha    114.34033765313627
+_cell_angle_beta     106.47460084639198
+_cell_angle_gamma    89.98713531081836
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.4302060604095459  0.9683597087860106  0.7212806344032286  1.0000
+  K   K1        1.0  0.007934559136629105  0.5475765466690063  0.8786111474037169  1.0000
+  K   K2        1.0  0.2256748378276825  0.262419044971466  0.3102523386478424  1.0000
+  P   P2        1.0  0.8041895031929016  0.8424910306930542  0.4689092338085175  1.0000

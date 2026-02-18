@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Bi2EuPb
+_chemical_formula_sum              "Bi2 Eu1 Pb1"
+_cell_length_a       4.9474703153251784
+_cell_length_b       5.173868181612212
+_cell_length_c       5.173464298248291
+_cell_angle_alpha    89.99829495728973
+_cell_angle_beta     89.95453393533653
+_cell_angle_gamma    90.01649741085666
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.4903368055820465  0.95390784740448  0.33732497692108154  1.0000
+  Bi  Bi2       1.0  0.4903325140476227  0.4556698501110077  0.8366249203681946  1.0000
+  Eu  Eu1       1.0  0.9906691908836365  0.4542280733585358  0.3363557755947113  1.0000
+  Pb  Pb1       1.0  0.9906368255615234  0.9548700451850891  0.8365250825881958  1.0000

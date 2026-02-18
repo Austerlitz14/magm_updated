@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Rb3LaCe2ZnCu3PC2Se5N8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00638723
+_cell_length_b   6.33233500
+_cell_length_c   7.99694633
+_cell_angle_alpha   107.13891602
+_cell_angle_beta   101.45845795
+_cell_angle_gamma   104.95642090
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3LaCe2ZnCu3PC2Se5N8
+_chemical_formula_sum   'Rb3 La1 Ce2 Zn1 Cu3 P1 C2 Se5 N8'
+_cell_volume   223.45299340
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.88723475  0.62902761  0.39397055  1
+  Ce  Ce1  1  0.35686010  0.50304109  0.08502291  1
+  N  N2  1  0.91500515  0.56435555  0.19251008  1
+  N  N3  1  0.94196451  0.24182981  0.75809944  1
+  N  N4  1  0.56204647  0.41644019  0.77398419  1
+  C  C5  1  0.75052375  0.32481086  0.76326650  1
+  La  La6  1  0.74339032  0.83052158  0.76869416  1
+  N  N7  1  0.36165431  0.81210136  0.96027833  1
+  N  N8  1  0.56612474  0.99698186  0.29584673  1
+  C  C9  1  0.38096666  0.97634059  0.11522485  1
+  N  N10  1  0.14321193  0.83879769  0.56118727  1
+  Ce  Ce11  1  0.16489434  0.15766999  0.44718656  1
+  N  N12  1  0.55746275  0.52552909  0.42561182  1
+  N  N13  1  0.17672865  0.09926046  0.09758900  1
+  Rb  Rb14  1  0.03547900  0.29369330  0.12311045  1
+  Cu  Cu15  1  0.24991003  0.01277434  0.44819188  1
+  Se  Se16  1  0.00416335  0.79428697  0.28766388  1
+  Se  Se17  1  0.52731895  0.07904446  0.13465285  1
+  Zn  Zn18  1  0.35095906  0.78761834  0.05778736  1
+  Cu  Cu19  1  0.61778384  0.79381043  0.31093216  1
+  Cu  Cu20  1  0.24473666  0.56958908  0.44682029  1
+  Se  Se21  1  0.41247830  0.78507602  0.66239738  1
+  Se  Se22  1  0.54491615  0.50344169  0.13324447  1
+  Rb  Rb23  1  0.57114577  0.29252264  0.63950449  1
+  Rb  Rb24  1  0.88864708  0.79024714  0.79906428  1
+  Se  Se25  1  0.07556680  0.28705549  0.61752534  1

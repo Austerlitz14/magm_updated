@@ -1,0 +1,45 @@
+data_Pr1Fe1O3
+_symmetry_space_group_name_H-M Pnma
+_cell_length_a 5.5527
+_cell_length_b 3.7784
+_cell_length_c 5.5140
+_cell_angle_alpha 90.0000
+_cell_angle_beta 90.0000
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 62
+_chemical_formula_structural PrFeO3
+_chemical_formula_sum 'Pr12 Fe12 O36'
+_cell_volume 116.0734
+_cell_formula_units_Z 12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  '-x, y+1/2, -z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, -y+1/2, -z+1/2'
+  5  'x, y, z'
+  6  'x-1/2, y, -z-1/2'
+  7  '-x-1/2, y-1/2, z-1/2'
+  8  'x, -y-1/2, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Pr Pr0 4 0.0032 0.2500 0.5201 1
+Pr Pr1 4 0.1892 0.2500 0.0017 1
+Pr Pr2 4 0.1925 0.7500 0.0140 1
+Fe Fe3 4 0.0000 0.0000 0.0000 1
+Fe Fe4 4 0.0070 0.7500 0.5043 1
+Fe Fe5 4 0.0932 0.7500 0.5116 1
+O O6 8 0.1203 0.5331 0.7763 1
+O O7 8 0.1221 0.0034 0.2746 1
+O O8 4 0.0063 0.2500 0.9685 1
+O O9 4 0.0194 0.7500 0.4026 1
+O O10 4 0.2248 0.7500 0.5740 1
+O O11 4 0.2491 0.2500 0.5734 1
+

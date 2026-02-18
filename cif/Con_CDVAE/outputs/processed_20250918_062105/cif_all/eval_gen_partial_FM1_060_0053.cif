@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CsNbCu3Te8P(Pt2Se)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31501961
+_cell_length_b   4.46392536
+_cell_length_c   9.23739624
+_cell_angle_alpha   91.01861572
+_cell_angle_beta   92.44606781
+_cell_angle_gamma   90.82673645
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNbCu3Te8P(Pt2Se)2
+_chemical_formula_sum   'Cs1 Nb1 Cu3 Te8 P1 Pt4 Se2'
+_cell_volume   177.71927858
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.61818475  0.30004454  0.55478740  1
+  Cu  Cu1  1  0.60841107  0.29722565  0.28128979  1
+  Se  Se2  1  0.11213084  0.29422876  0.14106315  1
+  Se  Se3  1  0.11296076  0.29973558  0.68927670  1
+  Cs  Cs4  1  0.60837764  0.79871994  0.91263878  1
+  Cu  Cu5  1  0.11922403  0.79974157  0.56068319  1
+  Nb  Nb6  1  0.11083877  0.79748905  0.28081584  1
+  P  P7  1  0.61642385  0.79299283  0.41855043  1
+  Te  Te8  1  0.67871523  0.54350704  0.84447670  1
+  Te  Te9  1  0.67894340  0.04157142  0.34961817  1
+  Te  Te10  1  0.70755941  0.06123577  0.59221226  1
+  Te  Te11  1  0.18649817  0.54824454  0.34379008  1
+  Te  Te12  1  0.19256130  0.04070625  0.84888220  1
+  Te  Te13  1  0.19870932  0.56474537  0.59500289  1
+  Pt  Pt14  1  0.42370391  0.28706706  0.46841776  1
+  Pt  Pt15  1  0.39047691  0.74991477  0.97386968  1
+  Te  Te16  1  0.68724209  0.54129207  0.09038728  1
+  Pt  Pt17  1  0.98130667  0.34049296  0.97071892  1
+  Te  Te18  1  0.18836848  0.06111091  0.09428898  1
+  Pt  Pt19  1  0.97222799  0.83078945  0.46920127  1

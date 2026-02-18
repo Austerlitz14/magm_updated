@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       EuSi2CoNi
+_chemical_formula_sum              "Eu1 Si2 Co1 Ni1"
+_cell_length_a       3.9564117302167587
+_cell_length_b       3.954642208739199
+_cell_length_c       5.689326763153076
+_cell_angle_alpha    110.3355661821349
+_cell_angle_beta     110.35222453424959
+_cell_angle_gamma    89.98137573231021
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.15494723618030548  0.10615982860326767  0.7021743059158325  1.0000
+  Si  Si1       1.0  0.7853755950927734  0.7368212342262268  0.9632539153099061  1.0000
+  Si  Si2       1.0  0.5242127180099487  0.47572922706604004  0.44151115417480474  1.0000
+  Co  Co1       1.0  0.4048132002353668  0.856445074081421  0.20221304893493658  1.0000
+  Ni  Ni1       1.0  0.9050982594490051  0.35604530572891235  0.20207720994949346  1.0000

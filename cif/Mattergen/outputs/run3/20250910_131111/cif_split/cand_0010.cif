@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnCoFe2C
+_chemical_formula_sum              "Mn1 Co1 Fe2 C1"
+_cell_length_a       3.7374964740749324
+_cell_length_b       3.7545709913816445
+_cell_length_c       3.756467819213867
+_cell_angle_alpha    90.02978213132947
+_cell_angle_beta     90.01312329778905
+_cell_angle_gamma    90.02817020342991
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.5528227685964888  0.28796881435699684  0.4924836464728967  1.0000
+  Co  Co1       1.0  0.5537302502381065  0.7880145306249458  0.9926304232882681  1.0000
+  Fe  Fe1       1.0  0.053167130591006355  0.7879952181605575  0.49239391197879195  1.0000
+  Fe  Fe2       1.0  0.0532828578643878  0.28798720261435945  0.9925569901499041  1.0000
+  C   C1        1.0  0.05410021637365705  0.7880356915033851  0.9927321068507406  1.0000

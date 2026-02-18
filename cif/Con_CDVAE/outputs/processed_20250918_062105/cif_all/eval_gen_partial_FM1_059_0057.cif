@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Na3SmAgHgTe4(SeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.85455847
+_cell_length_b   7.07614326
+_cell_length_c   7.32312775
+_cell_angle_alpha   110.29695129
+_cell_angle_beta   88.57400513
+_cell_angle_gamma   88.32887268
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3SmAgHgTe4(SeO3)2
+_chemical_formula_sum   'Na3 Sm1 Ag1 Hg1 Te4 Se2 O6'
+_cell_volume   284.22330827
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.87788635  0.27394572  0.96461195  1
+  Sm  Sm1  1  0.88214177  0.78067058  0.46905136  1
+  Na  Na2  1  0.37588203  0.52267736  0.71127903  1
+  Te  Te3  1  0.37936145  0.02223235  0.71014667  1
+  Te  Te4  1  0.37164304  0.53835267  0.22207271  1
+  Na  Na5  1  0.37477389  0.03026593  0.20877054  1
+  Te  Te6  1  0.88120401  0.27796993  0.45838478  1
+  Te  Te7  1  0.87844598  0.77938616  0.96304393  1
+  O  O8  1  0.33225659  0.23081784  0.26301771  1
+  O  O9  1  0.33690110  0.83959359  0.67054313  1
+  O  O10  1  0.74548471  0.38697252  0.52962232  1
+  O  O11  1  0.54141450  0.69486201  0.27280822  1
+  Se  Se12  1  0.42008424  0.47162324  0.42216259  1
+  Ag  Ag13  1  0.48840132  0.37000129  0.90952557  1
+  Hg  Hg14  1  0.94025183  0.95450032  0.27325851  1
+  O  O15  1  0.00587977  0.10328795  0.88555509  1
+  Se  Se16  1  0.99408251  0.83947724  0.76293015  1
+  O  O17  1  0.97068614  0.62259597  0.90170318  1

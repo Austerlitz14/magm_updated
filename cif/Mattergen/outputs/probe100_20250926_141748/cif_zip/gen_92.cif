@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AgGaEu2
+_chemical_formula_sum              "Ag1 Ga1 Eu2"
+_cell_length_a       3.738528380955639
+_cell_length_b       3.7396081070952696
+_cell_length_c       7.935075283050537
+_cell_angle_alpha    89.98993480574275
+_cell_angle_beta     89.97458736958095
+_cell_angle_gamma    89.99994103277793
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.24228759109973907  0.46139574050903315  0.0037492725532501936  1.0000
+  Ga  Ga1       1.0  0.24215741455554962  0.4614324867725372  0.5037510395050049  1.0000
+  Eu  Eu1       1.0  0.7416684627532959  0.9609436392784118  0.26169928908348083  1.0000
+  Eu  Eu2       1.0  0.7427543997764587  0.9613544344902037  0.7453102469444275  1.0000

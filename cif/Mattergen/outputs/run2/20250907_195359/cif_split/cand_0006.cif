@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NiHNiOHO2
+_chemical_formula_sum              "Ni2 H2 O3"
+_cell_length_a       3.050160951993728
+_cell_length_b       3.0489672660915352
+_cell_length_c       8.974054336547852
+_cell_angle_alpha    90.04299171566524
+_cell_angle_beta     99.68277221040205
+_cell_angle_gamma    119.97211007984731
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.7683000552510432  0.5388315907327035  0.3276898557328785  1.0000
+  H   H1        1.0  0.24950066291923975  0.2780171940737715  0.5503689048393868  1.0000
+  Ni  Ni2       1.0  0.9169815803525513  0.11214553752750696  0.044583722753332805  1.0000
+  O   O1        1.0  0.17911846920259686  0.24327567052736  0.44410902220361653  1.0000
+  H   H2        1.0  0.43636783853281536  0.3723171958005136  0.8227825162173802  1.0000
+  O   O2        1.0  0.3432964070630036  0.8257946371523586  0.1867715570364522  1.0000
+  O   O3        1.0  0.5069830423023952  0.40827754154216594  0.9288738971113668  1.0000

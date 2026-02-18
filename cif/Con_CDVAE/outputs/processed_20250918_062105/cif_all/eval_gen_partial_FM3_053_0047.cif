@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Li3CaSc2UCoCu2Si2O15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.62602329
+_cell_length_b   5.39589071
+_cell_length_c   7.61183167
+_cell_angle_alpha   100.82267761
+_cell_angle_beta   93.77614594
+_cell_angle_gamma   110.42674255
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3CaSc2UCoCu2Si2O15
+_chemical_formula_sum   'Li3 Ca1 Sc2 U1 Co1 Si2 Cu2 O15'
+_cell_volume   135.67909717
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.97561222  0.27900219  0.45181227  1
+  Li  Li1  1  0.77921373  0.90679419  0.50808764  1
+  O  O2  1  0.45218658  0.25686404  0.15509394  1
+  Li  Li3  1  0.36582631  0.08650918  0.34890008  1
+  O  O4  1  0.70073688  0.74475402  0.21802336  1
+  Co  Co5  1  0.12407400  0.58407432  0.67170703  1
+  O  O6  1  0.74073267  0.81974220  0.76913667  1
+  Li  Li7  1  0.66713595  0.68925095  0.96637440  1
+  U  U8  1  0.08260938  0.49556875  0.23106009  1
+  Ca  Ca9  1  0.38308126  0.13214211  0.83346826  1
+  O  O10  1  0.22679302  0.81338853  0.49157608  1
+  O  O11  1  0.04772498  0.45731497  0.90673697  1
+  Si  Si12  1  0.06022103  0.59994662  0.35238320  1
+  Si  Si13  1  0.77938974  0.32545906  0.03261828  1
+  O  O14  1  0.26523840  0.80038613  0.66991889  1
+  O  O15  1  0.58541369  0.12925366  0.13962483  1
+  O  O16  1  0.60748506  0.56157714  0.90342271  1
+  O  O17  1  0.82602060  0.77613503  0.48452923  1
+  O  O18  1  0.23922370  0.36008954  0.47532815  1
+  O  O19  1  0.01918386  0.14785378  0.90454650  1
+  Cu  Cu20  1  0.92560804  0.96301562  0.69314522  1
+  Cu  Cu21  1  0.41941553  0.46258289  0.69074535  1
+  Sc  Sc22  1  0.38130569  0.92292392  0.94648147  1
+  Sc  Sc23  1  0.45974857  0.99703294  0.43674117  1
+  O  O24  1  0.25153410  0.79887092  0.24217717  1
+  O  O25  1  0.58194619  0.12363933  0.71261472  1
+  O  O26  1  0.91590589  0.45892978  0.19079643  1

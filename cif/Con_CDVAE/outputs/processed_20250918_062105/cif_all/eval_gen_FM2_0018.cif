@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Rb2Li4GdTl5Cl4(O2F3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57658815
+_cell_length_b   6.90520716
+_cell_length_c   7.59869337
+_cell_angle_alpha   71.11316681
+_cell_angle_beta   79.01973724
+_cell_angle_gamma   78.10055542
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Li4GdTl5Cl4(O2F3)2
+_chemical_formula_sum   'Rb2 Li4 Gd1 Tl5 Cl4 O4 F6'
+_cell_volume   316.61637101
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.68434513  0.17533065  0.59899908  1
+  Tl  Tl1  1  0.48134148  0.50550115  0.32681507  1
+  Cl  Cl2  1  0.36370966  0.83303249  0.92731726  1
+  Tl  Tl3  1  0.98995292  0.00667057  0.32902464  1
+  Cl  Cl4  1  0.85629815  0.33294770  0.94013000  1
+  Cl  Cl5  1  0.51341927  0.01426417  0.25667712  1
+  O  O6  1  0.67947710  0.68162876  0.59844202  1
+  Gd  Gd7  1  0.93694580  0.42955586  0.58948231  1
+  Cl  Cl8  1  0.01535547  0.52533424  0.24602048  1
+  O  O9  1  0.18671888  0.67904353  0.59660721  1
+  O  O10  1  0.19656999  0.17093548  0.58461690  1
+  Tl  Tl11  1  0.44213077  0.92804056  0.59536183  1
+  Tl  Tl12  1  0.88508707  0.84993953  0.84913206  1
+  Tl  Tl13  1  0.38018391  0.34746000  0.86089981  1
+  Li  Li14  1  0.90086687  0.56955630  0.61068189  1
+  F  F15  1  0.57532364  0.58323038  0.52355593  1
+  F  F16  1  0.07624125  0.89259589  0.77381396  1
+  Li  Li17  1  0.40029225  0.90187579  0.66475552  1
+  F  F18  1  0.07103318  0.36210725  0.29564297  1
+  Rb  Rb19  1  0.90477192  0.91309041  0.33187044  1
+  Li  Li20  1  0.40102646  0.25788727  0.30252302  1
+  F  F21  1  0.90323383  0.42371616  0.83201271  1
+  F  F22  1  0.39546061  0.01436049  0.42138478  1
+  Li  Li23  1  0.90608203  0.20007531  0.97397381  1
+  Rb  Rb24  1  0.39536831  0.53373826  0.93249387  1
+  F  F25  1  0.57265776  0.12011087  0.99307436  1

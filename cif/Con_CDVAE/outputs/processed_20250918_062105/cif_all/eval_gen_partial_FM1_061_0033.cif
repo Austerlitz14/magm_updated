@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_PrLu2Cd2In2Se3S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15640116
+_cell_length_b   4.97607851
+_cell_length_c   8.52970982
+_cell_angle_alpha   98.15302277
+_cell_angle_beta   97.68020630
+_cell_angle_gamma   110.90106201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrLu2Cd2In2Se3S5
+_chemical_formula_sum   'Pr1 Lu2 Cd2 In2 Se3 S5'
+_cell_volume   159.87157110
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.11968760  0.67533696  0.36471528  1
+  Se  Se1  1  0.85087895  0.50075960  0.01925103  1
+  Se  Se2  1  0.81081265  0.05974674  0.38198256  1
+  Pr  Pr3  1  0.09182683  0.24053152  0.74348903  1
+  Se  Se4  1  0.36773062  0.81039405  0.70368522  1
+  Cd  Cd5  1  0.57124442  0.91203254  0.04298257  1
+  In  In6  1  0.11406881  0.14477924  0.77500445  1
+  S  S7  1  0.60793632  0.21804543  0.65447623  1
+  Lu  Lu8  1  0.60122019  0.33631572  0.45552850  1
+  S  S9  1  0.10141669  0.83657706  0.44680110  1
+  Lu  Lu10  1  0.59343147  0.52099502  0.04595842  1
+  S  S11  1  0.59989005  0.42809457  0.25225872  1
+  In  In12  1  0.09989073  0.92659032  0.25491220  1
+  S  S13  1  0.09093557  0.99907118  0.07614633  1
+  S  S14  1  0.10543682  0.58045167  0.89250898  1

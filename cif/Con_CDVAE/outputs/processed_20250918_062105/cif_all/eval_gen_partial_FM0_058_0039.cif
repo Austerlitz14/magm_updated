@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Pa2Mn3Co3Bi3TeRh4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29165125
+_cell_length_b   5.93326950
+_cell_length_c   5.95911074
+_cell_angle_alpha   95.50975037
+_cell_angle_beta   74.91948700
+_cell_angle_gamma   74.63906097
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa2Mn3Co3Bi3TeRh4
+_chemical_formula_sum   'Pa2 Mn3 Co3 Bi3 Te1 Rh4'
+_cell_volume   171.44487475
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.47371298  0.61641812  0.53956765  1
+  Rh  Rh1  1  0.12766203  0.45435971  0.89998293  1
+  Bi  Bi2  1  0.60709924  0.47961178  0.01064467  1
+  Rh  Rh3  1  0.62805933  0.95155632  0.90202302  1
+  Bi  Bi4  1  0.49249294  0.09062209  0.43746343  1
+  Rh  Rh5  1  0.97662508  0.11357926  0.54289562  1
+  Te  Te6  1  0.00203110  0.58899724  0.44029436  1
+  Bi  Bi7  1  0.10333332  0.97735447  0.01312726  1
+  Mn  Mn8  1  0.00611570  0.70184839  0.50956154  1
+  Pa  Pa9  1  0.00666029  0.70484430  0.00474173  1
+  Co  Co10  1  0.50313193  0.70390934  0.50936484  1
+  Mn  Mn11  1  0.00019502  0.21075167  0.49988452  1
+  Co  Co12  1  0.50508696  0.70171988  0.00275189  1
+  Mn  Mn13  1  0.01164091  0.20199010  0.00666775  1
+  Co  Co14  1  0.49673259  0.20714392  0.01069349  1
+  Pa  Pa15  1  0.50759286  0.20393486  0.50678480  1

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GdNGdPbGd
+_chemical_formula_sum              "Gd3 N1 Pb1"
+_cell_length_a       4.8834075126687475
+_cell_length_b       4.881839490317072
+_cell_length_c       4.883268356323242
+_cell_angle_alpha    90.01700284683105
+_cell_angle_beta     90.02309537519068
+_cell_angle_gamma    90.00955110861689
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.7873772382736206  0.41675058007240295  0.8937273025512695  1.0000
+  N   N1        1.0  0.7873988747596741  0.4169025123119354  0.3940933346748352  1.0000
+  Gd  Gd2       1.0  0.7873908877372742  0.916744828224182  0.39360949397087097  1.0000
+  Pb  Pb1       1.0  0.2873382270336151  0.9166094064712524  0.893661618232727  1.0000
+  Gd  Gd3       1.0  0.2876732647418976  0.416842520236969  0.3936946988105774  1.0000

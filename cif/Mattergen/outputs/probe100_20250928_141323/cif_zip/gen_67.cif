@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co7PdCo
+_chemical_formula_sum              "Co8 Pd1"
+_cell_length_a       3.573949664954032
+_cell_length_b       5.6819484659808905
+_cell_length_c       5.683469295501709
+_cell_angle_alpha    84.37327212908356
+_cell_angle_beta     71.67963852454879
+_cell_angle_gamma    71.65991274027319
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.19865378737449646  0.025141119956970215  0.3845866620540619  1.0000
+  Co  Co2       1.0  0.1980869323015213  0.37428405880928034  0.03607363998889923  1.0000
+  Co  Co3       1.0  0.5334905982017516  0.3650013208389282  0.3755810856819153  1.0000
+  Co  Co4       1.0  0.8730940222740173  0.6850592494010925  0.37585747241973877  1.0000
+  Co  Co5       1.0  0.5476973056793213  0.02496081590652466  0.6873928904533386  1.0000
+  Co  Co6       1.0  0.5473586916923522  0.6766563057899475  0.03615441545844078  1.0000
+  Co  Co7       1.0  0.21271368861198425  0.6852529644966125  0.6962076425552368  1.0000
+  Pd  Pd1       1.0  0.8728699088096619  0.025321757420897484  0.03604675829410553  1.0000
+  Co  Co8       1.0  0.8728554248809814  0.36562666296958923  0.696064293384552  1.0000

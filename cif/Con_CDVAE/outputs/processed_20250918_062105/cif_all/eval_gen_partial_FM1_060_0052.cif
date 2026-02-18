@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Cs3KCo2SnHgMo4(PBr2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.39304066
+_cell_length_b   5.59366655
+_cell_length_c   6.42331600
+_cell_angle_alpha   94.77194214
+_cell_angle_beta   90.50349426
+_cell_angle_gamma   90.18275452
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3KCo2SnHgMo4(PBr2)4
+_chemical_formula_sum   'Cs3 K1 Co2 Sn1 Hg1 Mo4 P4 Br8'
+_cell_volume   121.48335927
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.07257542  0.88594079  0.09280412  1
+  Co  Co1  1  0.57288843  0.54748344  0.95482737  1
+  P  P2  1  0.08746172  0.61775064  0.76715893  1
+  P  P3  1  0.57525194  0.17351894  0.01287931  1
+  Co  Co4  1  0.07566451  0.24165311  0.81848854  1
+  P  P5  1  0.57549095  0.70106274  0.31461030  1
+  Mo  Mo6  1  0.57788414  0.90804100  0.68743569  1
+  Mo  Mo7  1  0.07629056  0.38701701  0.22109380  1
+  P  P8  1  0.07274035  0.08864588  0.46383324  1
+  Mo  Mo9  1  0.57295096  0.39737538  0.55751485  1
+  Cs  Cs10  1  0.92512876  0.60021698  0.35116071  1
+  Br  Br11  1  0.94741660  0.85958368  0.76084888  1
+  Hg  Hg12  1  0.43402582  0.47866419  0.07040308  1
+  Br  Br13  1  0.17783876  0.22356200  0.07778656  1
+  Br  Br14  1  0.91919076  0.11466064  0.38983598  1
+  Br  Br15  1  0.41942981  0.60889840  0.38901481  1
+  Cs  Cs16  1  0.94100440  0.37103027  0.80062729  1
+  Sn  Sn17  1  0.93011618  0.98431921  0.07506123  1
+  Cs  Cs18  1  0.43962637  0.85936302  0.78471911  1
+  Br  Br19  1  0.44699165  0.34804511  0.75206226  1
+  K  K20  1  0.42026860  0.10233136  0.35417825  1
+  Br  Br21  1  0.17968720  0.74639505  0.07813375  1
+  Br  Br22  1  0.68476158  0.22113211  0.07723828  1
+  Br  Br23  1  0.68922484  0.74622720  0.07390617  1

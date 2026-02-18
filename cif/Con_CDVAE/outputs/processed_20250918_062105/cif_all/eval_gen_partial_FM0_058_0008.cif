@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_RbAlCuCl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.06454277
+_cell_length_b   3.05933285
+_cell_length_c   4.64696932
+_cell_angle_alpha   88.62294006
+_cell_angle_beta   87.56214142
+_cell_angle_gamma   90.34810638
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbAlCuCl2
+_chemical_formula_sum   'Rb2 Al2 Cu2 Cl4'
+_cell_volume   43.51435698
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.90692866  0.46490306  0.17553972  1
+  Al  Al1  1  0.41396537  0.95111257  0.68188471  1
+  Rb  Rb2  1  0.59947270  0.58400279  0.78676569  1
+  Cu  Cu3  1  0.20173199  0.34571531  0.27855021  1
+  Rb  Rb4  1  0.81528801  0.08582266  0.29540515  1
+  Cu  Cu5  1  0.46728322  0.81462371  0.28617442  1
+  Cl  Cl6  1  0.90250510  0.59731740  0.13716233  1
+  Cl  Cl7  1  0.44598937  0.09961064  0.98001254  1
+  Cl  Cl8  1  0.15436833  0.07200375  0.59566396  1
+  Cl  Cl9  1  0.27606282  0.56441003  0.42894673  1

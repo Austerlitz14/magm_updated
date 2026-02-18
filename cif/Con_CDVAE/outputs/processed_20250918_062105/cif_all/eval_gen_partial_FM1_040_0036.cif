@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Ca3YbNdZnGa4CuSnPd9S4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01177263
+_cell_length_b   7.42711926
+_cell_length_c   8.00937653
+_cell_angle_alpha   76.65261078
+_cell_angle_beta   75.94023132
+_cell_angle_gamma   81.69662476
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3YbNdZnGa4CuSnPd9S4
+_chemical_formula_sum   'Ca3 Yb1 Nd1 Zn1 Ga4 Cu1 Sn1 Pd9 S4'
+_cell_volume   280.15519268
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pd  Pd0  1  0.32772905  0.79220557  0.08027703  1
+  Nd  Nd1  1  0.61608297  0.32657275  0.53622246  1
+  Ca  Ca2  1  0.42306721  0.50591135  0.94666934  1
+  Pd  Pd3  1  0.09677372  0.10083859  0.62668675  1
+  Ga  Ga4  1  0.51585400  0.91129130  0.74158227  1
+  Pd  Pd5  1  0.94095218  0.72889739  0.86068320  1
+  Pd  Pd6  1  0.71724045  0.03427552  0.39876932  1
+  Pd  Pd7  1  0.19656980  0.46975645  0.35076520  1
+  Pd  Pd8  1  0.74135047  0.66300446  0.56650060  1
+  Ga  Ga9  1  0.02048392  0.41638410  0.73970580  1
+  Ca  Ca10  1  0.79542410  0.02813857  0.02892400  1
+  Ga  Ga11  1  0.78841227  0.65206307  0.21406436  1
+  Ca  Ca12  1  0.24879217  0.80507588  0.45264196  1
+  Pd  Pd13  1  0.83633769  0.36016205  0.13327718  1
+  Pd  Pd14  1  0.28505027  0.16377369  0.91934013  1
+  Ga  Ga15  1  0.25333413  0.18019898  0.26570272  1
+  S  S16  1  0.49904972  0.45689821  0.21149985  1
+  Yb  Yb17  1  0.78267533  0.75787091  0.68126678  1
+  S  S18  1  0.82928193  0.28756464  0.75398332  1
+  Sn  Sn19  1  0.28118071  0.31463626  0.76306522  1
+  Cu  Cu20  1  0.85362798  0.35325381  0.12577653  1
+  Pd  Pd21  1  0.22782268  0.75933021  0.35163009  1
+  Zn  Zn22  1  0.54485661  0.02995026  0.22252482  1
+  S  S23  1  0.93549484  0.98809141  0.19728622  1
+  S  S24  1  0.30338800  0.77199930  0.75502169  1

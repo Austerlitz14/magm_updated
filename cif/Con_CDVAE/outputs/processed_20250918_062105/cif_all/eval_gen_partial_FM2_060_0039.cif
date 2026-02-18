@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_K2Li2Ca3YBeCdBiMoN3O4F5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03515863
+_cell_length_b   5.92205763
+_cell_length_c   6.13072729
+_cell_angle_alpha   101.17205811
+_cell_angle_beta   92.95072174
+_cell_angle_gamma   96.62465668
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Li2Ca3YBeCdBiMoN3O4F5
+_chemical_formula_sum   'K2 Li2 Ca3 Y1 Be1 Cd1 Bi1 Mo1 N3 O4 F5'
+_cell_volume   212.91436420
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.22906208  0.45887059  0.24423629  1
+  Li  Li1  1  0.93056464  0.87409645  0.19578312  1
+  F  F2  1  0.92337394  0.15534686  0.07648438  1
+  Li  Li3  1  0.63706839  0.15752323  0.19012117  1
+  F  F4  1  0.06021773  0.31474462  0.49178427  1
+  N  N5  1  0.39560807  0.63939142  0.44764084  1
+  F  F6  1  0.54213643  0.09109464  0.48776770  1
+  K  K7  1  0.71429044  0.45966339  0.77475953  1
+  F  F8  1  0.82950658  0.79524511  0.49663144  1
+  F  F9  1  0.62281406  0.81771541  0.11345106  1
+  Be  Be10  1  0.58816564  0.82536191  0.39591616  1
+  K  K11  1  0.19648902  0.96099865  0.75160974  1
+  N  N12  1  0.39575428  0.28730530  0.06977218  1
+  N  N13  1  0.08276118  0.62310791  0.06942596  1
+  Ca  Ca14  1  0.72968829  0.39486465  0.82448447  1
+  O  O15  1  0.22908032  0.80930477  0.51575369  1
+  Ca  Ca16  1  0.22696735  0.91054356  0.82627189  1
+  O  O17  1  0.73401546  0.88918358  0.76840800  1
+  O  O18  1  0.72364432  0.33062461  0.52984601  1
+  O  O19  1  0.23341872  0.41063651  0.86516285  1
+  Cd  Cd20  1  0.21910504  0.55725378  0.12465262  1
+  Y  Y21  1  0.72990996  0.81274980  0.51776493  1
+  Bi  Bi22  1  0.73046023  0.99075925  0.15205720  1
+  Ca  Ca23  1  0.22433984  0.28367031  0.43816221  1

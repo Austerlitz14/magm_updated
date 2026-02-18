@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Cs5KUAlGa2Te3MoPSe10I
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31724262
+_cell_length_b   8.81892300
+_cell_length_c   12.23547745
+_cell_angle_alpha   86.69069672
+_cell_angle_beta   90.56213379
+_cell_angle_gamma   90.76702881
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs5KUAlGa2Te3MoPSe10I
+_chemical_formula_sum   'Cs5 K1 U1 Al1 Ga2 Te3 Mo1 P1 Se10 I1'
+_cell_volume   788.13823739
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.22739477  0.35262156  0.74852651  1
+  Se  Se1  1  0.69888604  0.43064678  0.11433202  1
+  Se  Se2  1  0.05577387  0.19286075  0.60772526  1
+  Se  Se3  1  0.23708107  0.60296214  0.35916284  1
+  Se  Se4  1  0.26407939  0.12966847  0.87650043  1
+  Se  Se5  1  0.63604385  0.97096264  0.13207179  1
+  K  K6  1  0.21861300  0.35771286  0.12008048  1
+  Cs  Cs7  1  0.75364947  0.68251258  0.38223523  1
+  Se  Se8  1  0.50163543  0.46094903  0.64935911  1
+  Cs  Cs9  1  0.59186292  0.71412235  0.87377357  1
+  Cs  Cs10  1  0.75835013  0.20564470  0.84918481  1
+  Se  Se11  1  0.10405055  0.57241189  0.85421497  1
+  Se  Se12  1  0.04624889  0.72699821  0.68040389  1
+  P  P13  1  0.75272506  0.18920998  0.17206018  1
+  Se  Se14  1  0.93108577  0.16275199  0.31065449  1
+  Se  Se15  1  0.49983433  0.90422279  0.60039604  1
+  Cs  Cs16  1  0.43841383  0.21508512  0.41583583  1
+  Cs  Cs17  1  0.12806252  0.85970491  0.11136314  1
+  Ga  Ga18  1  0.32268208  0.65942973  0.55178219  1
+  Ga  Ga19  1  0.21460347  0.99119216  0.69627059  1
+  Te  Te20  1  0.38644418  0.75252402  0.67587459  1
+  Te  Te21  1  0.15202336  0.83908159  0.20232584  1
+  I  I22  1  0.57819134  0.31001750  0.04893022  1
+  Mo  Mo23  1  0.77321255  0.82206547  0.44498444  1
+  Te  Te24  1  0.82898664  0.23499377  0.57254189  1
+  U  U25  1  0.23104361  0.39072204  0.34478581  1

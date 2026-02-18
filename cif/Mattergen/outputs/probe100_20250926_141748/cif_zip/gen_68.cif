@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NiGeCoNi
+_chemical_formula_sum              "Ni2 Ge1 Co1"
+_cell_length_a       3.5688203769762787
+_cell_length_b       3.5756719501359115
+_cell_length_c       4.380790710449219
+_cell_angle_alpha    113.85186947880771
+_cell_angle_beta     113.8315552186608
+_cell_angle_gamma    89.90847806344814
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9648035168647766  0.8257535696029663  0.8541379570960999  1.0000
+  Ge  Ge1       1.0  0.21537597477436066  0.5762811899185181  0.35501110553741455  1.0000
+  Co  Co1       1.0  0.7152227759361267  0.07621898502111435  0.3547544479370117  1.0000
+  Ni  Ni2       1.0  0.4654704928398132  0.32639804482460016  0.8550859093666077  1.0000

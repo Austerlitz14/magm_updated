@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaSmTmTiAlAgO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19848204
+_cell_length_b   5.26250696
+_cell_length_c   5.76358271
+_cell_angle_alpha   62.32762909
+_cell_angle_beta   64.00297546
+_cell_angle_gamma   60.25965881
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSmTmTiAlAgO8
+_chemical_formula_sum   'Na1 Sm1 Tm1 Ti1 Al1 Ag1 O8'
+_cell_volume   116.72919336
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.10419820  0.91600192  0.69859618  1
+  Ti  Ti1  1  0.79003018  0.60663623  0.63742638  1
+  Ag  Ag2  1  0.57528609  0.39201576  0.28667536  1
+  O  O3  1  0.93190992  0.95239073  0.43638480  1
+  Tm  Tm4  1  0.30497131  0.12371646  0.08775578  1
+  O  O5  1  0.73907799  0.19156347  0.88312137  1
+  O  O6  1  0.37976885  0.81999362  0.87675762  1
+  O  O7  1  0.50311440  0.75015843  0.44211912  1
+  O  O8  1  0.00872834  0.55158514  0.87880373  1
+  O  O9  1  0.13641770  0.31147668  0.44249821  1
+  O  O10  1  0.49943310  0.92507362  0.69825387  1
+  Na  Na11  1  0.00812715  0.43071562  0.69811076  1
+  Sm  Sm12  1  0.51066911  0.93370175  0.19788913  1
+  O  O13  1  0.01683893  0.43528607  0.20223352  1

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       PSrAu
+_chemical_formula_sum              "P1 Sr1 Au1"
+_cell_length_a       4.344768583186072
+_cell_length_b       4.344127655989418
+_cell_length_c       4.391569137573242
+_cell_angle_alpha    90.00120461777301
+_cell_angle_beta     89.990556353035
+_cell_angle_gamma    120.01075403852938
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.9216970801353455  0.6550325751304626  0.785331666469574  1.0000
+  Sr  Sr1       1.0  0.5882922410964966  0.9877551794052125  0.28508442640304565  1.0000
+  Au  Au1       1.0  0.2551383376121521  0.3212226033210755  0.785086452960968  1.0000

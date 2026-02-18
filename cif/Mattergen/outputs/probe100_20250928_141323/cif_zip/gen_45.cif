@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OGdO3Gd2O
+_chemical_formula_sum              "O5 Gd3"
+_cell_length_a       3.7125861378878824
+_cell_length_b       3.7118850685685496
+_cell_length_c       9.884581565856934
+_cell_angle_alpha    89.9480862359571
+_cell_angle_beta     90.0282180171341
+_cell_angle_gamma    120.03493697504406
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7990010976791382  0.8582228422164917  0.32440805435180664  1.0000
+  Gd  Gd1       1.0  0.7982034087181091  0.8575041890144347  0.6815373301506042  1.0000
+  O   O2        1.0  0.46504679322242737  0.19163033366203308  0.5237663984298706  1.0000
+  O   O3        1.0  0.7985729575157166  0.8582586050033569  0.9229764342308044  1.0000
+  O   O4        1.0  0.1320890188217163  0.5243210792541504  0.12399699538946152  1.0000
+  Gd  Gd2       1.0  0.13224594295024872  0.5254119038581848  0.36531105637550354  1.0000
+  Gd  Gd3       1.0  0.46567025780677795  0.19131484627723694  0.023116370663046837  1.0000
+  O   O5        1.0  0.1311870962381363  0.5248163938522339  0.7224833369255066  1.0000

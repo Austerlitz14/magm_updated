@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AgPd2Ga2AgPd3
+_chemical_formula_sum              "Ag2 Pd5 Ga2"
+_cell_length_a       4.485433015778846
+_cell_length_b       5.343041199747229
+_cell_length_c       6.985673904418945
+_cell_angle_alpha    81.89176876480401
+_cell_angle_beta     71.18016654652801
+_cell_angle_gamma    65.01156391528879
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.5527371168136597  0.23792563378810885  0.2668580710887909  1.0000
+  Pd  Pd1       1.0  0.2509036064147949  0.09184572845697403  0.015591192059218892  1.0000
+  Pd  Pd2       1.0  0.9215483069419861  0.2606823146343231  0.5070353746414185  1.0000
+  Ga  Ga1       1.0  0.23356074094772342  0.7887725234031677  0.3533149957656861  1.0000
+  Ga  Ga2       1.0  0.9072281718254089  0.9664799571037292  0.8289273381233216  1.0000
+  Ag  Ag2       1.0  0.5884187817573547  0.5167987942695618  0.9155885577201844  1.0000
+  Pd  Pd3       1.0  0.570332407951355  0.8777263164520264  0.5914305448532104  1.0000
+  Pd  Pd4       1.0  0.21906529366970062  0.49377664923667913  0.6756755709648133  1.0000
+  Pd  Pd5       1.0  0.8899384140968323  0.6622626781463623  0.16723313927650457  1.0000

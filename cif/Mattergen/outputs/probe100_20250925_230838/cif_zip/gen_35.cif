@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NiFe2Ni6
+_chemical_formula_sum              "Ni7 Fe2"
+_cell_length_a       3.51669430176427
+_cell_length_b       5.544570480167582
+_cell_length_c       5.582547664642334
+_cell_angle_alpha    84.25625088797656
+_cell_angle_beta     71.6344416409883
+_cell_angle_gamma    71.48928615401316
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.4487640857696533  0.7868834733963013  0.7910420894622803  1.0000
+  Fe  Fe1       1.0  0.7850596308708191  0.7871928215026855  0.11877871304750438  1.0000
+  Fe  Fe2       1.0  0.11237024515867233  0.7871196269989014  0.4638027846813202  1.0000
+  Ni  Ni2       1.0  0.7817051410675049  0.12134210020303726  0.7911469340324402  1.0000
+  Ni  Ni3       1.0  0.11547816544771188  0.45332750678062445  0.791304349899292  1.0000
+  Ni  Ni4       1.0  0.11643586307764053  0.11742600053548813  0.12570498883724213  1.0000
+  Ni  Ni5       1.0  0.7811053991317748  0.4567700624465943  0.45653074979782104  1.0000
+  Ni  Ni6       1.0  0.44663345813751226  0.4564967155456543  0.1257035285234451  1.0000
+  Ni  Ni7       1.0  0.4507291316986084  0.11770060658454895  0.4566701352596283  1.0000

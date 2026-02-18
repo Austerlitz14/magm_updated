@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Fe2TmFe3TmFe5
+_chemical_formula_sum              "Fe10 Tm2"
+_cell_length_a       4.18027
+_cell_length_b       4.92805
+_cell_length_c       8.18916
+_cell_angle_alpha    90.0034
+_cell_angle_beta     90.0273
+_cell_angle_gamma    89.9135
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.19230  0.37814  0.50008  1.0000
+  Fe  Fe2       1.0  0.19210  0.13466  0.77026  1.0000
+  Tm  Tm1       1.0  0.19260  0.37790  0.13058  1.0000
+  Fe  Fe3       1.0  0.69321  0.12123  0.92698  1.0000
+  Fe  Fe4       1.0  0.69254  0.87782  0.19622  1.0000
+  Fe  Fe5       1.0  0.69290  0.37739  0.36106  1.0000
+  Tm  Tm2       1.0  0.69248  0.87749  0.56544  1.0000
+  Fe  Fe6       1.0  0.69270  0.63431  0.92642  1.0000
+  Fe  Fe7       1.0  0.19266  0.87786  0.33628  1.0000
+  Fe  Fe8       1.0  0.19240  0.62171  0.76978  1.0000
+  Fe  Fe9       1.0  0.19309  0.87796  0.01484  1.0000
+  Fe  Fe10      1.0  0.69186  0.37743  0.68123  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       YMnCo2
+_chemical_formula_sum              "Y1 Mn1 Co2"
+_cell_length_a       3.0661813449527693
+_cell_length_b       3.065980436756216
+_cell_length_c       6.534824848175049
+_cell_angle_alpha    89.99776220234415
+_cell_angle_beta     89.98136974689864
+_cell_angle_gamma    90.00963990214093
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.7383948568399543  0.055720969547158876  0.8406811946066134  1.0000
+  Mn  Mn1       1.0  0.7381418350879968  0.0558168540482018  0.3405374286826178  1.0000
+  Co  Co1       1.0  0.23849727363949394  0.5557112090450408  0.536112964781227  1.0000
+  Co  Co2       1.0  0.23831534532660942  0.5556236514074294  0.14474552838431007  1.0000

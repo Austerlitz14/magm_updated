@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Gd3HgH
+_chemical_formula_sum              "Gd3 Hg1 H1"
+_cell_length_a       4.883035186047139
+_cell_length_b       4.881435988089455
+_cell_length_c       4.88398551940918
+_cell_angle_alpha    90.01254273197478
+_cell_angle_beta     89.99796027785979
+_cell_angle_gamma    90.0121329200057
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.09520919549836919  0.8981760150186  0.7889951473285449  1.0000
+  Gd  Gd2       1.0  0.5952060816349708  0.397965431655955  0.7889775030150769  1.0000
+  Gd  Gd3       1.0  0.5951761014820364  0.8979846840156744  0.2890817227896327  1.0000
+  Hg  Hg1       1.0  0.09537621575795405  0.39815837079230343  0.28923851198037  1.0000
+  H   H1        1.0  0.594944298295791  0.8980300436210876  0.7885999685075716  1.0000

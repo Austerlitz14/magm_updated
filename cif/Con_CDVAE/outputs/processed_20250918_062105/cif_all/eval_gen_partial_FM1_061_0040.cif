@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_RbMg2Ge2Te7Au3(SeCl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39274693
+_cell_length_b   7.59165573
+_cell_length_c   11.20005035
+_cell_angle_alpha   93.61255646
+_cell_angle_beta   91.05712891
+_cell_angle_gamma   91.79726410
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbMg2Ge2Te7Au3(SeCl)2
+_chemical_formula_sum   'Rb1 Mg2 Ge2 Te7 Au3 Se2 Cl2'
+_cell_volume   457.29655623
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.20012289  0.91315353  0.23671880  1
+  Te  Te1  1  0.20133103  0.46493447  0.00162254  1
+  Ge  Ge2  1  0.19190875  0.56574541  0.68011248  1
+  Te  Te3  1  0.69723654  0.41266951  0.24120706  1
+  Te  Te4  1  0.71449029  0.95363814  0.97679108  1
+  Rb  Rb5  1  0.70049882  0.99964231  0.47674507  1
+  Mg  Mg6  1  0.70446301  0.35004738  0.99020541  1
+  Mg  Mg7  1  0.20667610  0.89359635  0.97374803  1
+  Ge  Ge8  1  0.19731490  0.55136585  0.24615067  1
+  Te  Te9  1  0.69504541  0.43494725  0.73705310  1
+  Te  Te10  1  0.19817507  0.92637473  0.72089118  1
+  Te  Te11  1  0.19655082  0.43242690  0.48526323  1
+  Se  Se12  1  0.73740876  0.25941312  0.47040454  1
+  Cl  Cl13  1  0.72964358  0.75571811  0.96688616  1
+  Au  Au14  1  0.72784692  0.75770634  0.46371010  1
+  Au  Au15  1  0.73795104  0.26156715  0.96795154  1
+  Cl  Cl16  1  0.23616304  0.26218191  0.96680641  1
+  Se  Se17  1  0.22914152  0.75892764  0.46874866  1
+  Au  Au18  1  0.23752360  0.26306877  0.46664193  1

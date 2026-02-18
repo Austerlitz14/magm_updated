@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmMgCdNiBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57352018
+_cell_length_b   5.53179550
+_cell_length_c   6.71825600
+_cell_angle_alpha   109.89768982
+_cell_angle_beta   106.81598663
+_cell_angle_gamma   105.24359131
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmMgCdNiBi2
+_chemical_formula_sum   'Sm2 Mg2 Cd2 Ni2 Bi4'
+_cell_volume   170.75338812
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.52596134  0.63675535  0.97371048  1
+  Bi  Bi1  1  0.21656035  0.83111745  0.47236329  1
+  Bi  Bi2  1  0.52452660  0.33505052  0.28803682  1
+  Cd  Cd3  1  0.02205245  0.22942889  0.38387847  1
+  Bi  Bi4  1  0.83202118  0.14107183  0.78741693  1
+  Cd  Cd5  1  0.03895433  0.74509615  0.88459015  1
+  Sm  Sm6  1  0.44595188  0.34862521  0.09228377  1
+  Ni  Ni7  1  0.82959586  0.94848484  0.79519844  1
+  Mg  Mg8  1  0.37971386  0.80415493  0.68622559  1
+  Sm  Sm9  1  0.92729664  0.86394769  0.26477316  1
+  Mg  Mg10  1  0.98266023  0.40498176  0.68378383  1
+  Ni  Ni11  1  0.53025681  0.25169298  0.56242913  1

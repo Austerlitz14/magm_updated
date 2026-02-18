@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_YbPmTa2GePt(SeBr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13535643
+_cell_length_b   5.48574448
+_cell_length_c   7.53983498
+_cell_angle_alpha   90.92151642
+_cell_angle_beta   89.80454254
+_cell_angle_gamma   88.97415924
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbPmTa2GePt(SeBr)2
+_chemical_formula_sum   'Yb1 Pm1 Ta2 Ge1 Pt1 Se2 Br2'
+_cell_volume   170.99428751
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.30757564  0.72089237  0.94545799  1
+  Ta  Ta1  1  0.30883804  0.24407052  0.90334159  1
+  Br  Br2  1  0.31499359  0.63334149  0.47580358  1
+  Br  Br3  1  0.80707121  0.21242021  0.15499347  1
+  Se  Se4  1  0.80868769  0.11421715  0.68377757  1
+  Ta  Ta5  1  0.80143833  0.59316146  0.72899026  1
+  Yb  Yb6  1  0.36551949  0.34279490  0.09387088  1
+  Pm  Pm7  1  0.86986017  0.82851189  0.59302914  1
+  Ge  Ge8  1  0.11470731  0.08765703  0.83669275  1
+  Pt  Pt9  1  0.61770433  0.58326787  0.33998561  1

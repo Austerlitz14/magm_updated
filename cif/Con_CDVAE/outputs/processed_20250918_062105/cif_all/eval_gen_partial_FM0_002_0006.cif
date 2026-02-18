@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Rb2NaAcLaEu2Mg2ScBeTl2Fe2SiNi2HgSbN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.56896901
+_cell_length_b   5.67572832
+_cell_length_c   6.40948486
+_cell_angle_alpha   91.83692169
+_cell_angle_beta   90.69073486
+_cell_angle_gamma   92.64938354
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2NaAcLaEu2Mg2ScBeTl2Fe2SiNi2HgSbN
+_chemical_formula_sum
+'Rb2 Na1 La1 Ac1 Eu2 Mg2 Sc1 Be1 Tl2 Fe2 Si1 Ni2 Hg1 Sb1 N1'
+_cell_volume   129.61637706
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.15234569  0.84786820  0.65244460  1
+  Fe  Fe1  1  0.15600830  0.39081326  0.65089154  1
+  Mg  Mg2  1  0.64679617  0.61786038  0.90839481  1
+  Mg  Mg3  1  0.65364784  0.61842197  0.39456460  1
+  Si  Si4  1  0.65024066  0.11689118  0.65104258  1
+  La  La5  1  0.15434375  0.12189689  0.14744964  1
+  Sb  Sb6  1  0.29786620  0.19005048  0.99623013  1
+  Be  Be7  1  0.29956040  0.45674124  0.71335644  1
+  Eu  Eu8  1  0.80154628  0.76669508  0.88486600  1
+  Eu  Eu9  1  0.30311176  0.78995562  0.38179564  1
+  N  N10  1  0.79770237  0.78389615  0.38573930  1
+  Na  Na11  1  0.80408692  0.28500479  0.38445938  1
+  Sc  Sc12  1  0.59028405  0.05959601  0.07032914  1
+  Hg  Hg13  1  0.08857131  0.56115872  0.57526779  1
+  Tl  Tl14  1  0.17384735  0.68759847  0.19316411  1
+  Ni  Ni15  1  0.58465868  0.77173138  0.37594467  1
+  Rb  Rb16  1  0.88707489  0.55734003  0.72565204  1
+  Rb  Rb17  1  0.70148218  0.17882714  0.15082181  1
+  Ni  Ni18  1  0.98643881  0.96252537  0.51008117  1
+  Tl  Tl19  1  0.39955863  0.05162100  0.68847466  1
+  Ac  Ac20  1  0.75669205  0.89852226  0.31447649  1

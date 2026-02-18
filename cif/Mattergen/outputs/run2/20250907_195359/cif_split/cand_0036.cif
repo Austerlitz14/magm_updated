@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       FeRhAs2FeAsRh2Fe
+_chemical_formula_sum              "Fe3 Rh3 As3"
+_cell_length_a       3.6510197759209593
+_cell_length_b       6.420356335304802
+_cell_length_c       6.420838832855225
+_cell_angle_alpha    120.03723974704577
+_cell_angle_beta     89.97183480322808
+_cell_angle_gamma    90.00900469307908
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.7335988880847566  0.15498864695873577  0.507846593456601  1.0000
+  Rh  Rh1       1.0  0.23356390029480445  0.7520906325761019  0.2459459747664813  1.0000
+  As  As1       1.0  0.23364335186491594  0.08457591460050573  0.17418855415069887  1.0000
+  As  As2       1.0  0.23364812256125625  0.418661742612465  0.8414198153608077  1.0000
+  Fe  Fe2       1.0  0.7336029419379181  0.7525475617728062  0.9114872818340776  1.0000
+  As  As3       1.0  0.7337837806057904  0.7515568732230502  0.5077072387023083  1.0000
+  Rh  Rh2       1.0  0.2338987900230498  0.013867223404989259  0.7694502480618859  1.0000
+  Rh  Rh3       1.0  0.2341282820402003  0.4895785749291518  0.5080649261055904  1.0000
+  Fe  Fe3       1.0  0.733524500385478  0.3486699757482669  0.1046914760633731  1.0000

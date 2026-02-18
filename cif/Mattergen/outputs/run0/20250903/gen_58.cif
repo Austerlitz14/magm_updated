@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Co5Mo
+_chemical_formula_sum              "Co5 Mo1"
+_cell_length_a       4.62144
+_cell_length_b       4.61827
+_cell_length_c       4.61939
+_cell_angle_alpha    60.0656
+_cell_angle_beta     60.0887
+_cell_angle_gamma    60.0468
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.51256  0.34734  0.61079  1.0000
+  Co  Co2       1.0  0.01198  0.84799  0.61064  1.0000
+  Co  Co3       1.0  0.51258  0.84798  0.61068  1.0000
+  Co  Co4       1.0  0.51246  0.84799  0.11010  1.0000
+  Co  Co5       1.0  0.88782  0.22313  0.98564  1.0000
+  Mo  Mo1       1.0  0.13742  0.47286  0.23525  1.0000

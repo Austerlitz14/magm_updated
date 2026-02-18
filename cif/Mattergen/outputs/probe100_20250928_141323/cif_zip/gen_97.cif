@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FeNiFe2H3Ni
+_chemical_formula_sum              "Fe3 Ni2 H3"
+_cell_length_a       2.5328667982014075
+_cell_length_b       4.202507732095086
+_cell_length_c       6.433470249176025
+_cell_angle_alpha    107.78271483452832
+_cell_angle_beta     101.33158087680637
+_cell_angle_gamma    90.01174321689483
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.4550822079181671  0.4183591902256012  0.6751887202262878  1.0000
+  Ni  Ni1       1.0  0.6578351855278015  0.6208357214927673  0.08107422292232513  1.0000
+  Fe  Fe2       1.0  0.34744369983673096  0.8002960085868834  0.4593355059623718  1.0000
+  Fe  Fe3       1.0  0.05715113505721092  0.02069716528058052  0.8808059096336365  1.0000
+  H   H1        1.0  0.05762610584497452  0.5904136300086975  0.8807990550994873  1.0000
+  H   H2        1.0  0.9055401086807251  0.10152731090784071  0.5746285319328308  1.0000
+  H   H3        1.0  0.21265923976898193  0.41140520572662354  0.19208212196826935  1.0000
+  Ni  Ni2       1.0  0.7670380473136902  0.22206538915634155  0.2991264760494232  1.0000

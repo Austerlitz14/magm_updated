@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       ZrFeZr2Fe8
+_chemical_formula_sum              "Zr3 Fe9"
+_cell_length_a       4.92544
+_cell_length_b       4.92437
+_cell_length_c       8.44161
+_cell_angle_alpha    73.0331
+_cell_angle_beta     73.0325
+_cell_angle_gamma    59.9928
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.29416  0.05939  0.93632  1.0000
+  Fe  Fe1       1.0  0.07177  0.33379  0.61009  1.0000
+  Zr  Zr2       1.0  0.01144  0.77684  0.78443  1.0000
+  Zr  Zr3       1.0  0.15296  0.91814  0.36049  1.0000
+  Fe  Fe2       1.0  0.56848  0.83702  0.61011  1.0000
+  Fe  Fe3       1.0  0.23401  0.50252  0.11109  1.0000
+  Fe  Fe4       1.0  0.56863  0.33388  0.61000  1.0000
+  Fe  Fe5       1.0  0.73731  0.50210  0.11106  1.0000
+  Fe  Fe6       1.0  0.73679  0.99922  0.11089  1.0000
+  Fe  Fe7       1.0  0.82019  0.58478  0.35945  1.0000
+  Fe  Fe8       1.0  0.48554  0.25154  0.36106  1.0000
+  Fe  Fe9       1.0  0.65285  0.41814  0.86081  1.0000

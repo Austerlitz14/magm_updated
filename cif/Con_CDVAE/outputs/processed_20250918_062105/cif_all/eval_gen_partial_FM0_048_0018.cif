@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KRb2NaNd2Mg4Ga2Ru2CI2N3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89251089
+_cell_length_b   5.86131430
+_cell_length_c   7.43265390
+_cell_angle_alpha   89.35083008
+_cell_angle_beta   87.45426178
+_cell_angle_gamma   89.17378235
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRb2NaNd2Mg4Ga2Ru2CI2N3
+_chemical_formula_sum   'Rb2 K1 Na1 Nd2 Mg4 Ga2 Ru2 C1 I2 N3'
+_cell_volume   212.89814319
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.24460635  0.45401272  0.52019608  1
+  Mg  Mg1  1  0.74735022  0.45574427  0.75877506  1
+  Mg  Mg2  1  0.74372655  0.70876062  0.37974301  1
+  Nd  Nd3  1  0.24218556  0.46131629  0.07058080  1
+  Nd  Nd4  1  0.24191134  0.95752668  0.68875498  1
+  Mg  Mg5  1  0.74598867  0.96003622  0.00153743  1
+  Ga  Ga6  1  0.24636331  0.96202916  0.23287699  1
+  Mg  Mg7  1  0.74220872  0.20807794  0.37668657  1
+  Rb  Rb8  1  0.97649950  0.48388377  0.68700707  1
+  Rb  Rb9  1  0.47576737  0.15400030  0.88432533  1
+  Ru  Ru10  1  0.72356343  0.13060425  0.39995512  1
+  I  I11  1  0.46756715  0.66776639  0.92882431  1
+  I  I12  1  0.96606040  0.35490653  0.18836750  1
+  C  C13  1  0.97849095  0.97550464  0.56738365  1
+  N  N14  1  0.45962161  0.27743810  0.51377696  1
+  Na  Na15  1  0.97473836  0.85074478  0.07619512  1
+  N  N16  1  0.98186910  0.98836148  0.74625528  1
+  N  N17  1  0.97171313  0.88970876  0.41780525  1
+  Ru  Ru18  1  0.21684106  0.12230285  0.38871589  1
+  K  K19  1  0.47989222  0.66483331  0.40409654  1

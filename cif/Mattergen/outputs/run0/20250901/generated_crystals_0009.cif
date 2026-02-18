@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Eu5Tl2EuPtN
+_chemical_formula_sum              "Eu6 Tl2 Pt1 N1"
+_cell_length_a       7.63463
+_cell_length_b       7.63014
+_cell_length_c       7.63934
+_cell_angle_alpha    119.934
+_cell_angle_beta     119.953
+_cell_angle_gamma    90.0352
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.70653  0.69221  0.70431  1.0000
+  Eu  Eu2       1.0  0.70656  0.15856  0.70431  1.0000
+  Eu  Eu3       1.0  0.17305  0.15869  0.70428  1.0000
+  Eu  Eu4       1.0  0.70670  0.69237  0.23835  1.0000
+  Eu  Eu5       1.0  0.17297  0.15850  0.17034  1.0000
+  Tl  Tl1       1.0  0.19009  0.67539  0.20448  1.0000
+  Tl  Tl2       1.0  0.68980  0.17557  0.20450  1.0000
+  Eu  Eu6       1.0  0.17307  0.69217  0.70430  1.0000
+  Pt  Pt1       1.0  0.43990  0.42534  0.70433  1.0000
+  N   N1        1.0  0.94005  0.92551  0.70457  1.0000

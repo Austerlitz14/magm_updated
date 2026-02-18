@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       EuMgEuMgEuPd2MgPd
+_chemical_formula_sum              "Eu3 Mg3 Pd3"
+_cell_length_a       4.308890342916431
+_cell_length_b       7.574861163443593
+_cell_length_c       7.5764055252075195
+_cell_angle_alpha    119.9485034098357
+_cell_angle_beta     89.99944242893466
+_cell_angle_gamma    90.01443469340374
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.18896780908107758  0.8027400970458983  0.5360866785049438  1.0000
+  Mg  Mg1       1.0  0.6889857053756714  0.3876999318599701  0.29470857977867126  1.0000
+  Eu  Eu2       1.0  0.18897630274295807  0.9724801778793335  0.12063784897327419  1.0000
+  Mg  Mg2       1.0  0.6888732314109802  0.6288589835166931  0.7775321006774903  1.0000
+  Eu  Eu3       1.0  0.18886324763298035  0.3875051736831665  0.951503098011017  1.0000
+  Pd  Pd1       1.0  0.6891235709190369  0.05404093116521835  0.8695839643478395  1.0000
+  Pd  Pd2       1.0  0.6889646053314209  0.7211013436317444  0.20294904708862302  1.0000
+  Mg  Mg3       1.0  0.688948929309845  0.14602403342723846  0.5363494753837585  1.0000
+  Pd  Pd3       1.0  0.1891099512577057  0.3870702087879181  0.5359290242195129  1.0000

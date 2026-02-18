@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Na2La4Mg2Tl2HgPbC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39370203
+_cell_length_b   5.47039461
+_cell_length_c   5.66168165
+_cell_angle_alpha   86.39635468
+_cell_angle_beta   72.80776978
+_cell_angle_gamma   73.44759369
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2La4Mg2Tl2HgPbC
+_chemical_formula_sum   'Na2 La4 Mg2 Tl2 Hg1 Pb1 C1'
+_cell_volume   152.93264772
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33042818  0.04450820  0.83256155  1
+  Pb  Pb1  1  0.66515523  0.07442115  0.20747533  1
+  Na  Na2  1  0.07796580  0.58661020  0.40636986  1
+  Hg  Hg3  1  0.76584333  0.55015641  0.01944941  1
+  La  La4  1  0.51327944  0.98306531  0.92789853  1
+  La  La5  1  0.51067227  0.98179424  0.43308496  1
+  Mg  Mg6  1  0.51155686  0.48979133  0.43408132  1
+  Mg  Mg7  1  0.99211395  0.13430282  0.75354731  1
+  Tl  Tl8  1  0.50322151  0.47710043  0.92902827  1
+  Tl  Tl9  1  0.01029926  0.14285974  0.26207986  1
+  C  C10  1  0.74503714  0.81115508  0.59372842  1
+  La  La11  1  0.99857217  0.64107728  0.26265249  1
+  La  La12  1  0.99940896  0.63758099  0.75209004  1

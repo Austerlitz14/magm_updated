@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li2Ca5Mg2Nb3AlFe(Ni2Ir3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.04673862
+_cell_length_b   8.07212925
+_cell_length_c   8.03253937
+_cell_angle_alpha   64.82211304
+_cell_angle_beta   64.18178558
+_cell_angle_gamma   60.95548248
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Ca5Mg2Nb3AlFe(Ni2Ir3)2
+_chemical_formula_sum   'Li2 Ca5 Mg2 Nb3 Al1 Fe1 Ni4 Ir6'
+_cell_volume   395.13221600
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.02131337  0.22605103  0.63397837  1
+  Ca  Ca1  1  0.22114004  0.18382913  0.94127172  1
+  Ca  Ca2  1  0.69014335  0.70094323  0.40304959  1
+  Nb  Nb3  1  0.17905384  0.76607454  0.28772944  1
+  Ca  Ca4  1  0.70424068  0.85423756  0.85338324  1
+  Fe  Fe5  1  0.76057023  0.41390821  0.88987774  1
+  Ir  Ir6  1  0.24809816  0.01624716  0.38554671  1
+  Ir  Ir7  1  0.43716407  0.05124730  0.57314110  1
+  Al  Al8  1  0.39702779  0.40689731  0.52275044  1
+  Ir  Ir9  1  0.02069936  0.56801885  0.65006846  1
+  Nb  Nb10  1  0.49732101  0.23192817  0.15348741  1
+  Ir  Ir11  1  0.62184358  0.29502612  0.75055444  1
+  Ir  Ir12  1  0.52489561  0.54954368  0.15589705  1
+  Ir  Ir13  1  0.89479834  0.00732362  0.02492684  1
+  Ca  Ca14  1  0.81747961  0.16052024  0.36040369  1
+  Ca  Ca15  1  0.28264946  0.69741833  0.82050282  1
+  Mg  Mg16  1  0.21378429  0.26217556  0.52201396  1
+  Ni  Ni17  1  0.95706868  0.09219402  0.99212068  1
+  Li  Li18  1  0.70758003  0.92470461  0.45241722  1
+  Mg  Mg19  1  0.71195632  0.57268810  0.83363080  1
+  Ni  Ni20  1  0.71467674  0.38706058  0.30016726  1
+  Li  Li21  1  0.20967841  0.62862802  0.16357192  1
+  Ni  Ni22  1  0.46011397  0.09970362  0.99175370  1
+  Ni  Ni23  1  0.20531650  0.79164040  0.70019609  1

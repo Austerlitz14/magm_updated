@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Gd2Cd3Cu(TeS)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22566128
+_cell_length_b   6.26208210
+_cell_length_c   7.63031006
+_cell_angle_alpha   89.75146484
+_cell_angle_beta   88.66192627
+_cell_angle_gamma   101.36044312
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2Cd3Cu(TeS)4
+_chemical_formula_sum   'Gd2 Cd3 Cu1 Te4 S4'
+_cell_volume   197.89084710
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.65839577  0.86104804  0.69983751  1
+  Te  Te1  1  0.03162393  0.59827429  0.56698847  1
+  Cu  Cu2  1  0.41925547  0.37016678  0.44951084  1
+  Te  Te3  1  0.29166973  0.11914349  0.81463355  1
+  Cd  Cd4  1  0.17135857  0.87606841  0.19865225  1
+  Cd  Cd5  1  0.91305554  0.36507377  0.94768542  1
+  Te  Te6  1  0.80168486  0.13291995  0.33291829  1
+  Te  Te7  1  0.53445697  0.61100554  0.07978164  1
+  Gd  Gd8  1  0.95423925  0.89272267  0.98978788  1
+  Gd  Gd9  1  0.45286247  0.38990253  0.54159361  1
+  S  S10  1  0.95831162  0.89242405  0.63461393  1
+  S  S11  1  0.95028973  0.38501692  0.26796982  1
+  S  S12  1  0.45579734  0.39285284  0.90398276  1
+  S  S13  1  0.45799911  0.89292443  0.26940003  1

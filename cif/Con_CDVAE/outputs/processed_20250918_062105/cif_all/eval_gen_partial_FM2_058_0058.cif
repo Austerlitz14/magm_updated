@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_BaSrLi2Ca2La2MnV2Co(SO)8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63054657
+_cell_length_b   7.56410885
+_cell_length_c   7.59318924
+_cell_angle_alpha   112.36573792
+_cell_angle_beta   102.82383728
+_cell_angle_gamma   100.06088257
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrLi2Ca2La2MnV2Co(SO)8
+_chemical_formula_sum   'Ba1 Sr1 Li2 Ca2 La2 Mn1 V2 Co1 S8 O8'
+_cell_volume   378.51460410
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.49303085  0.47212031  0.20110437  1
+  La  La1  1  0.87012124  0.49936363  0.49728820  1
+  Sr  Sr2  1  0.26535478  0.99309391  0.11998552  1
+  S  S3  1  0.12534270  0.76753414  0.36165327  1
+  S  S4  1  0.12186880  0.26714250  0.36730665  1
+  S  S5  1  0.76728755  0.59717256  0.87951136  1
+  Ba  Ba6  1  0.50470269  0.74727881  0.61543083  1
+  S  S7  1  0.64401555  0.12839817  0.03886129  1
+  Ca  Ca8  1  0.77517402  0.87509215  0.24955800  1
+  S  S9  1  0.64276129  0.13578068  0.52629799  1
+  Ca  Ca10  1  0.00131011  0.37083834  0.00267553  1
+  S  S11  1  0.98865652  0.97826678  0.71870476  1
+  La  La12  1  0.37198851  0.24244058  0.74188173  1
+  S  S13  1  0.24596053  0.59327203  0.83469296  1
+  O  O14  1  0.66494709  0.25507846  0.12212504  1
+  V  V15  1  0.44782954  0.41470206  0.35697743  1
+  Li  Li16  1  0.88760579  0.07564408  0.88473940  1
+  Co  Co17  1  0.44077310  0.91913396  0.10689097  1
+  O  O18  1  0.23740192  0.59493196  0.59418666  1
+  O  O19  1  0.22912386  0.57075095  0.11463553  1
+  V  V20  1  0.44063681  0.42627248  0.86504340  1
+  O  O21  1  0.65740681  0.24111146  0.61205345  1
+  Li  Li22  1  0.95290887  0.44697049  0.34700513  1
+  O  O23  1  0.25144622  0.08149631  0.86759651  1
+  O  O24  1  0.62788916  0.72659761  0.35173997  1
+  O  O25  1  0.64255935  0.76228184  0.85429400  1
+  O  O26  1  0.25892043  0.10704760  0.36183688  1
+  Mn  Mn27  1  0.44203401  0.92289960  0.61297148  1

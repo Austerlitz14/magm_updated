@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_KSrLiLaCuAg3Se5S2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21952724
+_cell_length_b   4.80773830
+_cell_length_c   9.52366543
+_cell_angle_alpha   92.41291046
+_cell_angle_beta   92.06858063
+_cell_angle_gamma   99.60514832
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSrLiLaCuAg3Se5S2O7
+_chemical_formula_sum   'K1 Sr1 Li1 La1 Cu1 Ag3 Se5 S2 O7'
+_cell_volume   190.14093448
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.89099008  0.77688873  0.24164349  1
+  O  O1  1  0.59660274  0.57736892  0.23672307  1
+  O  O2  1  0.80936623  0.55788702  0.70149666  1
+  Li  Li3  1  0.15102410  0.84164059  0.73638886  1
+  K  K4  1  0.69308144  0.26996765  0.45337850  1
+  O  O5  1  0.94459033  0.95655870  0.12722439  1
+  O  O6  1  0.36461824  0.19738489  0.68785191  1
+  O  O7  1  0.05904813  0.89350879  0.36941156  1
+  Cu  Cu8  1  0.33482176  0.11955338  0.03467152  1
+  S  S9  1  0.55723023  0.42323750  0.79292631  1
+  O  O10  1  0.39673141  0.64190173  0.84836864  1
+  O  O11  1  0.68051815  0.28513515  0.91530550  1
+  Sr  Sr12  1  0.61620671  0.27914113  0.33743531  1
+  Se  Se13  1  0.71596664  0.48664939  0.93201315  1
+  Ag  Ag14  1  0.41770926  0.88308626  0.13529825  1
+  La  La15  1  0.81341064  0.68544388  0.54327881  1
+  Ag  Ag16  1  0.01098376  0.08416009  0.74023825  1
+  Ag  Ag17  1  0.21522753  0.47981584  0.94143015  1
+  Se  Se18  1  0.30608615  0.68848687  0.54380018  1
+  Se  Se19  1  0.11171829  0.28472856  0.34212649  1
+  Se  Se20  1  0.51505077  0.07900843  0.74759561  1
+  Se  Se21  1  0.91748464  0.87817705  0.13749605  1

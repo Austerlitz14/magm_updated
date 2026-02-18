@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Fe3PtCo2
+_chemical_formula_sum              "Fe3 Pt1 Co2"
+_cell_length_a       4.076646810921977
+_cell_length_b       4.0545644058465085
+_cell_length_c       4.984495162963867
+_cell_angle_alpha    114.04178182844709
+_cell_angle_beta     90.00313756123744
+_cell_angle_gamma    89.9850580509301
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.24489928781986237  0.24812373518943787  0.8574271202087403  1.0000
+  Fe  Fe2       1.0  0.7447360754013062  0.09232565760612488  0.5465831756591797  1.0000
+  Fe  Fe3       1.0  0.744651198387146  0.7493080496788025  0.859334707260132  1.0000
+  Pt  Pt1       1.0  0.24480417370796204  0.9225766658782959  0.2064992487430573  1.0000
+  Co  Co1       1.0  0.24467971920967102  0.6039495468139648  0.5683785080909729  1.0000
+  Co  Co2       1.0  0.7448946237564087  0.42089685797691345  0.20316550135612488  1.0000

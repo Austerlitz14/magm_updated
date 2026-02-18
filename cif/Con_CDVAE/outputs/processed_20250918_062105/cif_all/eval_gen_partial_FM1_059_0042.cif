@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Gd3BeAl3TlCu2P6Pt3S7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38231993
+_cell_length_b   5.38541794
+_cell_length_c   8.14535236
+_cell_angle_alpha   91.47268677
+_cell_angle_beta   89.23090363
+_cell_angle_gamma   90.18563843
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd3BeAl3TlCu2P6Pt3S7
+_chemical_formula_sum   'Gd3 Be1 Al3 Tl1 Cu2 P6 Pt3 S7'
+_cell_volume   192.15378524
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pt  Pt0  1  0.09573106  0.34267592  0.70470756  1
+  P  P1  1  0.20943828  0.00019133  0.47498268  1
+  P  P2  1  0.81911397  0.66810423  0.16242197  1
+  P  P3  1  0.82866997  0.30489507  0.13121392  1
+  P  P4  1  0.63880980  0.35988629  0.57943445  1
+  Gd  Gd5  1  0.35718316  0.97213727  0.10300570  1
+  Pt  Pt6  1  0.75960988  0.02981139  0.35534117  1
+  P  P7  1  0.92375231  0.68562353  0.90412134  1
+  Gd  Gd8  1  0.57237035  0.84691274  0.69309443  1
+  P  P9  1  0.97546089  0.06192125  0.89691436  1
+  Pt  Pt10  1  0.37485626  0.44932115  0.97778904  1
+  Gd  Gd11  1  0.23868914  0.50161195  0.36430392  1
+  S  S12  1  0.39881161  0.97358710  0.74972194  1
+  Cu  Cu13  1  0.26516819  0.85603195  0.13484663  1
+  Al  Al14  1  0.27455595  0.32938367  0.65396750  1
+  S  S15  1  0.38966388  0.47950816  0.26994789  1
+  S  S16  1  0.90222138  0.45226282  0.77588558  1
+  Tl  Tl17  1  0.90038180  0.93962151  0.77561247  1
+  Cu  Cu18  1  0.70436871  0.53279871  0.58432692  1
+  Al  Al19  1  0.77432197  0.32993144  0.14832932  1
+  S  S20  1  0.87221766  0.97918159  0.27373332  1
+  Be  Be21  1  0.57598603  0.90308505  0.45761275  1
+  Al  Al22  1  0.26799685  0.33298761  0.14843416  1
+  S  S23  1  0.90348089  0.45509210  0.26690084  1
+  S  S24  1  0.39405826  0.98461080  0.26913315  1
+  S  S25  1  0.38892329  0.45849866  0.77996737  1

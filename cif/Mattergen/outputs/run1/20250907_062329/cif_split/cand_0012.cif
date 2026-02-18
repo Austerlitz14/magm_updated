@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Gd2SIn
+_chemical_formula_sum              "Gd2 S1 In1"
+_cell_length_a       3.856415689392348
+_cell_length_b       3.8548309476642495
+_cell_length_c       8.277626991271973
+_cell_angle_alpha    76.77700903352232
+_cell_angle_beta     76.78316355747342
+_cell_angle_gamma    60.26381766879674
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.605858982464753  0.7916906485736372  0.35021966633130325  1.0000
+  Gd  Gd2       1.0  0.134963812148748  0.3212552056750057  0.7642132040713331  1.0000
+  S   S1        1.0  0.8705852020408892  0.05631410330576926  0.5569745902017776  1.0000
+  In  In1       1.0  0.3702514166150902  0.5558437122995922  0.057688224406502724  1.0000

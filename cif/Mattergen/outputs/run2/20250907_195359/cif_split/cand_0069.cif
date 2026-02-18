@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co8Rh
+_chemical_formula_sum              "Co8 Rh1"
+_cell_length_a       3.544510987577334
+_cell_length_b       5.604221182743161
+_cell_length_c       5.6071248054504395
+_cell_angle_alpha    84.31128814426319
+_cell_angle_beta     71.54912058806107
+_cell_angle_gamma    71.59091228829726
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.3494648039807884  0.7330691820189142  0.40821713258687475  1.0000
+  Co  Co2       1.0  0.004853950349704193  0.42147561900025354  0.4087236816823419  1.0000
+  Co  Co3       1.0  0.005232810527677022  0.07713788823921891  0.7526686189915046  1.0000
+  Co  Co4       1.0  0.3493174326084084  0.07736062185438765  0.06405353522409184  1.0000
+  Co  Co5       1.0  0.6769688139485305  0.7393174168665699  0.7467896939685393  1.0000
+  Co  Co6       1.0  0.3386640262005581  0.4155741626967712  0.7468104960729434  1.0000
+  Co  Co7       1.0  0.6770852210537233  0.4157111349278072  0.07024744075021115  1.0000
+  Co  Co8       1.0  0.015334429288681894  0.7392967339355634  0.07013376808325758  1.0000
+  Rh  Rh1       1.0  0.6771349325220775  0.07729165994494856  0.40837809412477727  1.0000

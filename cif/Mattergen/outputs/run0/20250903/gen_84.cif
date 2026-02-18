@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Gd4NGdNO2NGdON2
+_chemical_formula_sum              "Gd6 N5 O3"
+_cell_length_a       6.25073
+_cell_length_b       6.60395
+_cell_length_c       7.214
+_cell_angle_alpha    59.1995
+_cell_angle_beta     68.0621
+_cell_angle_gamma    61.3491
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.51285  0.53429  0.24689  1.0000
+  Gd  Gd2       1.0  0.15501  0.28318  0.21805  1.0000
+  Gd  Gd3       1.0  0.78594  0.88710  0.27865  1.0000
+  Gd  Gd4       1.0  0.39659  0.69978  0.69817  1.0000
+  N   N1        1.0  0.34268  0.32939  0.86129  1.0000
+  Gd  Gd5       1.0  0.04365  0.31361  0.74876  1.0000
+  N   N2        1.0  0.18328  0.73171  0.04902  1.0000
+  O   O1        1.0  0.78595  0.72388  0.64877  1.0000
+  O   O2        1.0  0.84635  0.26225  0.11087  1.0000
+  N   N3        1.0  0.00234  0.87139  0.92723  1.0000
+  Gd  Gd6       1.0  0.67649  0.07009  0.72064  1.0000
+  O   O3        1.0  0.39627  0.86913  0.32838  1.0000
+  N   N4        1.0  0.80369  0.39988  0.47582  1.0000
+  N   N5        1.0  0.38815  0.20599  0.48257  1.0000

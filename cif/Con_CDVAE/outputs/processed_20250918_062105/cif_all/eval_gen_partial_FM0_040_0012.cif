@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba2Ce2InRh2C5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.46217346
+_cell_length_b   5.43004322
+_cell_length_c   6.41953039
+_cell_angle_alpha   93.45990753
+_cell_angle_beta   89.72446442
+_cell_angle_gamma   91.30488586
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Ce2InRh2C5
+_chemical_formula_sum   'Ba2 Ce2 In1 Rh2 C5'
+_cell_volume   155.21920677
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.51219845  0.18213479  0.70028013  1
+  In  In1  1  0.00710255  0.18193288  0.95537466  1
+  Ba  Ba2  1  0.50906467  0.68017530  0.12912713  1
+  Ba  Ba3  1  0.00779953  0.67997485  0.62715620  1
+  C  C4  1  0.51631087  0.18099637  0.41656861  1
+  Rh  Rh5  1  0.01435359  0.18552737  0.36861300  1
+  C  C6  1  0.38216043  0.73607987  0.81887066  1
+  C  C7  1  0.88782322  0.24443708  0.31851611  1
+  Ce  Ce8  1  0.98400509  0.13629276  0.82021087  1
+  C  C9  1  0.07992554  0.03584320  0.31753474  1
+  Ce  Ce10  1  0.48913717  0.63934267  0.31647757  1
+  C  C11  1  0.58446270  0.53537071  0.82281435  1

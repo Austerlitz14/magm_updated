@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CsZr2U3GeRu(CS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.29182029
+_cell_length_b   5.30883121
+_cell_length_c   11.34399986
+_cell_angle_alpha   96.74720764
+_cell_angle_beta   89.30628204
+_cell_angle_gamma   109.76174927
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsZr2U3GeRu(CS2)2
+_chemical_formula_sum   'Cs1 Zr2 U3 Ge1 Ru1 C2 S4'
+_cell_volume   185.19621806
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.12459774  0.63435733  0.45002529  1
+  S  S1  1  0.43620950  0.24252640  0.66940677  1
+  Cs  Cs2  1  0.82301390  0.00069443  0.24601449  1
+  Zr  Zr3  1  0.71933520  0.79637772  0.61238569  1
+  S  S4  1  0.52083158  0.38627285  0.04729027  1
+  U  U5  1  0.02845942  0.41243517  0.86820376  1
+  S  S6  1  0.75617254  0.84418118  0.84234846  1
+  Zr  Zr7  1  0.98576868  0.10020563  0.29851532  1
+  U  U8  1  0.47723046  0.72316831  0.53488904  1
+  C  C9  1  0.97909814  0.58387917  0.27110067  1
+  Ru  Ru10  1  0.97811431  0.30599430  0.69289625  1
+  C  C11  1  0.48309022  0.22145194  0.53362030  1
+  U  U12  1  0.47870708  0.47417307  0.03073891  1
+  Ge  Ge13  1  0.98545200  0.90464395  0.88075209  1

@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_CaEuMg8Sc4TaTiBeNbTl2Zn2TcHgC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.88512754
+_cell_length_b   6.39535809
+_cell_length_c   6.57602072
+_cell_angle_alpha   112.87458038
+_cell_angle_beta   89.61576843
+_cell_angle_gamma   91.39128113
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaEuMg8Sc4TaTiBeNbTl2Zn2TcHgC2
+_chemical_formula_sum
+'Ca1 Eu1 Mg8 Sc4 Ta1 Ti1 Be1 Nb1 Tl2 Zn2 Tc1 Hg1 C2'
+_cell_volume   189.23539618
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.41397300  0.40791631  0.31158254  1
+  Mg  Mg1  1  0.41224372  0.40832782  0.80602753  1
+  Mg  Mg2  1  0.41298288  0.90536135  0.30408305  1
+  Mg  Mg3  1  0.91486847  0.07668547  0.13860124  1
+  Mg  Mg4  1  0.90408230  0.57506460  0.13529253  1
+  Mg  Mg5  1  0.91220498  0.57971668  0.64549106  1
+  Mg  Mg6  1  0.90719485  0.07731079  0.63995582  1
+  Mg  Mg7  1  0.40612757  0.90491223  0.80800176  1
+  Sc  Sc8  1  0.62269098  0.77014309  0.21477620  1
+  Zn  Zn9  1  0.70746756  0.35967371  0.39115545  1
+  Sc  Sc10  1  0.33790508  0.74053192  0.63488603  1
+  Sc  Sc11  1  0.33316842  0.21824327  0.63230801  1
+  Sc  Sc12  1  0.04929210  0.19557534  0.05742915  1
+  Zn  Zn13  1  0.95949841  0.60142100  0.88077235  1
+  C  C14  1  0.39696637  0.33845606  0.10073346  1
+  Ca  Ca15  1  0.89755869  0.84395552  0.10089365  1
+  Eu  Eu16  1  0.39185363  0.34037974  0.59599757  1
+  C  C17  1  0.88905948  0.84474367  0.59228659  1
+  Ta  Ta18  1  0.21819684  0.06250834  0.96672291  1
+  Nb  Nb19  1  0.46034580  0.32188943  0.21304464  1
+  Ti  Ti20  1  0.71072906  0.56947869  0.46563852  1
+  Hg  Hg21  1  0.97130114  0.81453472  0.70755458  1
+  Tl  Tl22  1  0.60743457  0.19928978  0.92020029  1
+  Tl  Tl23  1  0.10520598  0.86115271  0.24809191  1
+  Tc  Tc24  1  0.10305270  0.53211576  0.58713210  1
+  Be  Be25  1  0.60208225  0.52739024  0.58955926  1

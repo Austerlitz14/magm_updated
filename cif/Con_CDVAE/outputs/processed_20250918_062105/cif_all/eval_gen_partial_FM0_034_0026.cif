@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LaDyPu2Sn2GeAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63443995
+_cell_length_b   5.60285425
+_cell_length_c   7.53104162
+_cell_angle_alpha   90.36889648
+_cell_angle_beta   89.78722382
+_cell_angle_gamma   92.05422974
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaDyPu2Sn2GeAu
+_chemical_formula_sum   'La2 Dy2 Pu4 Sn4 Ge2 Au2'
+_cell_volume   237.58788858
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.97324049  0.03092751  0.41987953  1
+  La  La1  1  0.97177595  0.52919239  0.66998303  1
+  Sn  Sn2  1  0.97133106  0.02969407  0.91947943  1
+  Sn  Sn3  1  0.47336876  0.53415525  0.91970414  1
+  Dy  Dy4  1  0.97231060  0.53112143  0.17259978  1
+  La  La5  1  0.47657609  0.03044902  0.16718414  1
+  Sn  Sn6  1  0.47526118  0.52968824  0.42048109  1
+  Dy  Dy7  1  0.46906793  0.02739904  0.66502601  1
+  Ge  Ge8  1  0.97656488  0.85785931  0.81933045  1
+  Pu  Pu9  1  0.13709299  0.31200048  0.78695989  1
+  Pu  Pu10  1  0.79357815  0.16142823  0.36202875  1
+  Pu  Pu11  1  0.18447325  0.61440778  0.29192978  1
+  Pu  Pu12  1  0.52898341  0.76297367  0.71815455  1
+  Au  Au13  1  0.71407318  0.66697466  0.17474499  1
+  Ge  Ge14  1  0.33573273  0.06752797  0.26353878  1
+  Au  Au15  1  0.61405224  0.25707784  0.90484250  1

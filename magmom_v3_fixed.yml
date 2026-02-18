@@ -1,0 +1,23 @@
+name: magmom-ml-3
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - joblib
+  - pymatgen=2023.8.10
+  - matminer=0.8.0
+  - ase
+  - networkx
+  - tqdm
+  - rich
+  - lightgbm
+  - ruamel.yaml=0.17.21  
+  - pip
+  - pip:
+      - git+https://github.com/materialsproject/matbench.git

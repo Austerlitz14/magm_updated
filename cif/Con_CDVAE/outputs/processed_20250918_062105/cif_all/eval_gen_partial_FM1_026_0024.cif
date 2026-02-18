@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_BeNb4Tl2Cr2As(I4N3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.47624946
+_cell_length_b   5.66547775
+_cell_length_c   6.89471579
+_cell_angle_alpha   111.12590790
+_cell_angle_beta   103.29328156
+_cell_angle_gamma   89.63321686
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeNb4Tl2Cr2As(I4N3)2
+_chemical_formula_sum   'Be1 Nb4 Tl2 Cr2 As1 I8 N6'
+_cell_volume   122.83053269
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.25448483  0.82945424  0.77810931  1
+  N  N1  1  0.07551170  0.73085487  0.43937880  1
+  N  N2  1  0.75006950  0.08436912  0.78318596  1
+  Cr  Cr3  1  0.58353460  0.50052875  0.44784701  1
+  Nb  Nb4  1  0.91873711  0.16886424  0.12009721  1
+  Cr  Cr5  1  0.91831893  0.66432369  0.11151707  1
+  N  N6  1  0.41816038  0.42554298  0.12412331  1
+  Nb  Nb7  1  0.25824991  0.33284894  0.78774023  1
+  Nb  Nb8  1  0.57651079  0.99045748  0.43944401  1
+  N  N9  1  0.75419891  0.58561170  0.77941847  1
+  N  N10  1  0.08905464  0.26093906  0.45350605  1
+  N  N11  1  0.41432163  0.90432096  0.11164491  1
+  I  I12  1  0.83360422  0.85283822  0.20422465  1
+  I  I13  1  0.05976972  0.61521214  0.74901098  1
+  I  I14  1  0.18567894  0.34901536  0.29242426  1
+  I  I15  1  0.05363940  0.11612281  0.74213779  1
+  As  As16  1  0.00818453  0.35388499  0.55552554  1
+  I  I17  1  0.40487492  0.85708737  0.38833386  1
+  I  I18  1  0.51033580  0.59564704  0.95989764  1
+  Tl  Tl19  1  0.71635342  0.83789170  0.63782918  1
+  I  I20  1  0.51305544  0.07878569  0.97133094  1
+  I  I21  1  0.70718968  0.35132894  0.49063113  1
+  Be  Be22  1  0.56618059  0.84885836  0.13524047  1
+  Tl  Tl23  1  0.84492725  0.36888933  0.06169836  1

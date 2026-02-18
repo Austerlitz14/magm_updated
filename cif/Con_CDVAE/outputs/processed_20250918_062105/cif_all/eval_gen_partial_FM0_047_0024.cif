@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb4SmTiAlSn(GeC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05459547
+_cell_length_b   5.16518354
+_cell_length_c   5.08283281
+_cell_angle_alpha   89.22408295
+_cell_angle_beta   89.61295319
+_cell_angle_gamma   91.04127502
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb4SmTiAlSn(GeC)2
+_chemical_formula_sum   'Tb4 Sm1 Ti1 Al1 Sn1 Ge2 C2'
+_cell_volume   132.66482517
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.04290060  0.20211937  0.50249928  1
+  Tb  Tb1  1  0.04484506  0.70174360  0.99862766  1
+  Al  Al2  1  0.54579622  0.69679791  0.50125086  1
+  C  C3  1  0.05808026  0.69747537  0.49811798  1
+  C  C4  1  0.04748983  0.19718224  0.00322552  1
+  Tb  Tb5  1  0.54558718  0.19568503  0.99970382  1
+  Sm  Sm6  1  0.61095250  0.56669104  0.09106435  1
+  Ge  Ge7  1  0.70199674  0.02946785  0.92812574  1
+  Ge  Ge8  1  0.94401193  0.66240567  0.47075155  1
+  Ti  Ti9  1  0.32220033  0.84656060  0.70086086  1
+  Tb  Tb10  1  0.03279499  0.12821087  0.30710319  1
+  Sn  Sn11  1  0.33048970  0.34421691  0.69274628  1

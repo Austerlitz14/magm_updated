@@ -1,0 +1,42 @@
+data_La1Ni1O3
+_symmetry_space_group_name_H-M Pnma
+_cell_length_a 5.4969
+_cell_length_b 7.4851
+_cell_length_c 5.2471
+_cell_angle_alpha 90.0000
+_cell_angle_beta 90.0000
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 62
+_chemical_formula_structural LaNiO3
+_chemical_formula_sum 'La12 Ni14 O36'
+_cell_volume 215.4878
+_cell_formula_units_Z 12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  '-x, y+1/2, -z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, -y+1/2, -z+1/2'
+  5  'x, y, z'
+  6  'x-1/2, y, -z-1/2'
+  7  '-x-1/2, y-1/2, z-1/2'
+  8  'x, -y-1/2, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+La La0 8 0.0080 0.5073 0.2510 1
+La La1 4 0.2008 0.7500 0.0059 1
+Ni Ni2 8 0.2290 0.1660 0.9966 1
+Ni Ni3 4 0.0000 0.0000 0.5000 1
+O O4 8 0.0117 0.6637 0.2295 1
+O O5 8 0.1042 0.0702 0.0024 1
+O O6 8 0.2210 0.0997 0.4756 1
+O O7 8 0.2496 0.5881 0.5427 1
+O O8 4 0.0844 0.2500 0.3216 1
+

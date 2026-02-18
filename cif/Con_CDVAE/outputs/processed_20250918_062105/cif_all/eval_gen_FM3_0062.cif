@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CsScTiCdCo2Si3O12F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41151261
+_cell_length_b   3.48737645
+_cell_length_c   8.81698608
+_cell_angle_alpha   97.78562927
+_cell_angle_beta   99.37730408
+_cell_angle_gamma   104.45834351
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsScTiCdCo2Si3O12F
+_chemical_formula_sum   'Cs1 Sc1 Ti1 Cd1 Co2 Si3 O12 F1'
+_cell_volume   98.50004682
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.65802652  0.87944365  0.38048777  1
+  O  O1  1  0.52496946  0.32014671  0.15062214  1
+  O  O2  1  0.29382044  0.30856642  0.52715933  1
+  O  O3  1  0.93843246  0.77475023  0.65897000  1
+  Sc  Sc4  1  0.97464275  0.26431623  0.00158373  1
+  Co  Co5  1  0.17203760  0.75120044  0.42494047  1
+  Ti  Ti6  1  0.78389704  0.23439315  0.59456724  1
+  O  O7  1  0.28784618  0.78520137  0.96628153  1
+  Co  Co8  1  0.46301037  0.75834227  0.78554368  1
+  O  O9  1  0.01958005  0.81085616  0.17191893  1
+  O  O10  1  0.63866681  0.26699010  0.79793864  1
+  Si  Si11  1  0.53127331  0.84439248  0.18622729  1
+  Si  Si12  1  0.15078235  0.16737732  0.12968126  1
+  O  O13  1  0.89389384  0.39345008  0.68920803  1
+  Cs  Cs14  1  0.73765087  0.77313787  0.38984996  1
+  O  O15  1  0.30809861  0.19633584  0.37153599  1
+  Si  Si16  1  0.15652956  0.61471677  0.84103721  1
+  O  O17  1  0.35735741  0.77228260  0.72051269  1
+  O  O18  1  0.07949828  0.83173329  0.00759204  1
+  Cd  Cd19  1  0.49318862  0.23674969  0.71908790  1
+  F  F20  1  0.86050344  0.23551948  0.11411440  1
+  O  O21  1  0.29997125  0.39610830  0.99066061  1

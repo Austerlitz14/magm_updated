@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Fe2RuCo
+_chemical_formula_sum              "Fe2 Ru1 Co1"
+_cell_length_a       2.5586
+_cell_length_b       4.82577
+_cell_length_c       4.83774
+_cell_angle_alpha    116.208
+_cell_angle_beta     100.452
+_cell_angle_gamma    100.283
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.10814  0.84384  0.31544  1.0000
+  Fe  Fe2       1.0  0.10672  0.34325  0.81533  1.0000
+  Ru  Ru1       1.0  0.60705  0.84349  0.81531  1.0000
+  Co  Co1       1.0  0.60741  0.34350  0.31535  1.0000
