@@ -20,6 +20,7 @@ PRED_COLUMNS = [
     "predicted_mu_b",
     "uncertainty_mu_b",
     "confidence_score",
+    "risk_level",
     "model_version",
     "model_name",
 ]
@@ -217,6 +218,14 @@ def confidence_from_uncertainty(uncertainty: np.ndarray, baseline_mae: float) ->
     return 1.0 / (1.0 + (uncertainty / denom))
 
 
+def risk_level_from_confidence(conf: float) -> str:
+    if conf >= 0.7:
+        return "low"
+    if conf >= 0.4:
+        return "medium"
+    return "high"
+
+
 def main() -> None:
     args = parse_args()
     if args.batch_size <= 0:
@@ -319,6 +328,7 @@ def main() -> None:
                         "predicted_mu_b": float(p),
                         "uncertainty_mu_b": float(u),
                         "confidence_score": float(c),
+                        "risk_level": risk_level_from_confidence(float(c)),
                         "model_version": SCRIPT_VERSION,
                         "model_name": model_name,
                     }
