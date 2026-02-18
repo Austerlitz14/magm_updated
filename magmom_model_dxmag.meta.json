@@ -1,0 +1,77 @@
+{
+  "dxmag_csv": "DXMag_HeuslerDB_2025-09-09.csv",
+  "used_jarvis": false,
+  "raw_rows_total": 91697,
+  "raw_rows_by_source": {
+    "dxmag": 91697
+  },
+  "unique_formulas": 14580,
+  "mean_samples_per_formula": 6.289231824417009,
+  "train_rows": 11664,
+  "test_rows": 2916,
+  "train_mae": 0.03800239679131129,
+  "test_mae": 0.25174292069227294,
+  "test_r2": 0.842466546100049,
+  "cv": {
+    "cv_best_mae": 0.2617237911186942,
+    "cv_folds": 5,
+    "search_iters": 96
+  },
+  "best_params": {
+    "boosting_type": "gbdt",
+    "class_weight": null,
+    "colsample_bytree": 0.6,
+    "importance_type": "split",
+    "learning_rate": 0.02,
+    "max_depth": -1,
+    "min_child_samples": 5,
+    "min_child_weight": 0.001,
+    "min_split_gain": 0.0,
+    "n_estimators": 1200,
+    "n_jobs": -1,
+    "num_leaves": 127,
+    "objective": "regression",
+    "random_state": 101,
+    "reg_alpha": 0.001,
+    "reg_lambda": 0.0,
+    "subsample": 0.8,
+    "subsample_for_bin": 200000,
+    "subsample_freq": 0,
+    "verbosity": -1
+  },
+  "seed_runs": [
+    {
+      "seed": 101,
+      "train_mae": 0.03800239679131129,
+      "test_mae": 0.25174292069227294,
+      "test_r2": 0.842466546100049,
+      "cv_best_mae": 0.2617237911186942
+    },
+    {
+      "seed": 13,
+      "train_mae": 0.020761200317294875,
+      "test_mae": 0.25278710673933924,
+      "test_r2": 0.8403634291438324,
+      "cv_best_mae": 0.256625669141003
+    },
+    {
+      "seed": 42,
+      "train_mae": 0.018365735782065466,
+      "test_mae": 0.25852140332774365,
+      "test_r2": 0.8198992215234712,
+      "cv_best_mae": 0.25579638005089456
+    }
+  ],
+  "stability": {
+    "seeds": [
+      101,
+      13,
+      42
+    ],
+    "test_mae_mean": 0.2543504769197853,
+    "test_mae_std": 0.002979938640383431,
+    "test_r2_mean": 0.8342430655891175,
+    "test_r2_std": 0.010178905382131074,
+    "best_seed": 101
+  }
+}
