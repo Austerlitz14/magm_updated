@@ -34,5 +34,5 @@ gitGraph
    commit id: "55b8acd" tag: "clear_dxmag + Update_2.0 base"
    branch Update_2.0
    checkout Update_2.0
-   commit id: "Update_2.0" tag: "current work"
+   commit id: "3c1942d" tag: "Update_2.0 features"
 ```
