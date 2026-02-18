@@ -9,5 +9,6 @@ __pycache__/
 *.pyc
 *.log
 *.pkl
+!magmom_model_dxmag.pkl
 .DS_Store
 Thumbs.db
