@@ -3,6 +3,7 @@ import traceback
 from pathlib import Path
 from typing import Dict, List, Tuple
 
+import numpy as np
 import pandas as pd
 from pymatgen.core import Structure
 from pymatgen.io.cif import CifParser
@@ -212,15 +213,12 @@ def main() -> None:
     out_df.to_csv(args.out_csv, index=False)
 
     # Compact report for quick, human-friendly inspection.
-    src = (
-        out_df["file"]
-        .fillna("")
-        .astype(str)
-        .str.replace("\\\\", "/", regex=True)
-        .str.split("/")
-        .str[0]
-    )
-    out_df["source"] = src.replace("", "unknown")
+    normalized_path = out_df["full_path"].fillna("").astype(str).str.replace("\\\\", "/", regex=True)
+    split_path = normalized_path.str.split("/")
+    src = split_path.str[0]
+    has_subdir = split_path.str.len() > 1
+    out_df["source"] = np.where(has_subdir, src, "root")
+    out_df["source"] = out_df["source"].replace("", "unknown")
     compact = (
         out_df.groupby(["source", "error_category"], as_index=False)
         .agg(count=("error_category", "size"))
